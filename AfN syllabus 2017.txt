@@ -1,0 +1,80 @@
+Arduino for Neuroscientists (2017)
+NBHVGR7040_001_2017_3 - RESEARCH SKILLS FOR NEUROSCIENTISTS
+
+Instructors:
+Clay Lacefield, Ph.D.
+col8@cumc.columbia.edu
+
+Francisco X. Pena (TA)
+fxp2102@cumc.columbia.edu 
+
+Wes Gruber (sponsor)
+wg2135@cumc.columbia.edu 
+
+
+Time/location:
+Fridays, 3pm
+NYSPI Kolb Annex, 7th floor conference room
+
+Syllabus
+
+Oct. 13, 2017
+AfN#1: Introduction, Simple Input/Output
+- Open-source hardware and software
+- Why Arduino?
+- Anatomy of an Arduino, “Blink”
+- Simple Digital and Analog Inputs and Output
+- IR beam break detector
+- Open-Maze shields
+
+
+Oct. 20, 2017
+AfN#2: Advanced Input/Output, communication protocols
+- Sensor input
+- Communications protocols: serial, I2C, SPI
+- Analog output: PWM, tone()
+- Digital output
+- Relays
+- Transistors 
+- H-bridges
+- Solenoid valves
+- DC motors
+
+
+Oct. 27, 2017
+AfN#3: Motors, computer interface, data logging
+- Motors: 
+- DC motors
+- Position sensing
+- Servo motors 
+- Stepper motors
+- Data logging and plotting
+- SD card
+- Serial interface
+- String parsing and plotting (Python)
+- Internet protocols
+
+
+Nov. 3, 2017
+AfN#4: Advanced computer communication, behavioral setup demo
+- Webcams/video
+- Computer vision, motion tracking
+- Visual stimuli (PsychoPy)
+- Bar grating visual discrimination task
+- Behavioral setup demo
+- Freely moving operant box
+- Headfixed sensory operant
+- Headfixed treadmill/wheel
+
+
+
+(NOTE: no class Friday, Nov. 10)
+
+
+Nov. 17, 2017 
+AfN#5: Student presentations
+
+
+
+
+
