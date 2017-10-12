@@ -9,7 +9,8 @@ https://git-scm.com/
 
 Download and install locally on your computer.
 
-This software contains the git functions for tracking changes to added folders, syncing folders with github, and installs a simple linux-like command interface terminal (git bash).
+This software contains the git functions for tracking changes to added folders, syncing folders with github, 
+and installs a simple linux-like command interface terminal (git bash).
 
 
 2. open git bash
@@ -22,7 +23,10 @@ $ git config --global user.email johndoe@example.com
 
 3. in git bash, navigate to the folder where you want to put the AfN git folder
 
-NOTE: make a master folder (e.g. "ArduinoClass" or "ArduinoForNeuroscientists") using your normal file browser, e.g., where you will clone the AfN folder. This will be the folder where I will put new class content via github, which you can "git pull" to update your local copy. You will want to make another folder in this master folder for your own work, which we will not sync.
+NOTE: make a master folder (e.g. "ArduinoClass" or "ArduinoForNeuroscientists") using your normal file browser, 
+e.g., where you will clone the AfN folder. This will be the folder where I will put new class content via github, 
+which you can "git pull" to update your local copy. You will want to make another folder in this master folder for your own work, 
+which we will not sync.
 
 Use linux commands for navigating the directory tree, such as:
 
