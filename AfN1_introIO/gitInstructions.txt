@@ -1,0 +1,67 @@
+Arduino for Neuroscientists
+Instructions on installing and using git
+
+************
+
+1. install git
+
+https://git-scm.com/
+
+Download and install locally on your computer.
+
+This software contains the git functions for tracking changes to added folders, syncing folders with github, and installs a simple linux-like command interface terminal (git bash).
+
+
+2. open git bash
+
+This will open the terminal window.
+
+NOTE: when you first run this, you need to set some config info:
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+3. navigate to the folder where you want to put the AfN git folder
+
+NOTE: make a master folder (e.g. "ArduinoClass" or "ArduinoForNeuroscientists") where you will clone the AfN folder. This will be the folder where I will put new class content via github, which you can "git pull" to update your local copy. You will want to make another folder in this master folder for your own work, which we will not sync.
+
+Use linux commands for navigating the directory tree, such as:
+
+ls
+to list the files/folders in the current directory
+
+pwd
+to print the current directory path
+
+cd folderName
+to change current directory to specified subdirectory
+OR
+cd ..
+to go up one directory level
+OR
+cd folderPath
+to go to a directory by specifying the full file path
+
+
+4. git clone https://github.com/claylacefield/AfN.git
+
+This will create a folder called AfN in the current dir, your class master directory.
+This folder will contain subdirectories for the AfN classes.
+(do this first time only- we will subsequently pull any changes I make as the course progresses)
+
+
+5. So now, imagine that I have made changes, e.g. added a folder with the next week's class.
+
+Now just:
+(open git bash)
+(navigate to AfN folder)
+git pull origin master
+
+This should update the class content in the AfN folder.
+
+
+
+
+
+
+
+

@@ -1,0 +1,574 @@
+================================================================================
+                      SecureW2 Enterprise Client 3.x.x for Windows Release notes
+================================================================================
+
+Files
+================================================================================
+- SecureW2 TTLS Method 4.3.1 (sw2_ttls.dll)
+- SecureW2 GTC Method 1.2.0 (sw2_gtc.dll)
+- SecureW2 PEAP Method 1.2.1 (sw2_peap.dll)
+- SecureW2 Default Resource 1.0.0 (sw2_res_default.dll)
+- SecureW2 Dutch Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 English Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 French Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 German Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Japanese Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Polish Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Russian Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Simplified Chinese Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Slovenian Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Spanish Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Swedish Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Traditional Chinese Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 Turkish Resource 1.0.0 (sw2_lang.dll)
+- SecureW2 RSA proxy 1.0.0 (sw2_rsaproxy.exe)
+- SecureW2 Tray 1.0.0 (sw2_tray.exe)
+- SecureW2 Service 1.0.1 (sw2_service.exe)
+
+Known Issues
+================================================================================
+- SecureW2 Tray Icon is not refreshed when removed
+- Dialogs might loose focus in Windows 7
+- Install all certificates disabled in "Unknown Server" dialog for Vista
+- Icons in the "Unknown server" dialog in Windows XP are not shown 
+- Windows CE does not support configuration for inner RASEAP
+
+Change List
+================================================================================
+
+Version 3.5.12 GA2 - 25th of February 2014
+
+- Added fix for invalid detection of TAP Adapter (OpenVPN)
+- Added additional timer reset mechanism to detect if tray is not available
+
+Version 3.5.11 GA6 - 17th of December 2013
+
+- Added fix to resolve issue with Microsoft caching occuring in specific cases 
+of TLS session resumption
+- Added configuration items to control dialog timeout 
+
+Version 3.5.11 GA1 - 17th of September 2013
+
+- Credentials UI is now correctly stopped after 2 minute timeout
+- Optimized Installer
+
+Version 3.5.10 GA1 - 8th of August 2013
+
+- Added SSO support for Microsoft inner EAP methods
+
+Version 3.5.9 GA5 - 4th of March 2013
+
+- Switching between Manual and Softtoken will change customizable wording in UI
+- Added customizable help link that will open a document/URL
+- Added option to hide Unmask option
+- Fixed issue with machine authentication Windows 7/8
+
+Version 3.5.9 GA4 - 12th of January 2013
+
+- UI optimization
+
+Version 3.5.9 GA3 - 30th of november 2012
+
+- Workaround for issue with incorrect EAP packet ID
+
+Version 3.5.9 GA2 - 22nd of november 2012
+
+- Fixed issue with advanced pre-configuration
+
+Version 3.5.9 GA1 - 2nd of november 2012
+
+- Windows 8 support
+
+Version 3.5.8 GA3 - 17th of august 2012
+
+- Fixed issue with syscheck and multiple adapters
+
+Version 3.5.8 GA2 - 18th of april 2012
+
+- Fixed issue on 64 bit platform
+
+Version 3.5.8 GA1 - 9th of april 2012
+
+- Added option to disable "Network Location" dialog 
+                 
+Version 3.5.7 GA1 - 20th of january 2012
+                        
+- Fixed issue with syscheck, now works with proxy configuration
+- Added functionality to DisableWirelessOnWired to disable/enable adapters
+
+Version 3.5.6 RC1 - 8th of november 2011
+
+- Cached EAP-GTC credentials are now invalidated if authentication fails
+- Fixed issue on Windows XP SP3 with EAP-GTC dialogs 
+
+Version 3.5.5 GA2 - 27th of september 2011
+
+- Syscheck
+* Syscheck now also send organization name with requests
+* Updated Syscheck components to include checking of description
+* UpdateTimeout will now also be updated during periodic check
+* Fixed issue with syscheck configuration not being set if initial Online check
+  fails 
+* Fixed issue with syscheck not recognizing USB WLAN adapters
+
+Version 3.5.4 GA1 - 9th of september 2011
+
+- Fix for ForceSecureW2UserInterface
+
+Version 3.5.3 GA1 - 7th of august 2011
+
+- Installer now support a quiet mode using switches /Q /S on the command line
+- Syscheck Online now supports using labels per configuration setup
+- Implemented workaround for issue where wireless profiles are not created when
+  third party wifi clients and/or monitoring tools are installed
+- Pre-configuration now supports pushing non 802.1X configurations
+- Pre-configuration now supports 802.1x timer options (see AdminGuide)
+- Minor bug fixes
+
+Version 3.5.2 GA1 - 11th of april 2011
+
+- SecureW2 now supports a (pre-)configuration only installation
+- Syscheck Online supports updating the client configuration (updateTimeout)
+- Syscheck removes existing WLAN profile before installing new profile
+- Optimized installer
+- The installer now supports the switch /InstallLog to enable Installer logging
+- The installer is now fully silent, all errors dialogs are suppressed
+- Added more options to LAN pre-configuration
+- DisableWirelessOnWired now detects OpenVPN adapters
+- Fixed problem in computer authentication using UseUserCredentialsForComputer
+- Installer now reports if it cannot find any wireless adapters
+- Minor bug fixes
+
+Version 3.5.1 GA1 - 9th of january 2011
+
+- SecureW2 Client for native Microsoft PEAP released
+- Added support for RSA Softtoken on 64 bit platforms 
+- Small improvement in RSA Softtoken Next TokenCode
+- Optimized uninstaller
+- Minor bug fixes 
+
+Version 3.5.0 GA1 - 8th of november 2010
+
+- New functionality, SecureW2 SysCheck, released 
+- SecureW2 now supports Guest/Roaming profiles
+- RSA SecureId Softtoken certified
+
+Version 3.4.7 - 5th of august 2010
+
+- DisableWirelessOnWired now handles Hibernate/Sleep mode
+
+Version 3.4.6 - 27th of july 2010
+
+- Installer is now fully silent when required (No more commandprompt popups)
+
+Version 3.4.5 - 19th of july 2010
+
+- Updated DisableWirelessOnWired, improved detection of Wired Adapters
+- Minor bug fixes
+
+Version 3.4.3 - 29th june 2010
+
+- Fixed problem with LAN pre-configuration
+
+Version 3.4.2 - 23rd june 2010
+
+- Fixed problem in Microsoft 802.1X Client
+- Added pre-configuration support for Wired adapters     
+- Minor bug fixes in UI
+
+Version 3.4.0 - 8th june 2010
+
+- EAP Single Sign On supported
+- Inner EAPHost supported
+- Unmasking of password/responses
+- Users canceling authentication no longer creates error in event log
+- RSA SecureId Certified
+- RSA SecureId Softtoken intergration 
+
+Version 3.1.4 - 3 march 2010
+
+- Removing SecureW2 now correctly removes corresponding SSID's
+- GTC now support XML pre-configuration
+- SecureW2 now supports rebranding user interface
+- SecureW2 Service now detects Virtual/VPN adapters that register as Ethernet
+- Added Japanese language
+- Added option UseWindowsCredentials
+- Fixed problem when using XML pre-configuration and normal configuration UI
+
+Version 3.1.3 - 29 december 2009
+
+- Added command line option to disable the installer from creating a Windows 
+  uninstall entry, required for MSI wrapper
+- Fixed problem with tray not starting due to elevated privileges in MSI installer
+- HideDomain is now also supported in installation UI
+- Added option ForceSecureW2UserInterface option to pre-configuration
+
+Version 3.1.2 - 6 november 2009
+
+- Merged peer and authenticator implementations
+
+Version 3.1.1 - 29 october 2009
+
+- Bubblegum is now fully working with RSA SecureId protocols (TTLS/PEAP GTC)
+- Installation popups (command prompt) removed
+- Installation no longers shows error when installation service
+
+Version 3.1.0 - 14 october 2009
+
+- Added SecureW2 Tray containing "Bypass Balloon notification" functionality
+- Added SecureW2 Service containing "Disable Wireless on Wired" functionality
+- Added logging tab in configuration manager
+- Installation on Vista and Windows 7 no longer requires a reboot
+- Password information is now stored more securely
+- Installer supports cmd line switch to choose EAP methods for installation
+- Pre-configuration supports "AlwaysSaveUserCredentials" for pre-selecting 
+  "Save user credentials" option
+- Pre-configuration supports "HideDomain" to hide the domain field in the UI
+- Pre-configuration supports pre-configuring inner EAP methods using ConfigBlob
+- Pre-configuration supports pre-configuring GTC
+- Fixed problem with inner EAP when using XML pre-configuration
+- Catalan resource was not installed correctly
+- Fixed bug preventing plugin to run if resource dll was unavailable
+- Fixed bug preventing user data from inner EAP method to be saved correctly
+- Fixed bug preventing 802.1x pre-logon using computer credentials
+- Removed PEAP and TTLS managers from Windows start menu
+
+Version 3.0.0 - 17 july 2009
+
+- Launched new SecureW2 editions
+- Added option that deteremines wether or not to use Microsoft cached user data
+- Fixed incorrect handling of multiple ServerNames
+
+Version 2.0.6 - 8 july 2009
+
+- Fixed problem with Root CA List not displaying in "Add Root CA" on Vista
+- Profiles set by third party applications (WLAN API) no longer show up in Manager
+- SecureW2 now relies on Microsoft to decide when user credentials are no longer valid. 
+- Minor bug fixes
+
+Version 2.0.5 - 5 june 2009
+
+- Fixed problem with computer logon when using inner EAP-MSCHAPV2 (Microsoft)
+- Fixed problem in vista when using inner EAP methods (Microsoft)
+
+Version 2.0.4 - 28 may 2009
+
+- Fixed incorrect build
+
+Version 2.0.3 - 18 may 2009
+
+- Fixed problem with computer logon when using inner EAP
+- Added Catalan Language (thanks to Gerard Alcorlo Bofill)
+
+Version 2.0.2 - 23 april 2009
+
+- Changed switch option for silent install to /Q (was /S)
+- Silent install will now show License Agreement
+
+Version 2.0.1 - 23 april 2009
+
+- Fixed problem with wired and wireless service startup type in pre-configuration
+
+Version 2.0.0 - 22 april 2009
+
+- Binaries are released under the SecureW2 Personal and Educational License (PEL)
+- Fix to allow SecureW2 to work on Windows 7
+- Installer now support silent install using /S
+- Fixed problem where TTLS would fail against Juniper Steel belted
+- Fixed problem with built-in EAP-MD5
+- Configuration UI is now shown if configuration was set using 
+WlanSetProfile (XML)
+- EAP-GTC supports fixed passwords
+- Pre-configuration now supports disabling windows wired and wireless 
+configuration services
+- Added Italian Language (thanks to Paolo Emilio Mazzon)
+
+Version 1.1.3 - 16 januari 2009
+
+- Fixed dependency on Microsoft CRT
+- Fixed problem with pre-configuration under SP3 (Now using WLAN API instead of 
+old propriatary API)
+- Fixed bugs in inner eap mechanism
+- Fixed problem with inner eap mechanism when handling access-accept/reject
+- Added possibility of adding multiple SSID profiles for the same SSID 
+(available on Vista)
+- Added author id string required for EapHost framework
+- Script now quits correctly if installation fails
+- Script now removes dlls correctly if installation is cancelled or fails
+- Resized input fields in installation dialog to allow more text
+- UserAccount section in XML can now be used for inner eap methods
+- Added new logos
+
+Version 1.1.2 - 13 november 2008
+
+- Added support for up to 50 installable certificates (20 in windows ce)
+- Added support for up to 10 certificates in a certificate chain
+- Added support for up to 10k certificate file size
+- Added option to enable/disable Vista EapHost notifications
+- Fixed bug preventing TLS session resumption (Fast re-connect)
+- Fixed bug preventing using builtin Microsoft EAP methods
+- Fixed problem where username/password was reset after a failed connection
+- Fixed issue in PEAP implementation
+- TrustedRootCA option also works for Intermediate CA
+- Added configuration options to control computer and guest credentials
+- Added functionality for multiple ServerNames (seperated using semicolon)
+- Tested all methods against Microsoft IAS, Radiator, Freeradius and Cisco ACS
+
+Version 1.1.1 - 18th september 2008
+
+- Fixed problem with installer (incorrectly compiled runtime)
+- Minor bug fixes
+
+Version 1.1.0 - 5th september 2008
+
+- Added PEAPV0/V1 support
+- GTC tested with RSA Ace server
+- Added new external resource interface allowing third parties to override SW2
+  functionality
+- Combined common resources into one file sw2_res_default.dll
+- TLS implementation extracted into common library (to be used by PEAP and TTLS)
+- Added log levels to logging
+- Fixed pre-configuration for 64 bit
+- Added Simplified Chinese Language (thanks to Colin, Lai)
+- Added French Language (thanks to Frederic OSVALT)
+- Binaries are now signed
+- Profile ID's with "spaces" are now supported ("Eduroam WPA")
+- Specifying username in XML will cause the external resource to be ignored 
+  when gathering the users credentials
+
+Version 1.0.6 - 27 april 2008
+
+- Fixed problem when eaphost registry settings were incorrect
+- Fixed crash during installation if certain invalid configurations were used
+- Installer now removes previous registry entries installed by older version
+- EapHost registration on SP1 now uses extended EapHost method
+
+Version 1.0.5 - 26 march 2008
+
+- Fixed problem with incorrect compiler flags in x64 (see release 1.0.5)
+- Fixed problem in Windows Vista SP1 with dialogs appearing minimized
+
+Version 1.0.4 - 17 march 2008
+
+- Added workaround for Microsoft Crypto bug
+- Added Spanish Language (thanks to Nicolas Velazquez)
+- Fixed problem with incorrect compiler flags (due to service pack update)
+
+Version 1.0.3 - 21 februari 2008
+
+- Upped max. certificate size to 2048 bytes
+
+Version 1.0.2 - 19 februari 2008
+
+- Added Russian Language (thanks to Sergey V. Sokolov)
+- Added Turkish Language (thanks to Murat Özalp)
+
+Version 1.0.1 - 6 februari 2008
+
+- Rebuild binaries using latest service pack for visual studio
+- Removed password information from logfile
+
+Version 1.0.0 - 27 december 2007
+
+- Fixed problem with configuration window not appearing on "top" 
+
+Version 1.0.0 RC3 - 21 december 2007
+
+- EapHost implementation now allows EAP-Notification
+- SecureW2 GTC is not selected by default during installation
+- Updated swedish language
+
+Version 1.0.0 RC2_2 - 4 december 2007
+
+- Added 64 bit support
+- Small bug fixes 
+
+Version 1.0.0 RC1 - 30 november 2007
+
+- Fixed memory bug in GTC preventing second authentication
+- Changed language handling, one file for language one file for dialogs
+- Fixed drop down bug. Dropdown is now displayed correctly
+
+Version 1.0.0 BETA3 - 14 november 2007
+
+- Crypto initialization now correctly handles MS errors
+
+Version 1.0.0 BETA2 - 12 november 2007
+
+- Fixed bug in certificate checking
+
+Version 1.0.0 BETA1 - 7 november 2007
+
+- Changed name to Eap Suite
+- Added GTC support (1.0.0(5))
+- Improved memory handling using heap allocation
+- Redesign of source code, more modular approach to EAP methods
+- EapHost (Vista) and RASEAP (Windows 2K/XP/CE) support in one binary
+- SecureW2 Eap framework, SecureW2 uses it's own framework in which EAP methods 
+  can be "hung" that allow them to be used for both EapHost and RASEAP
+- SecureW2 manager is now used on both Vista and Windows 2K/XP
+- The manager can also be invoked standalone allowing quick profile configuration 
+- Added Traditional Chinese resource (thanks to Ko-Chung Tang (Kevin Tang)) 
+- Minor bug fixes
+
+Version 3.3.3 - 14 september 2007
+- Added Swedish resource (thanks to Pål Axelsson)
+
+Version 3.3.2 - 31 august 2007
+
+- Added language support for Uninstaller
+- Added option for pre-configuration to change the "Profile:" text in the 
+  installer user credentials popup
+- Fixed size of text fields in German resource
+- Added Polish resource (thanks to Tomasz Wolniewicz)
+- Fixed incorrect version shown in configuration interface
+
+Version 3.3.1 - 3 august 2007
+
+- Fixed bug in installer where Dutch would be selected as default language
+
+Version 3.3.0 - 2 august 2007
+
+- Fixed bug in enumeration of wireless devices during pre-configuration (Vista)
+
+Version 3.3.0 RC2 - 31 july 2007
+
+- Added check for wireless devices that are not ready (Vista)
+
+Version 3.3.0 RC1 - 25 july 2007
+
+- Fixed bug where if user provided a username "user@" would result in crash.
+- Added German language support (thanks to Jan-Marc Pilawa)
+
+Version 3.3.0 BETA4 - 23 july 2007
+
+- Improved certificate handling (previous version required installation of 
+  subordinate CA)
+- Minor bug fixes
+
+Version 3.3.0 BETA3 - 19 july 2007
+
+- Added support for ConnectionMode and ConnectionType to pre-configuration of 
+  XP SP2
+- Minor bug fixes
+
+Version 3.3.0 BETA2 - 17 july 2007
+
+- Fixed problems with alternate string rendering
+- Fixed problem with advanced option "Use empty identity"
+
+Version 3.3.0 BETA1 - 16 july 2007
+
+- Fixed problem with incorrect API calls on certain Windows CE devices
+- Fixed problem with error handling, causing invalid state
+- Moved "empty" outer identity (RFC 4282) to advanced options, default is 
+  option is now "anonymous" (as in previous versions)
+- Added option for restart of WLANSVC in pre-configuration, to workaround VPN 
+  client problem in Vista 
+- Removed GINA support 
+- Minor bug fixes
+
+Version 3.2.0 - 21 april 2007
+
+- Minor bug fixes
+
+Version 3.2.0 RC3 - 18 april 2007
+
+- Fixed incorrect handling of empty values in pre-configuration file
+- Fixed problem with focus in credentials dialog. Using GetForeGroundWindow() 
+  instead of handle provided by Vista which looses focus for some reason
+- If EncryptionType and AuthenticationMode are not defined it defaults to "open" 
+  and "WEP"
+- Added pre-configuration option to start the wlansvc and dot3svc in Vista 
+  (required for configuration of SSID), see SecureW2.inf example for more info
+- Added following pre-configuration options: NonBroadCast, ConnectionMode, 
+  AutoSwitch, see SecureW2.inf example for more info
+- Removed "Renew IP" option from Vista, resulted in COM error and option is not 
+  required under Vista
+
+Version 3.2.0 RC2 - 10 april 2007
+
+- Uninstall now removes registry keys used for tracing
+- Installer first installs SecureW2 TTLS Client before configuring SSID.
+  The new API used for pre-configuration checks if configured EAP ID is 
+  in fact present on the system.
+
+Version 3.2.0 RC1 - 3 april 2007
+
+- Fixed certificate installation issue via "Unknown Server" dialog in Vista
+- Fixed invalid pointer check
+- Using correct API for pre-configuration in Vista
+
+Version 3.2.0 BETA3 - 26 march 2007
+
+- Support for username privacy as specified in RFC 4282
+- Fixed error message if user selects "Cancel" during configuration
+- Fixed problem with configuration interface appearing "behind" other windows
+- Minor bug fixes (might have fixed hybernation problem)
+
+Version 3.2.0 BETA2 - 13 march 2007
+
+- Added pre-configuration support for Vista
+
+Version 3.2.0 BETA1 - 20 februari 2007
+
+- Improved language selection in SecureW2 installer
+- SecureW2 logging uses standard Windows trace functionality
+- Minor bug fixes
+
+Version 3.1.2 - 03 october 2005
+
+- Fixed Insecure Pre-Master Secret Generation Vulnerability by adding a better 
+random generator (Microsoft Enhanced CSP)
+
+Version 3.1.1 - 15 September 2005
+
+- Fixed bug preventing SecureW2 setting up connections with servers that do not 
+send a TLS session id
+
+Version 3.1.0 - 19 Augustus 2004
+
+- Improved credentials handling, if the internal authentication fails 
+  SecureW2 will prompt for new credentials
+
+Version 3.0.0 - 1 Februari 2004
+
+- SecureW2 has a better certificate configuration, can now configure multiple 
+CAs
+
+- Users can specify outer identity
+
+- Improved the way computer credentials can be configured
+
+- Added exra description string to installer that is displayed when prompting 
+for user credentials
+
+- "Prepared" code for Open Source
+
+Version 1.2.0 - 12th August 2004
+
+- SecureW2 can now handle self-signed certificates
+
+- Added multiple language support. Currently the languages Dutch and English are 
+available.
+
+Version 1.1 - 29th June 2004
+
+- Added "Save credentials" option to "SecureW2 Credentials" window
+
+- Added "Certificates" tab to configuration allowing better control of 
+  certificates:
+	- Validation of certificate based on Common Name
+	- Root CA can now be specified
+	- Enhanced Key Usage check is now optional
+	- Previously the server certificate had to be installed on the local machine, 
+	  this is now optional
+	- Users can not install new certificates ("connections") by default.
+	  This allows administrators to distribute a copy of SecureW2 that will only 
+          work in their network (by default)
+
+- Removed "temporary trust" option in the "SecureW2 Untrusted Server" window
+
+- Outer identity can now be specified.
+
+- Minor bug fixes

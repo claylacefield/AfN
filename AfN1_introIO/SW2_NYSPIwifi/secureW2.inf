@@ -1,0 +1,108 @@
+; 
+[Version] 
+Signature = "$Windows NT$" 
+Provider = "SecureW2" 
+Config = 7 
+
+; 
+; Global configuration 
+; 
+
+[WZCSVC] 
+Enable = AUTO 
+
+[GINA] 
+;UseSecureW2Gina = TRUE 
+;GinaDomainName = "securew2.com" 
+;GinaType = Novell 
+;UseGinaVLAN = TRUE 
+;GinaVLANIPAddress = 192.168.2.0 
+;GinaVLANSubnetMask = 255.255.255.0 
+
+[Certificates] 
+; 
+; Certificate chain 
+; Certificate.0 points server certificate, will be installed in local "MY" store 
+; Certificate.n points to a sub or root ca, will be installed in local "ROOT" store 
+; 
+;Certificate.0 = ext2.cer 
+;Certificate.1 = CA.der 
+
+; 
+; SSID configuration 
+; 
+[SSID.1] 
+Name = "Ithaca" 
+Profile = "Ithaca" 
+; WPA 
+;AuthenticationMode = "WPA" 
+;EncryptionType = "TKIP" 
+; WPA2/AES 
+ AuthenticationMode = "WPA2" 
+ EncryptionType = "AES" 
+; 
+; WEP 
+; 
+; AuthenticationMode = "open" 
+; EncryptionType = "WEP" 
+;
+;
+;
+[Profile.1]
+Name = "Ithaca"
+Description = "Enter the username and password of your serviceaccount:"
+;
+; Connection
+UseAlternateIdentity = TRUE
+UseAnonymousIdentity = FALSE
+AlternateOuterIdentity = anonymous
+EnableSessionResumption = TRUE
+;
+; Certificates
+VerifyServerCertificate = FALSE
+; (was on) SpecifyRootCA = TRUE
+; (was on) TrustedRootCA.0 = 3cdaba08113d934207b91d1c525683cc09bbc829
+; (was on) VerifyServerName = .tudelft.nl
+;
+; Authentication
+AuthenticationMethod = PAP
+;AuthenticationMethod = EAP 
+EAPType = 0
+;
+; User Account
+PromptUserForCredentials = FALSE
+UserName = PROMPTUSER
+;UserDomain = tudelft
+;
+; Advanced
+ServerCertificateOnLocalComputer = FALSE
+CheckForMicrosoftExtension = FALSE
+AllowNewConnections = TRUE
+RenewIPAddress = FALSE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
