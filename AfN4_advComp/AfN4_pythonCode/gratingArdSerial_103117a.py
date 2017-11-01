@@ -28,7 +28,7 @@ grating = visual.GratingStim(win=mywin, mask='none', size=50, pos=[0,0], sf=0.4)
 
 # session parameters
 txtFilename = '171103_mouseA1.txt'
-oriArr = [0 45 90 135 180 225 270 315]   # array of possible grating orientations
+oriArr = [0, 45, 90, 135, 180, 225, 270, 315]   # array of possible grating orientations
 
 
 
@@ -51,25 +51,27 @@ contrast = 0.5
 initTime = time.time()
 
 # open arduino serial port
-ard = serial.Serial('COM13', 9600, timeout=None)
+ardSer = serial.Serial('COM15', 9600, timeout=None)
 
 # open file for writing text data
 txtFile = open(txtFilename, 'w')
 print('opening ' + txtFilename + ' for writing')
 
+txtFile.write(txtFilename + '\n')
 
 # look for arduino serial data, and if trial start, draw the stimuli and update the window
 while True: #this creates a never-ending loop
     
-    ardData = ard.readline()
+    ardData = ardSer.readline()
     txtFile.write(ardData)
     print(ardData)
     
     
     if ((ardData.find("trialType="))!=-1):
+        startStim = 1
         trialTypeString = ardData[10]
         trialType = int(trialTypeString)
-        ori = ori + 30;
+        ori = oriArr[trialType] # ori + 30;
         grating.ori= ori
         contrast = randint(0,10)/10.0 #random.random()
         grating.contrast = contrast
@@ -83,7 +85,7 @@ while True: #this creates a never-ending loop
     
         n=n+1
         
-        txtFile.write("time=" + str(time.time()-initTime) + ", ori=" + str(ori) + ", contrast=" + str(contrast))
+        txtFile.write("time=" + str(time.time()-initTime) + ", ori=" + str(ori) + ", contrast=" + str(contrast) + '\n')
         print("time=" + str(time.time()-initTime) + ", ori=" + str(ori) + ", contrast=" + str(contrast)) # + ", x=" + str(xpos2) + ", y=" + str(ypos2))
 
     # for set number of frames, loop to advance grating phase
@@ -95,16 +97,22 @@ while True: #this creates a never-ending loop
         
         n=n+1
         
+    if startStim == 1:
+        mywin.flip(clearBuffer=True) # frame to gray
+        startStim = 0
     
     # when grating stim over, tell arduino
-    ard.write('1');  # note that only minimal information is sent to tell arduino to start looking for licks
+    ardSer.write('1');  # note that only minimal information is sent to tell arduino to start looking for licks
     
     ardData = "none"
-    mywin.flip(clearBuffer=True) # frame to gray
+    #mywin.flip(clearBuffer=True) # frame to gray
 
     if len(event.getKeys())>0: break    # break on keypress
     event.clearEvents()
 
 #cleanup
+txtFile.close()
+ardSer.close()
+print('Closing serial connection with arduino')
 mywin.close()
 core.quit()
