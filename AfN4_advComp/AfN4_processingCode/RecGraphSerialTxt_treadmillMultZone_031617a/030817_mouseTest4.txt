@@ -1,0 +1,94 @@
+030817_mouseTest4
+START time
+20:27
+treadmill_hiddenRewMult_030817a
+numRew=10
+rewWidth=300
+rewZoneOptTime=3000
+interLickInt=1000
+rewTimeout=500
+rewPos={0, 400, 800, 1200, 1600, 2000, 2400, 2800, 3200, 3600, }
+rewDur=500
+isButtonStart=0
+isOperant=1
+isVelRew=0
+velThresh=400.00
+END HEADER
+read tag, millis=1430
+starting track calibration
+read tag, millis=9853
+calibration complete
+track length=3962
+START SESSION, millis=9859
+vel=0.16, currPos=1, millis=13469
+reward OFF: 13469
+vel=137.25, currPos=8, millis=13519
+reward OFF: 13520
+vel=588.24, currPos=38, millis=13571
+reward OFF: 13572
+vel=411.76, currPos=59, millis=13622
+reward OFF: 13623
+vel=411.76, currPos=80, millis=13673
+reward OFF: 13673
+vel=960.00, currPos=128, millis=13724
+reward OFF: 13724
+vel=1490.20, currPos=204, millis=13774
+reward OFF: 13775
+vel=411.76, currPos=225, millis=13826
+reward OFF: 13826
+vel=333.33, currPos=242, millis=13877
+reward OFF: 13877
+vel=411.76, currPos=263, millis=13927
+reward OFF: 13928
+vel=921.57, currPos=310, millis=13978
+reward OFF: 13979
+vel=740.00, currPos=347, millis=14029
+reward OFF: 14029
+vel=470.59, currPos=371, millis=14080
+reward OFF: 14081
+vel=400.00, currPos=391, millis=14131
+reward OFF: 14132
+vel=538.46, currPos=419, millis=14182
+rewZone=1, millis=14182
+reward ON: 14183
+vel=607.84, currPos=450, millis=14232
+reward OFF: 14233
+vel=480.00, currPos=474, millis=14283
+reward OFF: 14284
+vel=470.59, currPos=498, millis=14334
+reward OFF: 14334
+vel=160.00, currPos=506, millis=14385
+reward OFF: 14385
+vel=19.23, currPos=507, millis=14436
+reward OFF: 14436
+vel=1.25, currPos=508, millis=15235
+reward OFF: 15235
+vel=365.38, currPos=527, millis=15286
+reward OFF: 15287
+vel=470.59, currPos=551, millis=15337
+reward OFF: 15337
+vel=1300.00, currPos=616, millis=15387
+reward OFF: 15388
+vel=1000.00, currPos=667, millis=15438
+reward OFF: 15439
+vel=960.00, currPos=715, millis=15490
+reward OFF: 15490
+vel=745.10, currPos=753, millis=15540
+reward OFF: 15541
+vel=673.08, currPos=788, millis=15591
+reward OFF: 15592
+vel=700.00, currPos=823, millis=15642
+rewZone=2, millis=15642
+reward ON: 15643
+vel=607.84, currPos=854, millis=15692
+reward OFF: 15693
+vel=411.76, currPos=875, millis=15744
+reward OFF: 15745
+vel=160.00, currPos=883, millis=15794
+reward OFF: 15795
+vel=76.92, currPos=887, millis=15845
+reward OFF: 15846
+vel=-0.28, currPos=886, millis=19384
+reward OFF: 19384
+vel=-19.61, currPos=885, millis=19434
+reward OFF: 19435
