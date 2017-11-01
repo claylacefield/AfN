@@ -17,21 +17,23 @@ import imutils
 import time
 import cv2
 
+import serial
+
 
 ## session variables
 
-ardCOM = 'COM13'
+ardCOM = 'COM15'
 shockX = 100
 shockY = 200
 
 ## construct the argument parser and parse the arguments (if any)
 ap = argparse.ArgumentParser()
 ap.add_argument("-v", "--video", help="path to the video file")
-ap.add_argument("-a", "--min-area", type=int, default=10000, help="minimum area size")
+ap.add_argument("-a", "--min-area", type=int, default=5000, help="minimum area size")
 args = vars(ap.parse_args())
 
 ## set up serial connection with arduino (change to COM# of your arduino)
-#ardSer = serial.Serial(ardCOM, 9600, timeout=None)
+ardSer = serial.Serial(ardCOM, 9600, timeout=None)
 
 ## if the video argument is None, then we are reading from webcam
 if args.get("video", None) is None:
@@ -44,6 +46,8 @@ else:
 
 # initialize the first frame in the video stream
 firstFrame = None
+
+startTime = time.time()
 
 ## loop over the frames of the video
 while True:
@@ -80,8 +84,10 @@ while True:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
         
         if x<shockX & y<shockY:
-            #ardSer.write('1')
-            print('Shock')
+            ardSer.write('1')
+            shockTime = time.time() - startTime
+            print('Shock, time=')
+            print(shockTime)
             text = "Shock"
         
     
@@ -102,3 +108,6 @@ while True:
 # clean up the camera and close any open windows
 camera.release()
 cv2.destroyAllWindows()
+
+ardSer.close()
+print('Closing serial connection with arduino')
