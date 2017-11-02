@@ -20,10 +20,10 @@ int choiceLevThresh = 50; // how long lever has to be lifted to signal a choice 
 int choiceLevThresh2 = 50;   // for unrewarded stim lever press
 
 int stimDur = 4000;  // duration of whisker stimulus (fast = 1500)
-int drinkDur = 3000; // time given for animal to drink reward water before stimulus ends (fast=1500)
+int drinkDur = 2000; // time given for animal to drink reward water before stimulus ends (fast=1500)
 
 int nostimTO = 6000; // nostim lever press punishment timeout
-int unrewTO = 6000;  // unrewarded stim lever press punishment timeout (8000)
+int unrewTO = 2000;  // unrewarded stim lever press punishment timeout (8000)
 
 int cueToneDur = 1000; 
 int cueToneFreq = 1000;  // frequency of reward cue tone with Tone library
@@ -46,14 +46,14 @@ int motorPin1 = 8;  // stepper control pins
 int motorPin2 = 6;    
 //int motorPin3 = 10; 
 //int motorPin4 = 11; 
-int hallSensPin = 1;  // analog pin for Hall effect sensor (for stim arm placement)
+int hallSensPin = 3;  // analog pin for Hall effect sensor (for stim arm placement)
 
-int leverPin = 10;    // define pin for mouse lever
-int leverPin2 = 2;    // define pin for exp lever
+int leverPin = 2;    // define pin for mouse lever
+int leverPin2 = 13;    // define pin for exp lever
 
-int lickPin = 11;
+int lickPin = 12;
 
-int linServoPin = 13;
+int linServoPin = 10;
 
 ////////////LIBRARIES
 // Initialize Truerandom random number generator library
@@ -71,14 +71,15 @@ int stepCW = -20;  // step size (50 = 1/4 rotation of arm)
 int stepCCW = 20;
 
 int hallSensVal = 500;   
-int hallThresh = 800;
+int hallThresh = 600;
 
 int oldPos = 0;
 int newPos = 0;
 
 //int posArr[4] = {0, 1, 2, 3};
-int rewPos1 = 0;
-int rewPos2 = 2;
+//int rewPos1 = 0;
+//int rewPos2 = 2;
+int rewPos = 0;
 
 int rotateStep = 0;
 int singleStep = 1;
@@ -154,9 +155,9 @@ void setup()
   pinMode(speakerOut, OUTPUT); // not sure if I have to declare this pin
   
   // stepper setup
-  stimStepper.setSpeed(80);  
+  stimStepper.setSpeed(60);  
   pinMode(enable1, OUTPUT);  // ENABLE pin for motor 1 (had forgotten these before)
-  
+  digitalWrite(enable1, LOW);
   // linear servo setup
   linServo.attach(linServoPin);
   linServo.write(linServoPos1);
@@ -245,7 +246,7 @@ void loop()          {           // run over and over again
       // if lick, is it correct or incorrect (based upon rewPos)
       if (choice == 1 || choice == 2)  {      // lickState == 1) {
       
-        if (newPos == rewPos1 || newPos == rewPos2) {
+        if (newPos == rewPos) { // || newPos == rewPos2) {
           reward();
         }
         else {
