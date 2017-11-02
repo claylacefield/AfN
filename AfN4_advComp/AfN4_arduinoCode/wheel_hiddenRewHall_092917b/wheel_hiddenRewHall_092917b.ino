@@ -69,27 +69,29 @@ ToDo:
 
 
 /// VARIABLES TO CHANGE EXPERIMENT PARAMS
-String programName = "wheel_hiddenRewHall_092117a";
+String programName = "wheel_hiddenRewHall_092917b";
 int rewBegPos = 100;
 int rewEndPos = 200;
-int rewDur = 500;
+int rewDur = 50;
 
-int isButtonStart = 0;
+int isButtonStart = 1;
 int isOperant = 0;
-int isVelRew = 0;
-float velThresh = 400;
+int isVelRew = 1;
+float velThresh = 70;
 int hallThresh = 450;
 
 int rotPosNeg = 1;  // direction of wheel rotation, 1=pos
 
-int syncDur = 50;
+int syncDur = 500;
 int syncIntv = 5000;
 
 // Other pins
 int lickPin = 49;
 int spkrPin = 47;
-int ledPin = 13;
-int syncPin = 12;
+int ledPin = 12;
+int syncPin = 13;
+int trigPin = 52;
+int syncPin2 = 53;
 
 int hallPin = 0; // analog pin for hall effect lap counter
 
@@ -100,6 +102,7 @@ int solPin2 = 4; //6;
 
 // times
 long startTime = 0;
+long endTime = 0;
 
 //
 int currPos = 51;
@@ -173,6 +176,8 @@ void setup()
   pinMode(solPin2, OUTPUT);
   pinMode(buttonPin1, INPUT_PULLUP);
   pinMode(syncPin, OUTPUT);
+  pinMode(trigPin, OUTPUT);
+  pinMode(syncPin2, OUTPUT);
   
   // Open serial communications
   Serial.begin(38400);
@@ -253,7 +258,9 @@ void loop() // run over and over
       checkButton();
     }
 
-    checkSyncState();
+    if (startSession == 1) {
+      checkSyncState();
+    }
 
 }  // end LOOP
 
@@ -263,11 +270,15 @@ void loop() // run over and over
 void checkSyncState() {
   if (prevSync == 1 && millis()-syncStartTime>=syncDur) {
     digitalWrite(syncPin, LOW);
+    digitalWrite(syncPin2, LOW);
     prevSync = 0;
   }
   else if (millis()- lastSyncTime >= syncIntv) {
     digitalWrite(syncPin, HIGH);
+    digitalWrite(syncPin2, HIGH);
     syncStartTime = millis();
+    Serial.print("syncOut, millis = ");
+    Serial.println(syncStartTime);
     lastSyncTime = syncStartTime;
     prevSync = 1;
   }
@@ -281,16 +292,23 @@ void checkButton() {
       if (startSession == 0) {
         startSession = 1;
         startTime = millis();
+        digitalWrite(trigPin, HIGH);
         Serial.print("START SESSION button, millis = ");
         Serial.println(startTime);
-        prevButtonTime = millis();
+        Serial.print("trigTime, millis=");
+        Serial.println(startTime);
+        prevButtonTime = startTime;
         
       }
       else {
         startSession = 0;
+        endTime = millis();
+        digitalWrite(trigPin, LOW);
+        digitalWrite(syncPin, LOW);
+        digitalWrite(syncPin2, LOW);
         Serial.print("END session button, millis=");
-        Serial.println(millis());
-        prevButtonTime = millis();
+        Serial.println(endTime);
+        prevButtonTime = endTime;
       }
     }
   }
@@ -473,8 +491,14 @@ void checkHall() {
 
         if (isButtonStart==0) { 
           startSession = 1;
+          startTime = millis();
+          digitalWrite(trigPin, HIGH);
           Serial.print("START SESSION, millis=");
-          Serial.println(millis());
+          Serial.println(startTime);
+          Serial.print("trigTime, millis=");
+          Serial.println(startTime);
+          
+          
         }  // end IF isButtonStart
       }  // end elseif isCalibrated
 

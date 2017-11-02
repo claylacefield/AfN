@@ -1,0 +1,4579 @@
+171027_mouseKdS1d
+START time
+23:40
+wheel_hiddenRewHall_092917b
+rewBegPos=100
+rewEndPos=200
+rewDur=50
+isButtonStart=1
+isOperant=0
+isVelRew=1
+velThresh=70.00
+END HEADER
+read tag, millis=17951
+starting track calibration
+read tag, millis=29331
+calibration complete
+track length=1023
+START SESSION button, millis = 37017
+trigTime, millis=37017
+syncOut, millis = 37017
+vel=0.91, currPos=146, millis=37181
+vel=39.22, currPos=148, millis=37231
+vel=-19.61, currPos=147, millis=37283
+vel=-60.00, currPos=144, millis=37334
+vel=-19.61, currPos=143, millis=37384
+vel=20.00, currPos=144, millis=37435
+vel=38.46, currPos=146, millis=37486
+vel=78.43, currPos=150, millis=37536
+REWARD, millis=37536
+vel=80.00, currPos=154, millis=37587
+vel=19.61, currPos=155, millis=37638
+vel=-20.00, currPos=154, millis=37689
+vel=-38.46, currPos=152, millis=37740
+vel=-19.61, currPos=151, millis=37791
+vel=11.24, currPos=152, millis=37880
+vel=-8.00, currPos=151, millis=38006
+vel=7.52, currPos=152, millis=38138
+vel=3.94, currPos=153, millis=38392
+vel=19.61, currPos=154, millis=38443
+vel=19.61, currPos=155, millis=38494
+vel=-14.49, currPos=154, millis=38564
+vel=-18.18, currPos=153, millis=38619
+vel=-6.90, currPos=152, millis=38764
+vel=-3.29, currPos=151, millis=39068
+vel=16.95, currPos=152, millis=39126
+vel=11.76, currPos=153, millis=39211
+vel=20.00, currPos=154, millis=39262
+vel=-6.90, currPos=153, millis=39407
+vel=-12.50, currPos=152, millis=39487
+vel=-5.24, currPos=151, millis=39679
+vel=17.54, currPos=152, millis=39735
+vel=19.23, currPos=153, millis=39786
+lick, millis=39809
+vel=60.00, currPos=156, millis=39837
+vel=39.22, currPos=158, millis=39888
+lick, millis=39909
+vel=39.22, currPos=160, millis=39939
+lick, millis=39993
+vel=13.70, currPos=161, millis=40012
+vel=20.00, currPos=162, millis=40062
+lick, millis=40097
+vel=-7.94, currPos=161, millis=40189
+lick, millis=40208
+vel=-8.55, currPos=160, millis=40306
+lick, millis=40318
+vel=-17.86, currPos=159, millis=40361
+vel=-20.00, currPos=158, millis=40412
+lick, millis=40438
+vel=-15.38, currPos=157, millis=40477
+vel=-19.61, currPos=156, millis=40527
+lick, millis=40567
+vel=-15.62, currPos=155, millis=40593
+vel=-12.05, currPos=154, millis=40675
+vel=-13.16, currPos=153, millis=40751
+vel=-20.00, currPos=152, millis=40802
+vel=-19.23, currPos=151, millis=40852
+vel=-19.61, currPos=150, millis=40903
+vel=0.93, currPos=151, millis=41981
+syncOut, millis = 42017
+vel=20.00, currPos=152, millis=42032
+vel=-19.61, currPos=151, millis=42084
+vel=-19.23, currPos=150, millis=42135
+vel=-40.00, currPos=148, millis=42185
+vel=6.71, currPos=149, millis=42334
+vel=-8.77, currPos=148, millis=42449
+vel=-2.63, currPos=147, millis=42829
+vel=0.62, currPos=148, millis=44443
+vel=0.60, currPos=149, millis=46104
+vel=-15.87, currPos=148, millis=46168
+vel=2.79, currPos=149, millis=46526
+vel=17.54, currPos=150, millis=46582
+lick, millis=46706
+vel=6.13, currPos=151, millis=46746
+vel=-8.70, currPos=150, millis=46862
+syncOut, millis = 47017
+vel=3.46, currPos=151, millis=47150
+vel=-11.63, currPos=150, millis=47237
+vel=-4.29, currPos=149, millis=47469
+vel=-4.63, currPos=148, millis=47685
+vel=1.43, currPos=149, millis=48384
+vel=0.64, currPos=150, millis=49939
+syncOut, millis = 52017
+vel=0.44, currPos=151, millis=52198
+vel=19.61, currPos=152, millis=52249
+vel=19.61, currPos=153, millis=52300
+vel=40.00, currPos=155, millis=52350
+lick, millis=52351
+vel=78.43, currPos=159, millis=52401
+REWARD, millis=52401
+vel=58.82, currPos=162, millis=52452
+lick, millis=52467
+vel=20.00, currPos=163, millis=52503
+vel=-19.23, currPos=162, millis=52554
+lick, millis=52572
+vel=-20.00, currPos=161, millis=52605
+vel=-18.52, currPos=160, millis=52659
+lick, millis=52677
+lick, millis=52778
+lick, millis=52888
+vel=-4.07, currPos=159, millis=52905
+lick, millis=53007
+vel=-8.26, currPos=158, millis=53025
+vel=-12.50, currPos=157, millis=53106
+lick, millis=53127
+vel=-19.61, currPos=156, millis=53157
+vel=-19.61, currPos=155, millis=53208
+vel=-40.00, currPos=153, millis=53258
+lick, millis=53261
+vel=-19.61, currPos=152, millis=53309
+vel=-19.61, currPos=151, millis=53360
+vel=-19.61, currPos=150, millis=53411
+vel=-9.35, currPos=149, millis=53519
+vel=-3.25, currPos=148, millis=53826
+vel=0.72, currPos=149, millis=55213
+vel=19.61, currPos=150, millis=55264
+vel=-4.46, currPos=149, millis=55490
+vel=-19.23, currPos=148, millis=55541
+vel=19.61, currPos=149, millis=55591
+vel=60.00, currPos=152, millis=55642
+vel=19.61, currPos=153, millis=55693
+vel=-20.00, currPos=152, millis=55744
+vel=-57.69, currPos=149, millis=55795
+vel=-39.22, currPos=147, millis=55846
+vel=-20.00, currPos=146, millis=55896
+vel=-19.61, currPos=145, millis=55947
+vel=5.78, currPos=146, millis=56120
+vel=-5.26, currPos=145, millis=56310
+vel=4.67, currPos=146, millis=56523
+vel=7.30, currPos=147, millis=56661
+syncOut, millis = 57017
+vel=1.13, currPos=148, millis=57544
+vel=1.16, currPos=149, millis=58409
+vel=19.23, currPos=150, millis=58462
+vel=0.92, currPos=151, millis=59546
+vel=0.48, currPos=152, millis=61618
+syncOut, millis = 62017
+vel=0.56, currPos=153, millis=63395
+vel=-2.81, currPos=152, millis=63753
+vel=0.95, currPos=153, millis=64806
+vel=0.54, currPos=154, millis=66670
+syncOut, millis = 67017
+syncOut, millis = 72017
+vel=0.19, currPos=155, millis=72077
+vel=-9.26, currPos=154, millis=72184
+vel=-2.90, currPos=153, millis=72530
+vel=7.09, currPos=154, millis=72670
+vel=-6.33, currPos=153, millis=72829
+vel=11.63, currPos=154, millis=72914
+vel=-2.44, currPos=153, millis=73326
+vel=3.03, currPos=154, millis=73655
+syncOut, millis = 77017
+vel=-0.25, currPos=153, millis=77713
+vel=-20.00, currPos=152, millis=77764
+vel=-39.22, currPos=150, millis=77815
+vel=19.61, currPos=151, millis=77865
+vel=58.82, currPos=154, millis=77916
+lick, millis=77922
+vel=78.43, currPos=158, millis=77967
+REWARD, millis=77967
+vel=40.00, currPos=160, millis=78017
+lick, millis=78039
+vel=19.61, currPos=161, millis=78068
+lick, millis=78139
+vel=6.17, currPos=162, millis=78230
+lick, millis=78235
+vel=17.24, currPos=163, millis=78288
+lick, millis=78336
+vel=-14.49, currPos=162, millis=78357
+lick, millis=78445
+lick, millis=78560
+vel=-4.65, currPos=161, millis=78573
+vel=-14.49, currPos=160, millis=78641
+lick, millis=78671
+vel=-18.87, currPos=159, millis=78695
+vel=-19.61, currPos=158, millis=78746
+vel=-20.00, currPos=157, millis=78797
+lick, millis=78804
+vel=-19.23, currPos=156, millis=78847
+vel=-58.82, currPos=153, millis=78898
+vel=-40.00, currPos=151, millis=78949
+vel=-39.22, currPos=149, millis=79000
+vel=-40.00, currPos=147, millis=79051
+vel=-7.09, currPos=146, millis=79191
+vel=-39.22, currPos=144, millis=79242
+vel=-19.61, currPos=143, millis=79293
+vel=-6.21, currPos=142, millis=79453
+vel=-20.00, currPos=141, millis=79504
+vel=9.26, currPos=142, millis=79611
+vel=-6.58, currPos=141, millis=79765
+vel=-19.61, currPos=140, millis=79816
+vel=-5.92, currPos=139, millis=79984
+vel=-3.80, currPos=138, millis=80248
+vel=-4.88, currPos=137, millis=80453
+vel=-19.61, currPos=136, millis=80504
+vel=-19.23, currPos=135, millis=80555
+vel=20.00, currPos=136, millis=80605
+vel=19.61, currPos=137, millis=80656
+vel=20.00, currPos=138, millis=80707
+vel=-11.76, currPos=137, millis=80792
+vel=4.31, currPos=138, millis=81023
+vel=1.54, currPos=139, millis=81674
+syncOut, millis = 82017
+vel=1.96, currPos=140, millis=82183
+vel=3.01, currPos=141, millis=82516
+vel=19.61, currPos=142, millis=82567
+vel=18.87, currPos=143, millis=82620
+vel=-5.59, currPos=142, millis=82800
+vel=1.50, currPos=143, millis=83466
+vel=0.68, currPos=144, millis=84947
+vel=0.86, currPos=145, millis=86108
+vel=15.62, currPos=146, millis=86172
+vel=-12.99, currPos=145, millis=86249
+syncOut, millis = 87017
+vel=0.90, currPos=146, millis=87359
+vel=0.91, currPos=147, millis=88461
+vel=19.61, currPos=148, millis=88511
+vel=19.61, currPos=149, millis=88562
+vel=-20.00, currPos=148, millis=88614
+vel=-16.13, currPos=147, millis=88675
+vel=-7.41, currPos=146, millis=88810
+vel=1.25, currPos=147, millis=89613
+vel=2.14, currPos=148, millis=90080
+vel=-7.04, currPos=147, millis=90223
+vel=6.85, currPos=148, millis=90368
+vel=-5.71, currPos=147, millis=90544
+vel=7.75, currPos=148, millis=90672
+syncOut, millis = 92017
+vel=0.54, currPos=149, millis=92534
+vel=0.71, currPos=150, millis=93943
+vel=-3.10, currPos=149, millis=94266
+vel=8.33, currPos=150, millis=94385
+vel=1.16, currPos=151, millis=95245
+vel=-12.99, currPos=150, millis=95322
+vel=-20.00, currPos=149, millis=95373
+vel=39.22, currPos=151, millis=95423
+vel=98.04, currPos=156, millis=95474
+REWARD, millis=95474
+lick, millis=95490
+vel=120.00, currPos=162, millis=95525
+vel=38.46, currPos=164, millis=95576
+vel=-60.00, currPos=161, millis=95627
+vel=-117.65, currPos=155, millis=95678
+vel=-137.25, currPos=148, millis=95729
+vel=-160.00, currPos=140, millis=95780
+lick, millis=95825
+vel=-76.92, currPos=136, millis=95830
+vel=17.24, currPos=137, millis=95888
+lick, millis=95929
+vel=60.00, currPos=140, millis=95939
+vel=58.82, currPos=143, millis=95990
+lick, millis=96030
+vel=19.61, currPos=144, millis=96041
+vel=-14.49, currPos=143, millis=96111
+vel=-19.61, currPos=142, millis=96161
+lick, millis=96243
+vel=-6.76, currPos=141, millis=96309
+lick, millis=96345
+vel=-18.87, currPos=140, millis=96363
+vel=-19.61, currPos=139, millis=96413
+lick, millis=96456
+vel=-19.61, currPos=138, millis=96464
+vel=-39.22, currPos=136, millis=96515
+vel=-19.61, currPos=135, millis=96566
+lick, millis=96576
+vel=-19.61, currPos=134, millis=96617
+vel=-40.00, currPos=132, millis=96668
+lick, millis=96709
+vel=-19.61, currPos=131, millis=96718
+vel=-19.61, currPos=130, millis=96769
+vel=-14.49, currPos=129, millis=96838
+vel=-20.00, currPos=128, millis=96889
+vel=-15.62, currPos=127, millis=96952
+lick, millis=96966
+syncOut, millis = 97017
+vel=-7.30, currPos=126, millis=97090
+vel=0.87, currPos=127, millis=98241
+vel=1.04, currPos=128, millis=99202
+vel=0.66, currPos=129, millis=100710
+vel=39.22, currPos=131, millis=100761
+vel=100.00, currPos=136, millis=100812
+REWARD, millis=100812
+lick, millis=100862
+vel=58.82, currPos=139, millis=100863
+vel=76.92, currPos=143, millis=100914
+vel=60.00, currPos=146, millis=100965
+lick, millis=100975
+vel=19.61, currPos=147, millis=101015
+lick, millis=101068
+lick, millis=101178
+vel=5.59, currPos=148, millis=101195
+lick, millis=101296
+vel=-4.88, currPos=147, millis=101401
+lick, millis=101428
+vel=-19.61, currPos=146, millis=101452
+vel=-39.22, currPos=144, millis=101502
+vel=-19.61, currPos=143, millis=101553
+lick, millis=101558
+vel=-39.22, currPos=141, millis=101604
+vel=-20.00, currPos=140, millis=101655
+lick, millis=101698
+vel=-19.61, currPos=139, millis=101706
+vel=-19.61, currPos=138, millis=101757
+vel=-19.61, currPos=137, millis=101807
+vel=-19.61, currPos=136, millis=101858
+syncOut, millis = 102017
+vel=0.36, currPos=137, millis=104661
+vel=0.57, currPos=138, millis=106414
+vel=3.56, currPos=139, millis=106696
+vel=20.00, currPos=140, millis=106747
+vel=39.22, currPos=142, millis=106797
+lick, millis=106818
+vel=58.82, currPos=145, millis=106848
+vel=78.43, currPos=149, millis=106899
+REWARD, millis=106899
+lick, millis=106925
+vel=58.82, currPos=152, millis=106950
+vel=20.00, currPos=153, millis=107001
+lick, millis=107007
+syncOut, millis = 107017
+vel=-8.26, currPos=152, millis=107122
+lick, millis=107138
+vel=8.20, currPos=153, millis=107243
+lick, millis=107243
+vel=20.00, currPos=154, millis=107294
+lick, millis=107356
+vel=-6.54, currPos=153, millis=107447
+lick, millis=107475
+vel=-19.61, currPos=152, millis=107498
+lick, millis=107598
+vel=-9.90, currPos=151, millis=107599
+vel=-19.61, currPos=150, millis=107650
+vel=-19.61, currPos=149, millis=107701
+lick, millis=107727
+vel=-39.22, currPos=147, millis=107752
+vel=-40.00, currPos=145, millis=107802
+vel=-58.82, currPos=142, millis=107853
+vel=-39.22, currPos=140, millis=107904
+vel=-39.22, currPos=138, millis=107955
+vel=-19.61, currPos=137, millis=108006
+vel=-17.24, currPos=136, millis=108064
+vel=-5.59, currPos=135, millis=108243
+vel=-9.62, currPos=134, millis=108347
+vel=0.97, currPos=135, millis=109374
+vel=4.17, currPos=136, millis=109614
+vel=1.71, currPos=137, millis=110199
+vel=19.61, currPos=138, millis=110249
+vel=58.82, currPos=141, millis=110300
+lick, millis=110327
+vel=58.82, currPos=144, millis=110351
+vel=80.00, currPos=148, millis=110402
+lick, millis=110443
+vel=39.22, currPos=150, millis=110453
+vel=39.22, currPos=152, millis=110504
+lick, millis=110571
+vel=6.62, currPos=153, millis=110655
+vel=39.22, currPos=155, millis=110706
+lick, millis=110712
+vel=58.82, currPos=158, millis=110757
+vel=-12.35, currPos=157, millis=110838
+vel=-60.00, currPos=154, millis=110889
+vel=-96.15, currPos=149, millis=110940
+vel=-78.43, currPos=145, millis=110991
+vel=-60.00, currPos=142, millis=111042
+vel=-8.40, currPos=141, millis=111160
+vel=-16.95, currPos=140, millis=111219
+vel=8.47, currPos=141, millis=111337
+vel=-12.82, currPos=140, millis=111416
+vel=-16.95, currPos=139, millis=111475
+vel=-19.61, currPos=138, millis=111525
+vel=12.05, currPos=139, millis=111608
+vel=19.61, currPos=140, millis=111659
+vel=-12.35, currPos=139, millis=111741
+vel=7.19, currPos=140, millis=111878
+vel=8.47, currPos=141, millis=111998
+syncOut, millis = 112017
+vel=-6.76, currPos=140, millis=112145
+vel=1.42, currPos=141, millis=112850
+vel=1.61, currPos=142, millis=113472
+vel=1.15, currPos=143, millis=114340
+vel=3.60, currPos=144, millis=114618
+vel=39.22, currPos=146, millis=114669
+lick, millis=114716
+vel=80.00, currPos=150, millis=114720
+REWARD, millis=114720
+vel=98.04, currPos=155, millis=114771
+vel=58.82, currPos=158, millis=114822
+lick, millis=114823
+vel=-39.22, currPos=156, millis=114873
+vel=-39.22, currPos=154, millis=114924
+lick, millis=114944
+vel=-40.00, currPos=152, millis=114975
+vel=-19.61, currPos=151, millis=115025
+lick, millis=115045
+vel=19.61, currPos=152, millis=115076
+vel=19.61, currPos=153, millis=115126
+lick, millis=115158
+vel=-10.10, currPos=152, millis=115227
+vel=-19.61, currPos=151, millis=115277
+lick, millis=115284
+vel=-13.51, currPos=150, millis=115352
+lick, millis=115403
+vel=-11.11, currPos=149, millis=115441
+vel=-20.00, currPos=148, millis=115492
+lick, millis=115540
+vel=-39.22, currPos=146, millis=115542
+vel=-39.22, currPos=144, millis=115593
+vel=-39.22, currPos=142, millis=115644
+lick, millis=115666
+vel=-19.61, currPos=141, millis=115695
+vel=-20.00, currPos=140, millis=115746
+vel=-15.15, currPos=139, millis=115811
+lick, millis=115824
+vel=-12.82, currPos=138, millis=115890
+vel=-6.13, currPos=137, millis=116053
+vel=-9.26, currPos=136, millis=116160
+vel=-10.64, currPos=135, millis=116254
+vel=-20.00, currPos=134, millis=116305
+vel=2.28, currPos=135, millis=116743
+syncOut, millis = 117017
+vel=1.18, currPos=136, millis=117590
+vel=1.29, currPos=137, millis=118366
+vel=6.41, currPos=138, millis=118523
+vel=19.61, currPos=139, millis=118574
+vel=19.61, currPos=140, millis=118625
+vel=39.22, currPos=142, millis=118676
+vel=60.00, currPos=145, millis=118726
+lick, millis=118772
+vel=78.43, currPos=149, millis=118777
+vel=58.82, currPos=152, millis=118828
+lick, millis=118900
+vel=4.85, currPos=153, millis=119034
+lick, millis=119037
+vel=-15.87, currPos=152, millis=119098
+vel=-39.22, currPos=150, millis=119149
+vel=-58.82, currPos=147, millis=119199
+vel=-80.00, currPos=143, millis=119250
+vel=-39.22, currPos=141, millis=119301
+vel=-19.61, currPos=140, millis=119352
+vel=-19.61, currPos=139, millis=119403
+vel=-19.61, currPos=138, millis=119454
+vel=-2.71, currPos=137, millis=119823
+vel=0.65, currPos=138, millis=121372
+syncOut, millis = 122017
+vel=0.80, currPos=139, millis=122630
+vel=15.62, currPos=140, millis=122693
+vel=13.89, currPos=141, millis=122766
+vel=39.22, currPos=143, millis=122817
+lick, millis=122839
+vel=98.04, currPos=148, millis=122867
+REWARD, millis=122867
+vel=60.00, currPos=151, millis=122918
+lick, millis=122945
+vel=39.22, currPos=153, millis=122969
+vel=-16.95, currPos=152, millis=123028
+lick, millis=123070
+lick, millis=123174
+vel=5.68, currPos=153, millis=123204
+lick, millis=123292
+vel=-5.41, currPos=152, millis=123390
+lick, millis=123419
+vel=-19.61, currPos=151, millis=123441
+vel=-19.61, currPos=150, millis=123491
+vel=-39.22, currPos=148, millis=123542
+lick, millis=123552
+vel=-78.43, currPos=144, millis=123593
+vel=-40.00, currPos=142, millis=123644
+vel=-39.22, currPos=140, millis=123695
+lick, millis=123699
+vel=-19.61, currPos=139, millis=123746
+vel=-19.61, currPos=138, millis=123796
+vel=19.61, currPos=139, millis=123847
+lick, millis=123856
+lick, millis=123973
+vel=-7.58, currPos=138, millis=123980
+vel=-3.09, currPos=137, millis=124304
+vel=1.12, currPos=138, millis=125193
+vel=0.56, currPos=139, millis=126993
+syncOut, millis = 127017
+vel=0.80, currPos=140, millis=128239
+vel=4.95, currPos=141, millis=128442
+vel=58.82, currPos=144, millis=128493
+lick, millis=128509
+vel=120.00, currPos=150, millis=128544
+REWARD, millis=128544
+vel=58.82, currPos=153, millis=128594
+lick, millis=128633
+vel=-19.61, currPos=152, millis=128646
+vel=-39.22, currPos=150, millis=128697
+lick, millis=128745
+vel=-58.82, currPos=147, millis=128747
+vel=-20.00, currPos=146, millis=128798
+lick, millis=128854
+vel=11.90, currPos=147, millis=128881
+vel=19.61, currPos=148, millis=128932
+lick, millis=128976
+vel=20.00, currPos=149, millis=128983
+vel=-19.61, currPos=148, millis=129034
+vel=-38.46, currPos=146, millis=129085
+lick, millis=129104
+vel=-40.00, currPos=144, millis=129136
+vel=-58.82, currPos=141, millis=129187
+lick, millis=129219
+vel=-58.82, currPos=138, millis=129238
+vel=-80.00, currPos=134, millis=129289
+vel=-38.46, currPos=132, millis=129339
+lick, millis=129371
+vel=-60.00, currPos=129, millis=129390
+vel=-19.61, currPos=128, millis=129441
+vel=-19.61, currPos=127, millis=129492
+lick, millis=129519
+vel=11.24, currPos=128, millis=129581
+lick, millis=129669
+vel=10.64, currPos=129, millis=129675
+vel=-7.09, currPos=128, millis=129816
+vel=5.41, currPos=129, millis=130001
+vel=20.00, currPos=130, millis=130051
+vel=-4.20, currPos=129, millis=130289
+vel=9.35, currPos=130, millis=130396
+vel=-12.20, currPos=129, millis=130479
+vel=1.56, currPos=130, millis=131117
+syncOut, millis = 132017
+vel=0.85, currPos=131, millis=132292
+vel=20.00, currPos=132, millis=132343
+vel=19.61, currPos=133, millis=132394
+vel=19.61, currPos=134, millis=132445
+vel=-12.99, currPos=133, millis=132522
+vel=-9.62, currPos=132, millis=132626
+vel=-13.16, currPos=131, millis=132702
+lick, millis=132718
+vel=-19.61, currPos=130, millis=132753
+vel=5.21, currPos=131, millis=132945
+vel=13.33, currPos=132, millis=133020
+vel=17.86, currPos=133, millis=133076
+vel=40.00, currPos=135, millis=133127
+vel=57.69, currPos=138, millis=133177
+lick, millis=133190
+vel=40.00, currPos=140, millis=133228
+vel=19.61, currPos=141, millis=133279
+lick, millis=133327
+vel=19.61, currPos=142, millis=133330
+lick, millis=133440
+vel=-5.41, currPos=141, millis=133516
+vel=-18.52, currPos=140, millis=133570
+vel=-4.46, currPos=139, millis=133794
+vel=0.66, currPos=140, millis=135305
+vel=-3.58, currPos=139, millis=135585
+vel=-19.23, currPos=138, millis=135637
+vel=14.71, currPos=139, millis=135704
+lick, millis=135708
+vel=39.22, currPos=141, millis=135755
+vel=60.00, currPos=144, millis=135806
+lick, millis=135825
+vel=78.43, currPos=148, millis=135857
+REWARD, millis=135857
+vel=19.61, currPos=149, millis=135907
+lick, millis=135935
+vel=19.61, currPos=150, millis=135958
+vel=-19.61, currPos=149, millis=136010
+lick, millis=136056
+vel=6.90, currPos=150, millis=136154
+lick, millis=136161
+lick, millis=136278
+vel=-4.17, currPos=149, millis=136395
+lick, millis=136397
+vel=-19.61, currPos=148, millis=136446
+vel=-39.22, currPos=146, millis=136497
+lick, millis=136525
+vel=-60.00, currPos=143, millis=136548
+vel=-57.69, currPos=140, millis=136599
+vel=-40.00, currPos=138, millis=136649
+lick, millis=136650
+vel=-39.22, currPos=136, millis=136700
+vel=-39.22, currPos=134, millis=136751
+vel=-20.00, currPos=133, millis=136802
+lick, millis=136821
+syncOut, millis = 137017
+vel=-2.93, currPos=132, millis=137143
+vel=-1.85, currPos=131, millis=137682
+lick, millis=137946
+vel=-3.61, currPos=130, millis=137959
+vel=1.92, currPos=131, millis=138480
+vel=1.20, currPos=132, millis=139312
+vel=1.52, currPos=133, millis=139971
+vel=1.19, currPos=134, millis=140813
+vel=10.64, currPos=135, millis=140907
+vel=19.61, currPos=136, millis=140958
+lick, millis=140968
+vel=39.22, currPos=138, millis=141009
+vel=80.00, currPos=142, millis=141060
+REWARD, millis=141060
+lick, millis=141078
+vel=39.22, currPos=144, millis=141111
+vel=38.46, currPos=146, millis=141162
+lick, millis=141196
+lick, millis=141301
+vel=5.26, currPos=147, millis=141353
+lick, millis=141410
+vel=-6.85, currPos=146, millis=141499
+lick, millis=141541
+vel=-19.61, currPos=145, millis=141550
+vel=-19.61, currPos=144, millis=141601
+vel=-19.61, currPos=143, millis=141652
+lick, millis=141666
+vel=-40.00, currPos=141, millis=141703
+vel=-39.22, currPos=139, millis=141754
+vel=-58.82, currPos=136, millis=141804
+lick, millis=141814
+vel=-39.22, currPos=134, millis=141855
+vel=-19.61, currPos=133, millis=141906
+vel=-20.00, currPos=132, millis=141957
+lick, millis=141963
+vel=-19.61, currPos=131, millis=142008
+syncOut, millis = 142017
+vel=7.87, currPos=132, millis=142134
+vel=-8.55, currPos=131, millis=142252
+vel=3.98, currPos=132, millis=142502
+vel=0.84, currPos=133, millis=143693
+vel=1.36, currPos=134, millis=144427
+vel=3.79, currPos=135, millis=144691
+vel=7.14, currPos=136, millis=144830
+lick, millis=144843
+vel=60.00, currPos=139, millis=144881
+vel=98.04, currPos=144, millis=144932
+lick, millis=144953
+vel=98.04, currPos=149, millis=144983
+vel=60.00, currPos=152, millis=145034
+lick, millis=145073
+vel=19.61, currPos=153, millis=145085
+vel=-39.22, currPos=151, millis=145136
+vel=-39.22, currPos=149, millis=145187
+vel=-78.43, currPos=145, millis=145238
+vel=-100.00, currPos=140, millis=145288
+vel=-98.04, currPos=135, millis=145339
+vel=-76.92, currPos=131, millis=145390
+vel=-20.00, currPos=130, millis=145441
+vel=-19.61, currPos=129, millis=145492
+vel=20.00, currPos=130, millis=145542
+vel=19.61, currPos=131, millis=145593
+vel=38.46, currPos=133, millis=145644
+vel=-15.15, currPos=132, millis=145711
+vel=-39.22, currPos=130, millis=145762
+vel=-39.22, currPos=128, millis=145813
+vel=9.71, currPos=129, millis=145916
+vel=19.61, currPos=130, millis=145967
+vel=19.61, currPos=131, millis=146018
+vel=-19.61, currPos=130, millis=146069
+vel=-19.61, currPos=129, millis=146120
+vel=-20.00, currPos=128, millis=146171
+vel=16.67, currPos=129, millis=146230
+vel=14.93, currPos=130, millis=146297
+syncOut, millis = 147017
+vel=0.81, currPos=131, millis=147535
+vel=1.11, currPos=132, millis=148433
+vel=0.69, currPos=133, millis=149882
+vel=0.56, currPos=134, millis=151658
+vel=15.62, currPos=135, millis=151722
+vel=17.24, currPos=136, millis=151780
+vel=38.46, currPos=138, millis=151831
+lick, millis=151863
+vel=80.00, currPos=142, millis=151882
+REWARD, millis=151882
+vel=39.22, currPos=144, millis=151933
+lick, millis=151971
+vel=19.61, currPos=145, millis=151984
+syncOut, millis = 152017
+vel=-20.00, currPos=144, millis=152035
+vel=-19.61, currPos=143, millis=152086
+vel=19.61, currPos=144, millis=152136
+vel=19.61, currPos=145, millis=152187
+lick, millis=152187
+vel=19.61, currPos=146, millis=152238
+lick, millis=152300
+vel=-6.99, currPos=145, millis=152382
+lick, millis=152419
+vel=-16.95, currPos=144, millis=152440
+vel=-16.95, currPos=143, millis=152500
+lick, millis=152547
+vel=-20.00, currPos=142, millis=152551
+vel=-38.46, currPos=140, millis=152601
+vel=-19.61, currPos=139, millis=152652
+lick, millis=152673
+vel=-20.00, currPos=138, millis=152703
+vel=-19.61, currPos=137, millis=152754
+vel=-20.00, currPos=136, millis=152805
+lick, millis=152811
+vel=-38.46, currPos=134, millis=152856
+vel=-39.22, currPos=132, millis=152906
+lick, millis=152960
+vel=6.29, currPos=133, millis=153067
+vel=-7.94, currPos=132, millis=153192
+vel=0.72, currPos=133, millis=154583
+vel=1.48, currPos=134, millis=155258
+vel=0.72, currPos=135, millis=156650
+vel=19.23, currPos=136, millis=156700
+vel=-9.43, currPos=135, millis=156807
+vel=20.00, currPos=136, millis=156858
+vel=39.22, currPos=138, millis=156908
+lick, millis=156916
+vel=98.04, currPos=143, millis=156959
+REWARD, millis=156959
+vel=98.04, currPos=148, millis=157010
+syncOut, millis = 157017
+lick, millis=157040
+vel=39.22, currPos=150, millis=157061
+vel=-19.61, currPos=149, millis=157113
+lick, millis=157126
+vel=-19.61, currPos=148, millis=157164
+lick, millis=157252
+vel=7.87, currPos=149, millis=157291
+vel=-13.33, currPos=148, millis=157366
+lick, millis=157374
+vel=-10.31, currPos=147, millis=157463
+lick, millis=157502
+vel=-19.23, currPos=146, millis=157514
+vel=-20.00, currPos=145, millis=157565
+vel=-19.61, currPos=144, millis=157616
+lick, millis=157627
+vel=-20.00, currPos=143, millis=157667
+vel=-19.61, currPos=142, millis=157718
+lick, millis=157762
+vel=-12.35, currPos=141, millis=157798
+vel=-18.52, currPos=140, millis=157852
+lick, millis=157915
+vel=-13.70, currPos=139, millis=157925
+vel=-2.89, currPos=138, millis=158272
+vel=0.77, currPos=139, millis=159569
+vel=0.47, currPos=140, millis=161696
+vel=-12.99, currPos=139, millis=161775
+vel=9.80, currPos=140, millis=161875
+lick, millis=161880
+vel=39.22, currPos=142, millis=161926
+vel=40.00, currPos=144, millis=161977
+lick, millis=161987
+syncOut, millis = 162017
+vel=39.22, currPos=146, millis=162028
+vel=38.46, currPos=148, millis=162078
+lick, millis=162115
+vel=-9.52, currPos=147, millis=162185
+vel=-19.61, currPos=146, millis=162236
+vel=-19.61, currPos=145, millis=162287
+vel=-19.61, currPos=144, millis=162338
+vel=-19.61, currPos=143, millis=162389
+vel=-19.61, currPos=142, millis=162440
+vel=-14.29, currPos=141, millis=162510
+vel=-10.87, currPos=140, millis=162602
+vel=-11.63, currPos=139, millis=162688
+vel=0.92, currPos=140, millis=163779
+vel=0.42, currPos=141, millis=166183
+vel=-5.78, currPos=140, millis=166356
+vel=-16.67, currPos=139, millis=166417
+vel=-19.61, currPos=138, millis=166468
+vel=9.80, currPos=139, millis=166569
+vel=-8.13, currPos=138, millis=166692
+syncOut, millis = 167017
+vel=0.86, currPos=139, millis=167852
+vel=0.42, currPos=140, millis=170237
+vel=-4.88, currPos=139, millis=170443
+vel=3.14, currPos=140, millis=170761
+vel=-10.10, currPos=139, millis=170861
+vel=9.62, currPos=140, millis=170963
+vel=-9.52, currPos=139, millis=171070
+vel=4.20, currPos=140, millis=171307
+vel=-14.29, currPos=139, millis=171378
+syncOut, millis = 172017
+vel=0.71, currPos=140, millis=172778
+vel=-2.99, currPos=139, millis=173113
+vel=7.63, currPos=140, millis=173243
+vel=-5.21, currPos=139, millis=173436
+vel=10.31, currPos=140, millis=173532
+vel=-0.50, currPos=139, millis=175526
+vel=-17.24, currPos=138, millis=175584
+vel=20.00, currPos=139, millis=175635
+vel=15.62, currPos=140, millis=175698
+vel=-8.47, currPos=139, millis=175817
+vel=-11.90, currPos=138, millis=175901
+vel=13.33, currPos=139, millis=175976
+vel=1.12, currPos=140, millis=176868
+syncOut, millis = 177017
+vel=0.24, currPos=141, millis=181033
+vel=-4.15, currPos=140, millis=181276
+vel=10.42, currPos=141, millis=181370
+syncOut, millis = 182017
+vel=0.32, currPos=142, millis=184522
+vel=-12.99, currPos=141, millis=184599
+vel=4.69, currPos=142, millis=184812
+vel=-2.95, currPos=141, millis=185151
+vel=7.46, currPos=142, millis=185286
+vel=-2.78, currPos=141, millis=185646
+vel=8.33, currPos=142, millis=185765
+vel=-2.46, currPos=141, millis=186172
+vel=17.54, currPos=142, millis=186229
+vel=-9.80, currPos=141, millis=186331
+vel=8.93, currPos=142, millis=186443
+vel=-4.46, currPos=141, millis=186667
+vel=9.90, currPos=142, millis=186768
+syncOut, millis = 187017
+vel=-2.49, currPos=141, millis=187170
+vel=13.33, currPos=142, millis=187244
+vel=-0.41, currPos=141, millis=189669
+vel=-20.00, currPos=140, millis=189720
+vel=-39.22, currPos=138, millis=189771
+vel=10.75, currPos=139, millis=189863
+vel=19.61, currPos=140, millis=189914
+vel=-8.62, currPos=139, millis=190031
+vel=-10.87, currPos=138, millis=190122
+vel=-13.16, currPos=137, millis=190199
+vel=-19.23, currPos=136, millis=190250
+vel=-40.00, currPos=134, millis=190301
+vel=-39.22, currPos=132, millis=190352
+vel=-20.00, currPos=131, millis=190402
+vel=-2.58, currPos=130, millis=190790
+vel=-16.39, currPos=129, millis=190851
+vel=-19.61, currPos=128, millis=190902
+vel=5.18, currPos=129, millis=191095
+vel=1.98, currPos=130, millis=191601
+syncOut, millis = 192017
+vel=1.25, currPos=131, millis=192398
+vel=16.39, currPos=132, millis=192460
+vel=-4.61, currPos=131, millis=192677
+vel=5.41, currPos=132, millis=192861
+vel=0.56, currPos=133, millis=194647
+vel=1.66, currPos=134, millis=195251
+syncOut, millis = 197017
+vel=0.27, currPos=135, millis=198970
+vel=0.73, currPos=136, millis=200337
+vel=-11.11, currPos=135, millis=200428
+vel=8.00, currPos=136, millis=200552
+vel=-8.85, currPos=135, millis=200666
+vel=-2.13, currPos=134, millis=201135
+vel=13.51, currPos=135, millis=201209
+vel=2.99, currPos=136, millis=201543
+vel=-13.89, currPos=135, millis=201615
+vel=12.05, currPos=136, millis=201698
+syncOut, millis = 202017
+vel=1.02, currPos=137, millis=202676
+vel=0.56, currPos=138, millis=204471
+vel=1.45, currPos=139, millis=205162
+vel=-13.51, currPos=138, millis=205236
+vel=1.00, currPos=139, millis=206240
+syncOut, millis = 207017
+vel=0.27, currPos=140, millis=209905
+vel=-1.57, currPos=139, millis=210544
+vel=9.17, currPos=140, millis=210652
+vel=-8.77, currPos=139, millis=210768
+vel=-15.87, currPos=138, millis=210830
+vel=-17.86, currPos=137, millis=210886
+vel=-20.00, currPos=136, millis=210937
+vel=14.93, currPos=137, millis=211003
+vel=19.61, currPos=138, millis=211054
+vel=20.00, currPos=139, millis=211104
+vel=-10.31, currPos=138, millis=211202
+vel=2.01, currPos=139, millis=211698
+syncOut, millis = 212017
+vel=0.36, currPos=140, millis=214515
+vel=-10.87, currPos=139, millis=214608
+vel=3.05, currPos=140, millis=214935
+vel=2.60, currPos=141, millis=215321
+vel=-13.70, currPos=140, millis=215394
+vel=-9.26, currPos=139, millis=215502
+vel=-20.00, currPos=138, millis=215553
+vel=-38.46, currPos=136, millis=215604
+vel=-20.00, currPos=135, millis=215655
+vel=5.41, currPos=136, millis=215839
+vel=-8.13, currPos=135, millis=215963
+vel=-19.61, currPos=134, millis=216014
+vel=12.66, currPos=135, millis=216092
+vel=14.93, currPos=136, millis=216159
+vel=-4.07, currPos=135, millis=216406
+vel=7.19, currPos=136, millis=216544
+syncOut, millis = 217017
+vel=1.39, currPos=137, millis=217265
+vel=3.12, currPos=138, millis=217586
+vel=-6.21, currPos=137, millis=217747
+vel=9.09, currPos=138, millis=217857
+vel=-6.25, currPos=137, millis=218018
+vel=5.15, currPos=138, millis=218211
+vel=-4.59, currPos=137, millis=218429
+vel=12.05, currPos=138, millis=218512
+vel=0.45, currPos=139, millis=220728
+vel=-8.55, currPos=138, millis=220846
+vel=3.34, currPos=139, millis=221145
+vel=-2.58, currPos=138, millis=221532
+vel=10.75, currPos=139, millis=221624
+vel=-2.66, currPos=138, millis=222001
+syncOut, millis = 222017
+vel=7.19, currPos=139, millis=222140
+vel=-3.19, currPos=138, millis=222453
+vel=10.99, currPos=139, millis=222544
+vel=3.02, currPos=140, millis=222875
+vel=-16.95, currPos=139, millis=222935
+vel=-39.22, currPos=137, millis=222986
+vel=14.71, currPos=138, millis=223053
+vel=19.61, currPos=139, millis=223104
+vel=19.61, currPos=140, millis=223155
+vel=19.61, currPos=141, millis=223206
+vel=-10.99, currPos=140, millis=223297
+vel=-17.24, currPos=139, millis=223356
+vel=-12.99, currPos=138, millis=223432
+vel=-6.99, currPos=137, millis=223576
+vel=-20.00, currPos=136, millis=223627
+vel=-38.46, currPos=134, millis=223678
+vel=14.71, currPos=135, millis=223746
+vel=19.23, currPos=136, millis=223797
+vel=-16.95, currPos=135, millis=223857
+vel=8.70, currPos=136, millis=223971
+vel=1.48, currPos=137, millis=224648
+vel=1.12, currPos=138, millis=225538
+syncOut, millis = 227017
+vel=0.35, currPos=139, millis=228357
+vel=-3.98, currPos=138, millis=228609
+vel=6.10, currPos=139, millis=228773
+vel=-3.73, currPos=138, millis=229041
+vel=5.95, currPos=139, millis=229209
+vel=2.41, currPos=140, millis=229624
+vel=19.61, currPos=141, millis=229675
+vel=-19.61, currPos=140, millis=229726
+vel=-19.61, currPos=139, millis=229777
+vel=-6.21, currPos=138, millis=229939
+vel=-2.58, currPos=137, millis=230328
+vel=9.71, currPos=138, millis=230429
+syncOut, millis = 232017
+vel=0.56, currPos=139, millis=232205
+vel=19.23, currPos=140, millis=232255
+vel=40.00, currPos=142, millis=232306
+vel=-19.61, currPos=141, millis=232358
+vel=-19.61, currPos=140, millis=232408
+vel=-4.35, currPos=139, millis=232638
+vel=-20.00, currPos=138, millis=232689
+vel=13.51, currPos=139, millis=232762
+vel=1.32, currPos=140, millis=233517
+vel=0.50, currPos=141, millis=235513
+vel=-12.82, currPos=140, millis=235591
+vel=-39.22, currPos=138, millis=235641
+vel=8.85, currPos=139, millis=235754
+vel=19.61, currPos=140, millis=235805
+vel=-10.42, currPos=139, millis=235902
+vel=-11.76, currPos=138, millis=235987
+vel=6.71, currPos=139, millis=236135
+syncOut, millis = 237017
+vel=0.51, currPos=140, millis=238095
+vel=-9.17, currPos=139, millis=238204
+vel=6.80, currPos=140, millis=238351
+vel=1.11, currPos=141, millis=239254
+vel=-13.89, currPos=140, millis=239328
+vel=-2.58, currPos=139, millis=239715
+vel=-19.61, currPos=138, millis=239765
+vel=-19.61, currPos=137, millis=239816
+vel=17.86, currPos=138, millis=239872
+vel=15.62, currPos=139, millis=239935
+vel=0.67, currPos=140, millis=241433
+syncOut, millis = 242017
+vel=1.29, currPos=141, millis=242208
+vel=-9.17, currPos=140, millis=242318
+vel=-19.61, currPos=139, millis=242368
+vel=-19.61, currPos=138, millis=242419
+vel=11.90, currPos=139, millis=242503
+vel=19.61, currPos=140, millis=242554
+vel=-8.93, currPos=139, millis=242666
+vel=-19.61, currPos=138, millis=242717
+vel=-20.00, currPos=137, millis=242768
+vel=10.20, currPos=138, millis=242866
+vel=1.29, currPos=139, millis=243641
+vel=-11.24, currPos=138, millis=243731
+vel=6.58, currPos=139, millis=243882
+vel=0.64, currPos=140, millis=245445
+vel=19.61, currPos=141, millis=245496
+vel=-8.55, currPos=140, millis=245614
+vel=-11.24, currPos=139, millis=245703
+vel=-11.90, currPos=138, millis=245787
+vel=-19.61, currPos=137, millis=245838
+vel=-20.00, currPos=136, millis=245889
+vel=-19.61, currPos=135, millis=245939
+vel=8.93, currPos=136, millis=246051
+vel=-8.20, currPos=135, millis=246173
+vel=6.94, currPos=136, millis=246317
+syncOut, millis = 247017
+vel=1.39, currPos=137, millis=247035
+vel=1.21, currPos=138, millis=247861
+vel=-2.38, currPos=137, millis=248282
+vel=9.17, currPos=138, millis=248391
+vel=0.76, currPos=139, millis=249699
+vel=14.93, currPos=140, millis=249766
+vel=-20.00, currPos=139, millis=249817
+vel=-19.61, currPos=138, millis=249868
+vel=5.46, currPos=139, millis=250050
+vel=-5.29, currPos=138, millis=250240
+vel=0.98, currPos=139, millis=251257
+vel=-4.24, currPos=138, millis=251494
+vel=13.33, currPos=139, millis=251568
+syncOut, millis = 252017
+vel=1.25, currPos=140, millis=252370
+vel=-8.55, currPos=139, millis=252488
+vel=-39.22, currPos=137, millis=252539
+vel=-19.61, currPos=136, millis=252590
+vel=20.00, currPos=137, millis=252640
+vel=19.61, currPos=138, millis=252691
+vel=16.67, currPos=139, millis=252750
+vel=-15.87, currPos=138, millis=252814
+vel=1.88, currPos=139, millis=253346
+vel=0.46, currPos=140, millis=255528
+vel=-10.00, currPos=139, millis=255629
+vel=-19.61, currPos=138, millis=255680
+vel=-19.23, currPos=137, millis=255731
+vel=20.00, currPos=138, millis=255781
+vel=19.61, currPos=139, millis=255832
+vel=9.01, currPos=140, millis=255942
+vel=-11.63, currPos=139, millis=256029
+vel=-20.00, currPos=138, millis=256080
+vel=-2.13, currPos=137, millis=256548
+vel=8.00, currPos=138, millis=256673
+vel=9.80, currPos=139, millis=256775
+vel=-13.33, currPos=138, millis=256850
+vel=-20.00, currPos=137, millis=256901
+vel=-19.61, currPos=136, millis=256952
+syncOut, millis = 257017
+vel=12.05, currPos=137, millis=257035
+vel=19.61, currPos=138, millis=257085
+vel=1.21, currPos=139, millis=257910
+vel=-12.05, currPos=138, millis=257994
+vel=6.45, currPos=139, millis=258149
+vel=0.52, currPos=140, millis=260071
+vel=-3.07, currPos=139, millis=260397
+vel=7.81, currPos=140, millis=260525
+syncOut, millis = 262017
+vel=0.25, currPos=141, millis=264505
+vel=19.61, currPos=142, millis=264556
+vel=-19.61, currPos=141, millis=264607
+vel=-39.22, currPos=139, millis=264658
+vel=-6.99, currPos=138, millis=264802
+vel=0.52, currPos=139, millis=266715
+vel=-4.57, currPos=138, millis=266935
+syncOut, millis = 267017
+vel=8.40, currPos=139, millis=267054
+vel=0.24, currPos=140, millis=271258
+vel=16.13, currPos=141, millis=271320
+vel=-10.99, currPos=140, millis=271412
+vel=-2.35, currPos=139, millis=271837
+syncOut, millis = 272017
+vel=0.55, currPos=140, millis=273664
+vel=-5.08, currPos=139, millis=273862
+vel=0.54, currPos=140, millis=275713
+vel=-4.29, currPos=139, millis=275947
+vel=6.67, currPos=140, millis=276096
+vel=1.25, currPos=141, millis=276899
+vel=-13.89, currPos=140, millis=276971
+syncOut, millis = 277017
+vel=-19.61, currPos=139, millis=277022
+vel=13.16, currPos=140, millis=277098
+vel=-19.61, currPos=139, millis=277149
+vel=-19.61, currPos=138, millis=277200
+vel=-3.61, currPos=137, millis=277478
+vel=-19.61, currPos=136, millis=277529
+vel=7.46, currPos=137, millis=277663
+vel=-8.33, currPos=136, millis=277783
+vel=-16.67, currPos=135, millis=277843
+vel=-19.61, currPos=134, millis=277893
+vel=10.53, currPos=135, millis=277988
+vel=17.86, currPos=136, millis=278044
+vel=2.42, currPos=137, millis=278457
+vel=1.95, currPos=138, millis=278972
+vel=7.87, currPos=139, millis=279099
+vel=-9.26, currPos=138, millis=279207
+vel=7.87, currPos=139, millis=279334
+vel=0.50, currPos=140, millis=281353
+syncOut, millis = 282017
+vel=-1.27, currPos=139, millis=282142
+vel=14.08, currPos=140, millis=282212
+vel=-3.30, currPos=139, millis=282516
+vel=-19.61, currPos=138, millis=282567
+vel=7.09, currPos=139, millis=282707
+vel=-5.81, currPos=138, millis=282880
+vel=-3.77, currPos=137, millis=283145
+vel=-19.61, currPos=136, millis=283196
+lick, millis=283232
+vel=-39.22, currPos=134, millis=283247
+vel=-20.00, currPos=133, millis=283298
+vel=19.23, currPos=134, millis=283348
+lick, millis=283379
+vel=19.61, currPos=135, millis=283399
+vel=20.00, currPos=136, millis=283450
+lick, millis=283492
+vel=19.61, currPos=137, millis=283501
+vel=-2.91, currPos=136, millis=283846
+vel=4.81, currPos=137, millis=284052
+vel=-1.07, currPos=136, millis=284986
+vel=-15.15, currPos=135, millis=285052
+vel=-19.61, currPos=134, millis=285102
+vel=-39.22, currPos=132, millis=285153
+vel=-40.00, currPos=130, millis=285204
+vel=-78.43, currPos=126, millis=285255
+vel=-40.00, currPos=124, millis=285306
+vel=-19.23, currPos=123, millis=285357
+vel=19.61, currPos=124, millis=285407
+vel=40.00, currPos=126, millis=285458
+vel=58.82, currPos=129, millis=285509
+vel=98.04, currPos=134, millis=285559
+REWARD, millis=285559
+vel=19.61, currPos=135, millis=285610
+vel=-19.61, currPos=134, millis=285662
+vel=-40.00, currPos=132, millis=285712
+lick, millis=285729
+vel=13.51, currPos=133, millis=285785
+lick, millis=285803
+vel=19.61, currPos=134, millis=285836
+vel=20.00, currPos=135, millis=285887
+lick, millis=285903
+vel=19.61, currPos=136, millis=285938
+vel=20.00, currPos=137, millis=285989
+lick, millis=286004
+vel=-19.23, currPos=136, millis=286040
+lick, millis=286114
+lick, millis=286239
+vel=-4.02, currPos=135, millis=286289
+lick, millis=286351
+vel=-8.55, currPos=134, millis=286407
+lick, millis=286490
+vel=2.15, currPos=135, millis=286872
+vel=-19.23, currPos=134, millis=286924
+syncOut, millis = 287017
+vel=-7.75, currPos=133, millis=287053
+vel=-19.23, currPos=132, millis=287104
+vel=-2.28, currPos=131, millis=287543
+vel=-19.61, currPos=130, millis=287594
+vel=-19.61, currPos=129, millis=287645
+vel=14.29, currPos=130, millis=287714
+vel=18.52, currPos=131, millis=287768
+vel=-6.58, currPos=130, millis=287921
+vel=6.90, currPos=131, millis=288066
+vel=1.31, currPos=132, millis=288830
+vel=0.51, currPos=133, millis=290799
+vel=2.31, currPos=134, millis=291232
+vel=-10.42, currPos=133, millis=291328
+vel=9.80, currPos=134, millis=291430
+vel=13.70, currPos=135, millis=291502
+vel=20.00, currPos=136, millis=291553
+vel=19.61, currPos=137, millis=291604
+lick, millis=291618
+vel=58.82, currPos=140, millis=291655
+vel=60.00, currPos=143, millis=291706
+lick, millis=291742
+vel=19.23, currPos=144, millis=291756
+vel=-10.00, currPos=143, millis=291857
+vel=-20.00, currPos=142, millis=291908
+vel=-39.22, currPos=140, millis=291959
+vel=-19.61, currPos=139, millis=292010
+syncOut, millis = 292017
+vel=-15.87, currPos=138, millis=292073
+vel=8.77, currPos=139, millis=292186
+vel=-6.13, currPos=138, millis=292349
+vel=1.17, currPos=139, millis=293204
+vel=-14.29, currPos=138, millis=293275
+vel=-39.22, currPos=136, millis=293326
+vel=-19.61, currPos=135, millis=293377
+vel=10.64, currPos=136, millis=293470
+vel=13.51, currPos=137, millis=293545
+vel=-8.62, currPos=136, millis=293661
+vel=0.46, currPos=137, millis=295856
+vel=-0.97, currPos=136, millis=296884
+syncOut, millis = 297017
+lick, millis=297257
+lick, millis=297385
+vel=-1.83, currPos=135, millis=297429
+lick, millis=297511
+lick, millis=297615
+vel=-3.29, currPos=134, millis=297734
+lick, millis=297747
+lick, millis=297893
+vel=-4.61, currPos=133, millis=297951
+vel=-19.61, currPos=132, millis=298002
+lick, millis=298044
+vel=-20.00, currPos=131, millis=298053
+vel=-19.61, currPos=130, millis=298104
+vel=-9.26, currPos=129, millis=298211
+vel=-40.00, currPos=127, millis=298262
+vel=-58.82, currPos=124, millis=298312
+vel=-58.82, currPos=121, millis=298363
+vel=-39.22, currPos=119, millis=298414
+vel=-19.61, currPos=118, millis=298465
+vel=60.00, currPos=121, millis=298515
+vel=78.43, currPos=125, millis=298566
+REWARD, millis=298566
+vel=58.82, currPos=128, millis=298617
+vel=-10.31, currPos=127, millis=298715
+vel=-19.61, currPos=126, millis=298765
+lick, millis=298854
+vel=10.99, currPos=127, millis=298856
+vel=19.61, currPos=128, millis=298907
+vel=40.00, currPos=130, millis=298958
+lick, millis=298959
+vel=19.23, currPos=131, millis=299009
+lick, millis=299060
+vel=-13.70, currPos=130, millis=299082
+lick, millis=299165
+vel=-5.21, currPos=129, millis=299274
+lick, millis=299288
+lick, millis=299408
+vel=-6.62, currPos=128, millis=299426
+lick, millis=299542
+vel=-6.33, currPos=127, millis=299584
+vel=-12.99, currPos=126, millis=299661
+lick, millis=299685
+lick, millis=299838
+vel=-4.02, currPos=125, millis=299910
+lick, millis=300001
+lick, millis=300420
+vel=-1.06, currPos=124, millis=300853
+vel=-20.00, currPos=123, millis=300904
+vel=-19.61, currPos=122, millis=300954
+lick, millis=300977
+vel=-19.61, currPos=121, millis=301005
+vel=20.00, currPos=122, millis=301056
+vel=19.23, currPos=123, millis=301106
+lick, millis=301110
+vel=40.00, currPos=125, millis=301157
+vel=19.61, currPos=126, millis=301208
+lick, millis=301235
+vel=58.82, currPos=129, millis=301259
+vel=100.00, currPos=134, millis=301310
+vel=38.46, currPos=136, millis=301361
+vel=-20.00, currPos=135, millis=301412
+vel=-39.22, currPos=133, millis=301463
+vel=-19.61, currPos=132, millis=301514
+vel=40.00, currPos=134, millis=301564
+vel=-12.82, currPos=133, millis=301642
+vel=-39.22, currPos=131, millis=301693
+vel=-39.22, currPos=129, millis=301744
+vel=-19.61, currPos=128, millis=301794
+vel=-20.00, currPos=127, millis=301845
+vel=-13.89, currPos=126, millis=301917
+vel=-18.87, currPos=125, millis=301969
+syncOut, millis = 302017
+vel=-20.00, currPos=124, millis=302020
+vel=-58.82, currPos=121, millis=302071
+vel=-98.04, currPos=116, millis=302122
+vel=-58.82, currPos=113, millis=302173
+vel=-39.22, currPos=111, millis=302224
+lick, millis=302264
+vel=-20.00, currPos=110, millis=302274
+vel=-39.22, currPos=108, millis=302325
+vel=19.61, currPos=109, millis=302376
+vel=19.61, currPos=110, millis=302426
+vel=39.22, currPos=112, millis=302477
+vel=19.61, currPos=113, millis=302528
+vel=20.00, currPos=114, millis=302579
+lick, millis=302649
+vel=-12.05, currPos=113, millis=302662
+vel=20.00, currPos=114, millis=302712
+vel=39.22, currPos=116, millis=302763
+vel=19.61, currPos=117, millis=302814
+lick, millis=302827
+vel=-18.87, currPos=116, millis=302867
+vel=-19.61, currPos=115, millis=302918
+vel=-120.00, currPos=109, millis=302969
+lick, millis=302972
+vel=-98.04, currPos=104, millis=303020
+vel=76.92, currPos=108, millis=303070
+vel=140.00, currPos=115, millis=303121
+vel=137.25, currPos=122, millis=303172
+vel=40.00, currPos=124, millis=303222
+vel=-78.43, currPos=120, millis=303274
+vel=-38.46, currPos=118, millis=303325
+vel=-40.00, currPos=116, millis=303375
+vel=-15.38, currPos=115, millis=303441
+vel=-19.23, currPos=114, millis=303492
+vel=-60.00, currPos=111, millis=303542
+vel=-58.82, currPos=108, millis=303593
+vel=-40.00, currPos=106, millis=303644
+vel=-39.22, currPos=104, millis=303695
+vel=-38.46, currPos=102, millis=303746
+vel=-40.00, currPos=100, millis=303797
+vel=-39.22, currPos=98, millis=303847
+lick, millis=303915
+vel=-7.63, currPos=97, millis=303979
+lick, millis=303987
+vel=-78.43, currPos=93, millis=304029
+vel=-60.00, currPos=90, millis=304080
+vel=38.46, currPos=92, millis=304131
+lick, millis=304153
+vel=20.00, currPos=93, millis=304181
+vel=19.61, currPos=94, millis=304232
+vel=98.04, currPos=99, millis=304283
+REWARD, millis=304283
+vel=200.00, currPos=109, millis=304334
+lick, millis=304372
+vel=117.65, currPos=115, millis=304385
+vel=-19.23, currPos=114, millis=304436
+vel=-80.00, currPos=110, millis=304487
+lick, millis=304519
+vel=-58.82, currPos=107, millis=304538
+vel=10.75, currPos=108, millis=304631
+vel=-13.70, currPos=107, millis=304704
+lick, millis=304713
+vel=-60.00, currPos=104, millis=304755
+vel=-98.04, currPos=99, millis=304805
+lick, millis=304841
+vel=-173.08, currPos=90, millis=304856
+vel=-200.00, currPos=80, millis=304908
+lick, millis=304953
+vel=-19.61, currPos=79, millis=304958
+vel=117.65, currPos=85, millis=305008
+vel=180.00, currPos=94, millis=305059
+lick, millis=305064
+vel=176.47, currPos=103, millis=305110
+vel=58.82, currPos=106, millis=305161
+lick, millis=305246
+vel=-11.49, currPos=105, millis=305248
+vel=-58.82, currPos=102, millis=305299
+vel=-100.00, currPos=97, millis=305350
+vel=-98.04, currPos=92, millis=305401
+vel=-39.22, currPos=90, millis=305451
+lick, millis=305461
+vel=-78.43, currPos=86, millis=305502
+vel=-58.82, currPos=83, millis=305553
+vel=20.00, currPos=84, millis=305603
+vel=39.22, currPos=86, millis=305654
+vel=58.82, currPos=89, millis=305705
+lick, millis=305754
+vel=19.61, currPos=90, millis=305756
+vel=5.35, currPos=91, millis=305943
+vel=39.22, currPos=93, millis=305994
+vel=80.00, currPos=97, millis=306045
+vel=115.38, currPos=103, millis=306095
+vel=100.00, currPos=108, millis=306146
+vel=58.82, currPos=111, millis=306197
+vel=39.22, currPos=113, millis=306248
+vel=20.00, currPos=114, millis=306299
+vel=38.46, currPos=116, millis=306349
+vel=100.00, currPos=121, millis=306400
+vel=156.86, currPos=129, millis=306451
+vel=156.86, currPos=137, millis=306502
+vel=140.00, currPos=144, millis=306553
+vel=78.43, currPos=148, millis=306604
+vel=38.46, currPos=150, millis=306654
+lick, millis=306660
+vel=-5.10, currPos=149, millis=306852
+vel=-60.00, currPos=146, millis=306903
+lick, millis=306925
+vel=-115.38, currPos=140, millis=306953
+vel=-120.00, currPos=134, millis=307004
+syncOut, millis = 307017
+vel=-19.61, currPos=133, millis=307055
+vel=19.61, currPos=134, millis=307105
+vel=80.00, currPos=138, millis=307156
+vel=57.69, currPos=141, millis=307207
+vel=98.04, currPos=146, millis=307258
+vel=80.00, currPos=150, millis=307309
+vel=98.04, currPos=155, millis=307360
+vel=80.00, currPos=159, millis=307410
+vel=57.69, currPos=162, millis=307461
+vel=58.82, currPos=165, millis=307512
+vel=80.00, currPos=169, millis=307563
+vel=98.04, currPos=174, millis=307614
+vel=80.00, currPos=178, millis=307664
+vel=115.38, currPos=184, millis=307715
+vel=78.43, currPos=188, millis=307766
+vel=80.00, currPos=192, millis=307817
+vel=39.22, currPos=194, millis=307868
+vel=58.82, currPos=197, millis=307919
+vel=20.00, currPos=198, millis=307969
+vel=-12.66, currPos=197, millis=308049
+lick, millis=308063
+vel=-19.23, currPos=196, millis=308100
+vel=-40.00, currPos=194, millis=308150
+vel=16.13, currPos=195, millis=308212
+vel=-19.61, currPos=194, millis=308264
+vel=-19.61, currPos=193, millis=308314
+lick, millis=308359
+vel=-58.82, currPos=190, millis=308365
+vel=-78.43, currPos=186, millis=308416
+vel=-20.00, currPos=185, millis=308467
+vel=19.61, currPos=186, millis=308517
+vel=40.00, currPos=188, millis=308568
+vel=76.92, currPos=192, millis=308619
+vel=58.82, currPos=195, millis=308670
+vel=60.00, currPos=198, millis=308720
+vel=78.43, currPos=202, millis=308771
+vel=78.43, currPos=206, millis=308822
+vel=39.22, currPos=208, millis=308873
+vel=39.22, currPos=210, millis=308924
+vel=80.00, currPos=214, millis=308975
+vel=98.04, currPos=219, millis=309025
+vel=137.25, currPos=226, millis=309076
+vel=156.86, currPos=234, millis=309127
+vel=117.65, currPos=240, millis=309178
+vel=120.00, currPos=246, millis=309229
+vel=98.04, currPos=251, millis=309280
+vel=117.65, currPos=257, millis=309330
+REWARD, millis=309331
+vel=117.65, currPos=263, millis=309381
+vel=98.04, currPos=268, millis=309432
+vel=98.04, currPos=273, millis=309483
+vel=60.00, currPos=276, millis=309534
+lick, millis=309534
+vel=-8.06, currPos=275, millis=309658
+vel=8.62, currPos=276, millis=309773
+vel=18.52, currPos=277, millis=309827
+vel=20.00, currPos=278, millis=309878
+vel=58.82, currPos=281, millis=309929
+lick, millis=309968
+vel=58.82, currPos=284, millis=309980
+vel=39.22, currPos=286, millis=310031
+vel=39.22, currPos=288, millis=310081
+lick, millis=310089
+vel=40.00, currPos=290, millis=310132
+vel=19.61, currPos=291, millis=310183
+lick, millis=310232
+vel=38.46, currPos=293, millis=310234
+vel=60.00, currPos=296, millis=310285
+vel=19.61, currPos=297, millis=310335
+vel=-18.18, currPos=296, millis=310392
+lick, millis=310398
+lick, millis=310547
+vel=3.48, currPos=297, millis=310678
+lick, millis=310697
+vel=-19.61, currPos=296, millis=310730
+lick, millis=310887
+vel=3.89, currPos=297, millis=310987
+vel=18.87, currPos=298, millis=311040
+lick, millis=311057
+vel=-4.67, currPos=297, millis=311254
+vel=-6.17, currPos=296, millis=311416
+lick, millis=311445
+vel=-13.70, currPos=295, millis=311489
+vel=11.49, currPos=296, millis=311575
+vel=58.82, currPos=299, millis=311626
+vel=120.00, currPos=305, millis=311677
+vel=38.46, currPos=307, millis=311728
+vel=-20.00, currPos=306, millis=311779
+vel=-78.43, currPos=302, millis=311830
+vel=-19.61, currPos=301, millis=311881
+vel=40.00, currPos=303, millis=311931
+vel=78.43, currPos=307, millis=311982
+syncOut, millis = 312017
+vel=76.92, currPos=311, millis=312033
+vel=100.00, currPos=316, millis=312084
+vel=58.82, currPos=319, millis=312134
+vel=40.00, currPos=321, millis=312185
+vel=58.82, currPos=324, millis=312236
+vel=38.46, currPos=326, millis=312287
+vel=-14.49, currPos=325, millis=312358
+vel=-39.22, currPos=323, millis=312409
+vel=-19.23, currPos=322, millis=312459
+vel=20.00, currPos=323, millis=312510
+vel=19.61, currPos=324, millis=312561
+vel=20.00, currPos=325, millis=312611
+vel=19.61, currPos=326, millis=312662
+vel=-19.23, currPos=325, millis=312714
+vel=-20.00, currPos=324, millis=312764
+vel=0.84, currPos=325, millis=313960
+vel=1.18, currPos=326, millis=314810
+vel=4.50, currPos=327, millis=315033
+vel=58.82, currPos=330, millis=315084
+vel=60.00, currPos=333, millis=315134
+vel=19.23, currPos=334, millis=315185
+lick, millis=315221
+vel=78.43, currPos=338, millis=315236
+REWARD, millis=315236
+vel=40.00, currPos=340, millis=315287
+lick, millis=315327
+vel=39.22, currPos=342, millis=315338
+vel=20.00, currPos=343, millis=315389
+lick, millis=315439
+lick, millis=315547
+lick, millis=315660
+vel=-3.68, currPos=342, millis=315661
+vel=-14.29, currPos=341, millis=315730
+vel=-20.00, currPos=340, millis=315781
+lick, millis=315788
+vel=-38.46, currPos=338, millis=315832
+vel=-60.00, currPos=335, millis=315883
+lick, millis=315907
+vel=-19.61, currPos=334, millis=315934
+vel=-19.61, currPos=333, millis=315985
+vel=-20.00, currPos=332, millis=316035
+lick, millis=316047
+vel=-19.23, currPos=331, millis=316086
+vel=10.31, currPos=332, millis=316184
+lick, millis=316207
+lick, millis=316360
+vel=4.37, currPos=333, millis=316412
+vel=40.00, currPos=335, millis=316463
+vel=19.23, currPos=336, millis=316514
+lick, millis=316518
+vel=19.61, currPos=337, millis=316565
+vel=20.00, currPos=338, millis=316616
+vel=-19.61, currPos=337, millis=316667
+lick, millis=316690
+vel=-40.00, currPos=335, millis=316718
+vel=-57.69, currPos=332, millis=316769
+vel=-19.61, currPos=331, millis=316820
+lick, millis=316825
+vel=7.94, currPos=332, millis=316945
+lick, millis=316969
+vel=14.71, currPos=333, millis=317014
+syncOut, millis = 317017
+vel=-5.24, currPos=332, millis=317205
+vel=19.23, currPos=333, millis=317257
+vel=0.77, currPos=334, millis=318563
+vel=0.48, currPos=335, millis=320632
+vel=-3.24, currPos=334, millis=320941
+vel=12.35, currPos=335, millis=321022
+vel=-6.10, currPos=334, millis=321186
+vel=4.07, currPos=335, millis=321431
+syncOut, millis = 322017
+vel=0.73, currPos=336, millis=322804
+vel=0.59, currPos=337, millis=324512
+vel=0.61, currPos=338, millis=326159
+vel=2.23, currPos=339, millis=326608
+vel=19.61, currPos=340, millis=326659
+vel=9.52, currPos=341, millis=326763
+lick, millis=326809
+vel=39.22, currPos=343, millis=326814
+vel=100.00, currPos=348, millis=326865
+REWARD, millis=326865
+vel=98.04, currPos=353, millis=326916
+lick, millis=326935
+vel=19.61, currPos=354, millis=326967
+syncOut, millis = 327017
+vel=-19.61, currPos=353, millis=327018
+vel=-19.61, currPos=352, millis=327069
+lick, millis=327129
+vel=14.29, currPos=353, millis=327139
+vel=19.61, currPos=354, millis=327190
+lick, millis=327251
+vel=-11.63, currPos=353, millis=327277
+vel=-15.38, currPos=352, millis=327342
+lick, millis=327374
+vel=-14.49, currPos=351, millis=327411
+vel=-19.61, currPos=350, millis=327462
+lick, millis=327495
+vel=-19.61, currPos=349, millis=327513
+vel=-40.00, currPos=347, millis=327563
+vel=-19.23, currPos=346, millis=327614
+lick, millis=327623
+vel=-19.61, currPos=345, millis=327665
+vel=-20.00, currPos=344, millis=327716
+lick, millis=327761
+lick, millis=327917
+vel=-4.35, currPos=343, millis=327946
+lick, millis=328083
+vel=-4.05, currPos=342, millis=328193
+vel=-20.00, currPos=341, millis=328243
+lick, millis=328250
+vel=-19.23, currPos=340, millis=328294
+lick, millis=328395
+lick, millis=328578
+vel=3.23, currPos=341, millis=328605
+vel=-10.99, currPos=340, millis=328696
+lick, millis=328769
+vel=4.88, currPos=341, millis=328900
+vel=-9.35, currPos=340, millis=329008
+lick, millis=329100
+vel=-9.26, currPos=339, millis=329116
+lick, millis=329280
+vel=5.71, currPos=340, millis=329291
+vel=-19.61, currPos=339, millis=329342
+vel=13.16, currPos=340, millis=329417
+lick, millis=329444
+vel=20.00, currPos=341, millis=329468
+vel=-7.81, currPos=340, millis=329597
+lick, millis=329668
+vel=0.55, currPos=341, millis=331400
+syncOut, millis = 332017
+vel=0.70, currPos=342, millis=332836
+vel=-2.70, currPos=341, millis=333208
+vel=16.95, currPos=342, millis=333266
+vel=0.37, currPos=343, millis=335946
+vel=-3.50, currPos=342, millis=336233
+vel=9.43, currPos=343, millis=336339
+vel=19.61, currPos=344, millis=336390
+vel=19.61, currPos=345, millis=336441
+vel=-18.18, currPos=344, millis=336496
+vel=-19.61, currPos=343, millis=336547
+vel=-12.35, currPos=342, millis=336628
+vel=-6.25, currPos=341, millis=336788
+vel=-20.00, currPos=340, millis=336839
+vel=-15.38, currPos=339, millis=336904
+vel=-13.51, currPos=338, millis=336978
+syncOut, millis = 337017
+vel=-19.23, currPos=337, millis=337030
+vel=7.30, currPos=338, millis=337167
+vel=2.72, currPos=339, millis=337535
+vel=1.25, currPos=340, millis=338334
+vel=0.37, currPos=341, millis=341007
+vel=-7.41, currPos=340, millis=341142
+vel=13.33, currPos=341, millis=341218
+syncOut, millis = 342017
+vel=0.55, currPos=342, millis=343023
+vel=-10.53, currPos=341, millis=343120
+vel=-19.61, currPos=340, millis=343170
+vel=4.90, currPos=341, millis=343374
+vel=1.05, currPos=342, millis=344331
+syncOut, millis = 347017
+vel=0.35, currPos=343, millis=347209
+vel=20.00, currPos=344, millis=347260
+vel=-19.61, currPos=343, millis=347311
+vel=-19.61, currPos=342, millis=347362
+vel=0.32, currPos=343, millis=350451
+vel=-1.04, currPos=342, millis=351413
+vel=16.95, currPos=343, millis=351470
+syncOut, millis = 352017
+vel=0.26, currPos=344, millis=355311
+vel=-3.70, currPos=343, millis=355583
+vel=5.78, currPos=344, millis=355755
+vel=-3.11, currPos=343, millis=356078
+vel=8.62, currPos=344, millis=356193
+vel=-2.92, currPos=343, millis=356537
+vel=10.31, currPos=344, millis=356632
+vel=-2.93, currPos=343, millis=356973
+syncOut, millis = 357017
+vel=16.67, currPos=344, millis=357033
+vel=-2.49, currPos=343, millis=357435
+vel=13.89, currPos=344, millis=357507
+syncOut, millis = 362017
+vel=-0.18, currPos=343, millis=362991
+vel=8.77, currPos=344, millis=363104
+vel=-5.85, currPos=343, millis=363276
+vel=17.54, currPos=344, millis=363333
+syncOut, millis = 367017
+vel=0.19, currPos=345, millis=368562
+vel=-7.58, currPos=344, millis=368695
+vel=-9.62, currPos=343, millis=368799
+vel=-2.12, currPos=342, millis=369271
+vel=-14.29, currPos=341, millis=369341
+vel=-20.00, currPos=340, millis=369392
+vel=9.90, currPos=341, millis=369491
+vel=17.86, currPos=342, millis=369548
+vel=-19.61, currPos=341, millis=369599
+vel=5.99, currPos=342, millis=369766
+vel=0.69, currPos=343, millis=371224
+vel=-2.53, currPos=342, millis=371618
+vel=6.13, currPos=343, millis=371782
+syncOut, millis = 372017
+vel=0.79, currPos=344, millis=373054
+vel=-10.75, currPos=343, millis=373149
+vel=-18.52, currPos=342, millis=373201
+vel=7.35, currPos=343, millis=373338
+vel=-19.61, currPos=342, millis=373389
+vel=-18.52, currPos=341, millis=373443
+vel=6.06, currPos=342, millis=373608
+vel=1.10, currPos=343, millis=374514
+vel=-2.63, currPos=342, millis=374895
+vel=11.36, currPos=343, millis=374982
+vel=0.57, currPos=344, millis=376736
+vel=-14.71, currPos=343, millis=376803
+vel=5.21, currPos=344, millis=376994
+syncOut, millis = 377017
+vel=-2.92, currPos=343, millis=377338
+vel=11.76, currPos=344, millis=377423
+vel=-2.39, currPos=343, millis=377843
+vel=17.24, currPos=344, millis=377901
+vel=-0.74, currPos=343, millis=379260
+vel=-20.00, currPos=342, millis=379310
+vel=-39.22, currPos=340, millis=379361
+vel=13.33, currPos=341, millis=379436
+vel=19.61, currPos=342, millis=379487
+vel=19.61, currPos=343, millis=379538
+vel=-14.49, currPos=342, millis=379607
+vel=1.87, currPos=343, millis=380144
+vel=1.40, currPos=344, millis=380857
+vel=-6.58, currPos=343, millis=381009
+vel=10.64, currPos=344, millis=381103
+vel=-3.75, currPos=343, millis=381370
+vel=11.63, currPos=344, millis=381455
+syncOut, millis = 382017
+vel=0.54, currPos=345, millis=383312
+vel=-2.85, currPos=344, millis=383664
+vel=8.47, currPos=345, millis=383781
+vel=0.61, currPos=346, millis=385425
+vel=-10.99, currPos=345, millis=385516
+vel=13.89, currPos=346, millis=385588
+vel=-4.63, currPos=345, millis=385804
+vel=-9.71, currPos=344, millis=385907
+vel=8.70, currPos=345, millis=386022
+vel=-5.35, currPos=344, millis=386210
+vel=5.95, currPos=345, millis=386377
+syncOut, millis = 387017
+vel=1.17, currPos=346, millis=387232
+vel=-2.53, currPos=345, millis=387627
+vel=9.01, currPos=346, millis=387738
+vel=0.34, currPos=347, millis=390662
+vel=-19.61, currPos=346, millis=390713
+vel=-40.00, currPos=344, millis=390764
+vel=-39.22, currPos=342, millis=390815
+vel=19.23, currPos=343, millis=390865
+vel=20.00, currPos=344, millis=390916
+vel=19.61, currPos=345, millis=390967
+vel=-16.13, currPos=344, millis=391030
+vel=-18.52, currPos=343, millis=391083
+vel=-19.61, currPos=342, millis=391134
+vel=-19.61, currPos=341, millis=391185
+vel=-20.00, currPos=340, millis=391236
+vel=19.61, currPos=341, millis=391286
+vel=19.23, currPos=342, millis=391337
+vel=20.00, currPos=343, millis=391388
+vel=-8.06, currPos=342, millis=391513
+vel=3.88, currPos=343, millis=391770
+vel=4.48, currPos=344, millis=391993
+syncOut, millis = 392017
+vel=0.95, currPos=345, millis=393046
+vel=-7.41, currPos=344, millis=393181
+vel=6.62, currPos=345, millis=393332
+vel=0.50, currPos=346, millis=395350
+vel=-3.02, currPos=345, millis=395682
+vel=8.20, currPos=346, millis=395803
+vel=-2.79, currPos=345, millis=396162
+vel=11.76, currPos=346, millis=396245
+syncOut, millis = 397017
+vel=-0.33, currPos=345, millis=399308
+vel=-18.87, currPos=344, millis=399360
+vel=10.42, currPos=345, millis=399456
+vel=20.00, currPos=346, millis=399507
+vel=-19.61, currPos=345, millis=399558
+vel=-19.61, currPos=344, millis=399609
+vel=16.67, currPos=345, millis=399668
+vel=-4.57, currPos=344, millis=399888
+vel=3.12, currPos=345, millis=400209
+vel=-6.13, currPos=344, millis=400372
+vel=6.94, currPos=345, millis=400514
+vel=0.79, currPos=346, millis=401779
+vel=-6.76, currPos=345, millis=401927
+syncOut, millis = 402017
+vel=6.94, currPos=346, millis=402071
+vel=0.45, currPos=347, millis=404303
+vel=-19.23, currPos=346, millis=404354
+vel=-40.00, currPos=344, millis=404405
+vel=19.61, currPos=345, millis=404455
+vel=60.00, currPos=348, millis=404506
+vel=58.82, currPos=351, millis=404557
+vel=-19.61, currPos=350, millis=404608
+vel=-39.22, currPos=348, millis=404659
+vel=-39.22, currPos=346, millis=404710
+vel=-16.39, currPos=345, millis=404772
+vel=11.24, currPos=346, millis=404860
+vel=-9.90, currPos=345, millis=404960
+vel=-20.00, currPos=344, millis=405011
+vel=4.29, currPos=345, millis=405244
+vel=1.21, currPos=346, millis=406069
+syncOut, millis = 407017
+vel=0.66, currPos=347, millis=407583
+vel=-2.93, currPos=346, millis=407925
+vel=6.71, currPos=347, millis=408072
+vel=-2.27, currPos=346, millis=408515
+vel=11.11, currPos=347, millis=408605
+vel=-2.17, currPos=346, millis=409065
+vel=19.61, currPos=347, millis=409115
+vel=-0.39, currPos=346, millis=411689
+vel=-19.61, currPos=345, millis=411740
+vel=-7.35, currPos=344, millis=411876
+vel=-19.61, currPos=343, millis=411927
+syncOut, millis = 412017
+vel=-6.76, currPos=342, millis=412076
+vel=9.62, currPos=343, millis=412179
+vel=3.33, currPos=344, millis=412479
+vel=-3.10, currPos=343, millis=412803
+vel=-9.26, currPos=342, millis=412910
+vel=12.05, currPos=343, millis=412993
+vel=20.00, currPos=344, millis=413044
+vel=19.61, currPos=345, millis=413094
+vel=-9.43, currPos=344, millis=413200
+vel=7.63, currPos=345, millis=413331
+vel=1.73, currPos=346, millis=413911
+vel=0.62, currPos=347, millis=415514
+vel=-2.54, currPos=346, millis=415908
+vel=8.62, currPos=347, millis=416023
+vel=-2.12, currPos=346, millis=416496
+vel=19.61, currPos=347, millis=416547
+syncOut, millis = 417017
+vel=-0.51, currPos=346, millis=418500
+vel=-40.00, currPos=344, millis=418550
+vel=-19.61, currPos=343, millis=418601
+vel=39.22, currPos=345, millis=418652
+vel=39.22, currPos=347, millis=418702
+vel=-19.23, currPos=346, millis=418755
+vel=-19.61, currPos=345, millis=418806
+vel=9.09, currPos=346, millis=418916
+vel=0.85, currPos=347, millis=420088
+vel=1.08, currPos=348, millis=421018
+vel=-2.77, currPos=347, millis=421381
+vel=6.49, currPos=348, millis=421534
+syncOut, millis = 422017
+syncOut, millis = 427017
+vel=0.13, currPos=349, millis=429136
+vel=-17.54, currPos=348, millis=429194
+vel=2.72, currPos=349, millis=429560
+vel=-3.25, currPos=348, millis=429869
+vel=6.25, currPos=349, millis=430029
+vel=-2.95, currPos=348, millis=430368
+vel=6.58, currPos=349, millis=430519
+vel=-3.06, currPos=348, millis=430847
+vel=6.85, currPos=349, millis=430992
+vel=-2.44, currPos=348, millis=431404
+vel=10.10, currPos=349, millis=431502
+syncOut, millis = 432017
+vel=-1.61, currPos=348, millis=432124
+vel=-39.22, currPos=346, millis=432175
+vel=-20.00, currPos=345, millis=432225
+vel=19.23, currPos=346, millis=432276
+vel=20.00, currPos=347, millis=432327
+vel=-19.61, currPos=346, millis=432378
+vel=-9.26, currPos=345, millis=432485
+vel=-18.87, currPos=344, millis=432538
+vel=-15.87, currPos=343, millis=432602
+vel=19.23, currPos=344, millis=432653
+vel=14.49, currPos=345, millis=432723
+vel=-10.10, currPos=344, millis=432822
+vel=7.14, currPos=345, millis=432961
+vel=19.61, currPos=346, millis=433012
+vel=-16.95, currPos=345, millis=433073
+vel=-14.93, currPos=344, millis=433139
+vel=3.75, currPos=345, millis=433406
+vel=2.13, currPos=346, millis=433876
+vel=1.17, currPos=347, millis=434733
+vel=0.76, currPos=348, millis=436045
+vel=-2.47, currPos=347, millis=436451
+vel=9.26, currPos=348, millis=436558
+vel=-2.39, currPos=347, millis=436977
+syncOut, millis = 437017
+vel=19.61, currPos=348, millis=437027
+vel=14.08, currPos=349, millis=437098
+vel=19.61, currPos=350, millis=437149
+vel=-11.90, currPos=349, millis=437234
+vel=-7.58, currPos=348, millis=437366
+vel=-3.85, currPos=347, millis=437626
+vel=4.39, currPos=348, millis=437854
+vel=-1.86, currPos=347, millis=438392
+vel=-19.61, currPos=346, millis=438443
+vel=12.66, currPos=347, millis=438521
+vel=16.39, currPos=348, millis=438582
+vel=-10.10, currPos=347, millis=438681
+vel=11.11, currPos=348, millis=438771
+vel=0.39, currPos=349, millis=441305
+vel=-2.76, currPos=348, millis=441666
+vel=8.55, currPos=349, millis=441784
+syncOut, millis = 442017
+vel=0.90, currPos=350, millis=442892
+vel=-16.95, currPos=349, millis=442951
+vel=-39.22, currPos=347, millis=443002
+vel=16.95, currPos=348, millis=443061
+vel=-11.36, currPos=347, millis=443149
+vel=-19.61, currPos=346, millis=443200
+vel=-19.61, currPos=345, millis=443251
+vel=13.89, currPos=346, millis=443323
+vel=-19.61, currPos=345, millis=443375
+vel=12.20, currPos=346, millis=443456
+vel=-6.21, currPos=345, millis=443618
+vel=-19.23, currPos=344, millis=443669
+vel=-19.61, currPos=343, millis=443720
+vel=20.00, currPos=344, millis=443770
+vel=39.22, currPos=346, millis=443821
+vel=19.61, currPos=347, millis=443872
+vel=-13.70, currPos=346, millis=443946
+vel=3.31, currPos=347, millis=444247
+vel=1.15, currPos=348, millis=445118
+vel=-4.50, currPos=347, millis=445341
+vel=11.24, currPos=348, millis=445429
+syncOut, millis = 447017
+vel=0.48, currPos=349, millis=447515
+vel=-3.53, currPos=348, millis=447800
+vel=5.13, currPos=349, millis=447994
+vel=-2.62, currPos=348, millis=448375
+vel=8.33, currPos=349, millis=448495
+vel=-2.40, currPos=348, millis=448913
+vel=15.62, currPos=349, millis=448975
+vel=0.62, currPos=350, millis=450591
+vel=-6.49, currPos=349, millis=450746
+vel=-16.13, currPos=348, millis=450808
+vel=5.46, currPos=349, millis=450990
+vel=-2.20, currPos=348, millis=451445
+vel=-10.53, currPos=347, millis=451540
+vel=14.71, currPos=348, millis=451607
+vel=-14.08, currPos=347, millis=451679
+vel=-19.61, currPos=346, millis=451730
+vel=-19.61, currPos=345, millis=451781
+vel=19.61, currPos=346, millis=451831
+vel=-19.61, currPos=345, millis=451883
+vel=-20.00, currPos=344, millis=451934
+vel=19.61, currPos=345, millis=451984
+syncOut, millis = 452017
+vel=19.23, currPos=346, millis=452035
+vel=-5.43, currPos=345, millis=452220
+vel=-20.00, currPos=344, millis=452271
+vel=-39.22, currPos=342, millis=452322
+vel=13.16, currPos=343, millis=452397
+vel=19.61, currPos=344, millis=452448
+vel=20.00, currPos=345, millis=452498
+vel=1.90, currPos=346, millis=453022
+vel=0.98, currPos=347, millis=454042
+vel=0.42, currPos=348, millis=456396
+vel=-8.70, currPos=347, millis=456512
+vel=9.09, currPos=348, millis=456621
+vel=19.23, currPos=349, millis=456673
+vel=20.00, currPos=350, millis=456724
+vel=-17.24, currPos=349, millis=456782
+vel=-20.00, currPos=348, millis=456832
+vel=-19.61, currPos=347, millis=456883
+vel=-19.61, currPos=346, millis=456934
+syncOut, millis = 457017
+vel=9.17, currPos=347, millis=457043
+vel=11.90, currPos=348, millis=457127
+vel=-6.71, currPos=347, millis=457276
+vel=6.67, currPos=348, millis=457426
+vel=-2.85, currPos=347, millis=457777
+vel=5.62, currPos=348, millis=457955
+vel=1.01, currPos=349, millis=458948
+vel=0.58, currPos=350, millis=460673
+vel=-8.55, currPos=349, millis=460791
+vel=-4.35, currPos=348, millis=461021
+vel=9.90, currPos=349, millis=461121
+vel=-2.11, currPos=348, millis=461596
+vel=12.20, currPos=349, millis=461678
+vel=10.00, currPos=350, millis=461778
+vel=-11.11, currPos=349, millis=461869
+syncOut, millis = 462017
+vel=0.65, currPos=350, millis=463407
+vel=-12.05, currPos=349, millis=463491
+vel=5.24, currPos=350, millis=463682
+vel=-7.52, currPos=349, millis=463815
+vel=-4.95, currPos=348, millis=464017
+vel=4.69, currPos=349, millis=464230
+vel=-11.49, currPos=348, millis=464318
+vel=2.12, currPos=349, millis=464789
+vel=-5.81, currPos=348, millis=464961
+vel=8.33, currPos=349, millis=465080
+vel=1.55, currPos=350, millis=465727
+syncOut, millis = 467017
+vel=-0.26, currPos=349, millis=469516
+vel=-19.61, currPos=348, millis=469567
+vel=19.61, currPos=349, millis=469617
+vel=-8.26, currPos=348, millis=469739
+vel=-19.23, currPos=347, millis=469790
+vel=6.29, currPos=348, millis=469949
+vel=-5.88, currPos=347, millis=470120
+vel=5.88, currPos=348, millis=470289
+vel=-4.27, currPos=347, millis=470524
+vel=15.38, currPos=348, millis=470588
+vel=3.25, currPos=349, millis=470897
+vel=-9.43, currPos=348, millis=471003
+vel=7.25, currPos=349, millis=471141
+vel=1.26, currPos=350, millis=471936
+syncOut, millis = 472017
+vel=-11.11, currPos=349, millis=472028
+vel=4.65, currPos=350, millis=472242
+vel=-2.58, currPos=349, millis=472630
+vel=13.70, currPos=350, millis=472702
+vel=-0.63, currPos=349, millis=474280
+vel=20.00, currPos=350, millis=474330
+vel=-9.26, currPos=349, millis=474439
+vel=-6.29, currPos=348, millis=474597
+vel=-18.18, currPos=347, millis=474653
+vel=-19.23, currPos=346, millis=474704
+vel=11.24, currPos=347, millis=474793
+vel=10.42, currPos=348, millis=474890
+vel=-13.70, currPos=347, millis=474962
+vel=-16.67, currPos=346, millis=475023
+vel=8.20, currPos=347, millis=475145
+vel=19.61, currPos=348, millis=475195
+vel=1.07, currPos=349, millis=476128
+syncOut, millis = 477017
+vel=0.81, currPos=350, millis=477367
+vel=-12.82, currPos=349, millis=477446
+vel=5.59, currPos=350, millis=477625
+vel=-2.55, currPos=349, millis=478017
+vel=9.01, currPos=350, millis=478128
+vel=-2.30, currPos=349, millis=478563
+vel=16.95, currPos=350, millis=478623
+vel=-2.08, currPos=349, millis=479102
+vel=20.00, currPos=350, millis=479152
+vel=-4.07, currPos=349, millis=479398
+vel=-19.61, currPos=348, millis=479449
+vel=20.00, currPos=349, millis=479499
+vel=19.61, currPos=350, millis=479550
+vel=-8.77, currPos=349, millis=479665
+vel=-19.61, currPos=348, millis=479716
+vel=9.90, currPos=349, millis=479816
+vel=14.08, currPos=350, millis=479887
+vel=-19.61, currPos=349, millis=479939
+vel=1.81, currPos=350, millis=480493
+vel=0.76, currPos=351, millis=481814
+vel=-5.59, currPos=350, millis=481994
+syncOut, millis = 482017
+vel=8.00, currPos=351, millis=482119
+vel=-7.81, currPos=350, millis=482247
+vel=8.55, currPos=351, millis=482364
+vel=-2.76, currPos=350, millis=482726
+vel=11.24, currPos=351, millis=482814
+vel=20.00, currPos=352, millis=482865
+vel=-19.61, currPos=351, millis=482916
+vel=-19.61, currPos=350, millis=482967
+vel=9.35, currPos=351, millis=483074
+vel=-7.87, currPos=350, millis=483201
+vel=-11.36, currPos=349, millis=483289
+vel=-19.61, currPos=348, millis=483340
+vel=-13.89, currPos=347, millis=483412
+vel=20.00, currPos=348, millis=483462
+vel=10.53, currPos=349, millis=483557
+vel=11.49, currPos=350, millis=483644
+vel=-10.75, currPos=349, millis=483738
+vel=12.66, currPos=350, millis=483816
+vel=0.46, currPos=351, millis=485982
+vel=-2.83, currPos=350, millis=486337
+vel=11.49, currPos=351, millis=486423
+vel=-2.35, currPos=350, millis=486850
+vel=16.95, currPos=351, millis=486908
+syncOut, millis = 487017
+vel=-1.68, currPos=350, millis=487506
+vel=9.35, currPos=351, millis=487612
+vel=5.41, currPos=352, millis=487798
+vel=-12.05, currPos=351, millis=487882
+vel=-19.23, currPos=350, millis=487933
+vel=16.67, currPos=351, millis=487993
+vel=-14.71, currPos=350, millis=488061
+vel=-19.61, currPos=349, millis=488112
+vel=-19.61, currPos=348, millis=488163
+vel=-2.49, currPos=347, millis=488565
+vel=-39.22, currPos=345, millis=488616
+vel=-39.22, currPos=343, millis=488667
+vel=19.23, currPos=344, millis=488719
+vel=20.00, currPos=345, millis=488770
+vel=39.22, currPos=347, millis=488821
+vel=19.23, currPos=348, millis=488871
+vel=-12.99, currPos=347, millis=488951
+vel=3.76, currPos=348, millis=489215
+vel=2.54, currPos=349, millis=489608
+vel=0.81, currPos=350, millis=490836
+vel=-4.24, currPos=349, millis=491073
+vel=9.80, currPos=350, millis=491174
+vel=-2.39, currPos=349, millis=491593
+vel=19.23, currPos=350, millis=491644
+syncOut, millis = 492017
+vel=1.88, currPos=351, millis=492177
+vel=19.61, currPos=352, millis=492228
+vel=-14.29, currPos=351, millis=492298
+vel=-19.61, currPos=350, millis=492349
+vel=-20.00, currPos=349, millis=492400
+vel=19.61, currPos=350, millis=492450
+vel=-18.18, currPos=349, millis=492505
+vel=8.85, currPos=350, millis=492618
+vel=-8.00, currPos=349, millis=492744
+vel=-19.61, currPos=348, millis=492795
+vel=9.09, currPos=349, millis=492904
+vel=5.24, currPos=350, millis=493095
+vel=-15.15, currPos=349, millis=493162
+vel=-6.33, currPos=348, millis=493319
+vel=9.90, currPos=349, millis=493421
+vel=12.20, currPos=350, millis=493502
+vel=1.13, currPos=351, millis=494389
+vel=-3.28, currPos=350, millis=494694
+vel=10.31, currPos=351, millis=494790
+syncOut, millis = 497017
+vel=0.31, currPos=352, millis=498037
+vel=-19.61, currPos=351, millis=498088
+vel=-19.23, currPos=350, millis=498139
+vel=7.94, currPos=351, millis=498265
+vel=-8.47, currPos=350, millis=498384
+vel=10.87, currPos=351, millis=498475
+vel=-6.54, currPos=350, millis=498629
+vel=4.24, currPos=351, millis=498864
+vel=-2.21, currPos=350, millis=499318
+vel=9.17, currPos=351, millis=499427
+syncOut, millis = 502017
+vel=0.38, currPos=352, millis=502069
+vel=-16.67, currPos=351, millis=502130
+vel=-5.75, currPos=350, millis=502304
+vel=19.61, currPos=351, millis=502354
+vel=-18.87, currPos=350, millis=502407
+vel=-20.00, currPos=349, millis=502458
+vel=-19.61, currPos=348, millis=502508
+vel=19.61, currPos=349, millis=502559
+vel=-12.05, currPos=348, millis=502642
+vel=6.62, currPos=349, millis=502793
+vel=5.26, currPos=350, millis=502984
+vel=-15.87, currPos=349, millis=503046
+vel=-6.85, currPos=348, millis=503192
+vel=4.76, currPos=349, millis=503402
+vel=20.00, currPos=350, millis=503453
+vel=-5.71, currPos=349, millis=503629
+vel=4.67, currPos=350, millis=503841
+vel=1.00, currPos=351, millis=504844
+vel=-3.21, currPos=350, millis=505157
+vel=2.63, currPos=351, millis=505537
+vel=-5.71, currPos=350, millis=505712
+vel=6.45, currPos=351, millis=505866
+vel=-2.21, currPos=350, millis=506320
+vel=12.50, currPos=351, millis=506399
+syncOut, millis = 507017
+vel=0.62, currPos=352, millis=508001
+vel=-8.26, currPos=351, millis=508122
+vel=-4.46, currPos=350, millis=508346
+vel=-15.38, currPos=349, millis=508412
+vel=-18.52, currPos=348, millis=508466
+vel=19.61, currPos=349, millis=508516
+vel=20.00, currPos=350, millis=508567
+vel=19.61, currPos=351, millis=508618
+vel=-6.94, currPos=350, millis=508761
+vel=-10.20, currPos=349, millis=508860
+vel=7.75, currPos=350, millis=508988
+vel=19.23, currPos=351, millis=509041
+vel=-4.63, currPos=350, millis=509257
+vel=7.94, currPos=351, millis=509383
+vel=-0.58, currPos=350, millis=511102
+vel=-39.22, currPos=348, millis=511153
+vel=13.16, currPos=349, millis=511229
+vel=19.23, currPos=350, millis=511280
+vel=-8.20, currPos=349, millis=511404
+syncOut, millis = 512017
+vel=1.60, currPos=350, millis=512028
+vel=-8.13, currPos=349, millis=512151
+vel=7.69, currPos=350, millis=512282
+vel=0.84, currPos=351, millis=513478
+vel=-5.95, currPos=350, millis=513646
+vel=-3.44, currPos=349, millis=513937
+vel=7.30, currPos=350, millis=514074
+vel=1.05, currPos=351, millis=515024
+vel=-2.88, currPos=350, millis=515371
+vel=7.58, currPos=351, millis=515503
+vel=-2.13, currPos=350, millis=515973
+vel=8.55, currPos=351, millis=516090
+vel=-20.00, currPos=350, millis=516141
+vel=19.23, currPos=351, millis=516191
+vel=-14.08, currPos=350, millis=516264
+vel=-19.61, currPos=349, millis=516314
+vel=10.00, currPos=350, millis=516414
+vel=-19.61, currPos=349, millis=516465
+vel=-19.61, currPos=348, millis=516516
+vel=7.09, currPos=349, millis=516656
+vel=-4.22, currPos=348, millis=516894
+vel=-10.75, currPos=347, millis=516988
+syncOut, millis = 517017
+vel=10.64, currPos=348, millis=517082
+vel=11.36, currPos=349, millis=517168
+vel=1.68, currPos=350, millis=517763
+vel=-5.68, currPos=349, millis=517940
+vel=7.52, currPos=350, millis=518072
+vel=0.62, currPos=351, millis=519679
+vel=-10.42, currPos=350, millis=519775
+vel=7.09, currPos=351, millis=519916
+vel=-3.55, currPos=350, millis=520199
+vel=3.36, currPos=351, millis=520497
+vel=-4.00, currPos=350, millis=520747
+vel=7.75, currPos=351, millis=520876
+vel=-2.23, currPos=350, millis=521325
+vel=12.66, currPos=351, millis=521402
+syncOut, millis = 522017
+vel=0.81, currPos=352, millis=522643
+vel=-19.23, currPos=351, millis=522696
+vel=-4.33, currPos=350, millis=522928
+vel=-2.07, currPos=349, millis=523411
+vel=-19.61, currPos=348, millis=523462
+vel=19.61, currPos=349, millis=523513
+vel=20.00, currPos=350, millis=523563
+vel=19.23, currPos=351, millis=523614
+vel=-13.70, currPos=350, millis=523689
+vel=5.43, currPos=351, millis=523872
+vel=-3.16, currPos=350, millis=524189
+vel=4.39, currPos=351, millis=524417
+vel=0.42, currPos=352, millis=526773
+vel=19.61, currPos=353, millis=526823
+vel=-20.00, currPos=352, millis=526875
+vel=-39.22, currPos=350, millis=526926
+vel=12.50, currPos=351, millis=527005
+syncOut, millis = 527017
+vel=-12.05, currPos=350, millis=527089
+vel=-19.61, currPos=349, millis=527140
+vel=-19.61, currPos=348, millis=527191
+vel=10.99, currPos=349, millis=527282
+vel=-4.52, currPos=348, millis=527503
+vel=-10.53, currPos=347, millis=527598
+vel=-19.61, currPos=346, millis=527649
+vel=-20.00, currPos=345, millis=527699
+vel=19.61, currPos=346, millis=527750
+vel=39.22, currPos=348, millis=527801
+vel=19.61, currPos=349, millis=527851
+vel=-16.39, currPos=348, millis=527913
+vel=4.61, currPos=349, millis=528130
+vel=1.06, currPos=350, millis=529070
+vel=-12.35, currPos=349, millis=529151
+vel=5.38, currPos=350, millis=529336
+vel=0.63, currPos=351, millis=530924
+vel=-19.61, currPos=350, millis=530975
+vel=-10.42, currPos=349, millis=531072
+vel=4.74, currPos=350, millis=531283
+vel=-9.52, currPos=349, millis=531387
+vel=-39.22, currPos=347, millis=531438
+vel=-20.00, currPos=346, millis=531489
+vel=12.66, currPos=347, millis=531567
+vel=19.61, currPos=348, millis=531618
+vel=39.22, currPos=350, millis=531669
+vel=-15.38, currPos=349, millis=531735
+vel=-19.61, currPos=348, millis=531786
+vel=6.29, currPos=349, millis=531944
+syncOut, millis = 532017
+vel=1.73, currPos=350, millis=532521
+vel=-2.85, currPos=349, millis=532874
+vel=14.71, currPos=350, millis=532940
+vel=0.77, currPos=351, millis=534232
+vel=-5.71, currPos=350, millis=534408
+vel=5.03, currPos=351, millis=534606
+vel=-2.66, currPos=350, millis=534983
+vel=7.75, currPos=351, millis=535111
+vel=-1.00, currPos=350, millis=536112
+vel=12.05, currPos=351, millis=536195
+vel=-7.52, currPos=350, millis=536328
+vel=-38.46, currPos=348, millis=536379
+vel=-20.00, currPos=347, millis=536430
+vel=19.61, currPos=348, millis=536480
+vel=39.22, currPos=350, millis=536531
+vel=20.00, currPos=351, millis=536582
+vel=-19.23, currPos=350, millis=536633
+vel=-19.61, currPos=349, millis=536684
+vel=11.36, currPos=350, millis=536772
+syncOut, millis = 537017
+vel=-3.06, currPos=349, millis=537100
+vel=18.52, currPos=350, millis=537154
+vel=-1.54, currPos=349, millis=537805
+vel=6.99, currPos=350, millis=537948
+vel=-5.35, currPos=349, millis=538135
+vel=-40.00, currPos=347, millis=538186
+vel=18.18, currPos=348, millis=538240
+vel=-5.29, currPos=347, millis=538430
+vel=-19.61, currPos=346, millis=538480
+vel=-39.22, currPos=344, millis=538531
+vel=-40.00, currPos=342, millis=538582
+vel=19.61, currPos=343, millis=538632
+vel=19.61, currPos=344, millis=538683
+vel=-11.11, currPos=343, millis=538773
+vel=-20.00, currPos=342, millis=538824
+vel=-39.22, currPos=340, millis=538875
+vel=13.33, currPos=341, millis=538949
+vel=40.00, currPos=343, millis=539000
+vel=58.82, currPos=346, millis=539051
+vel=39.22, currPos=348, millis=539101
+vel=39.22, currPos=350, millis=539152
+vel=-8.26, currPos=349, millis=539274
+vel=-19.23, currPos=348, millis=539325
+vel=-40.00, currPos=346, millis=539376
+vel=-19.61, currPos=345, millis=539427
+vel=-20.00, currPos=344, millis=539478
+vel=-19.61, currPos=343, millis=539528
+vel=-13.16, currPos=342, millis=539604
+vel=-8.93, currPos=341, millis=539716
+vel=-19.61, currPos=340, millis=539767
+vel=20.00, currPos=341, millis=539817
+vel=19.61, currPos=342, millis=539868
+vel=-7.58, currPos=341, millis=540000
+vel=-7.81, currPos=340, millis=540128
+vel=-5.43, currPos=339, millis=540312
+vel=-20.00, currPos=338, millis=540363
+vel=-19.61, currPos=337, millis=540413
+vel=13.16, currPos=338, millis=540488
+vel=20.00, currPos=339, millis=540539
+vel=19.61, currPos=340, millis=540590
+vel=20.00, currPos=341, millis=540641
+vel=19.23, currPos=342, millis=540692
+vel=19.61, currPos=343, millis=540742
+vel=3.34, currPos=344, millis=541042
+syncOut, millis = 542017
+vel=0.98, currPos=345, millis=542064
+vel=-3.28, currPos=344, millis=542370
+vel=3.88, currPos=345, millis=542628
+vel=1.52, currPos=346, millis=543285
+vel=1.00, currPos=347, millis=544289
+vel=-5.05, currPos=346, millis=544488
+vel=11.11, currPos=347, millis=544578
+vel=-1.76, currPos=346, millis=545145
+vel=-12.05, currPos=345, millis=545228
+vel=-19.61, currPos=344, millis=545279
+vel=10.20, currPos=345, millis=545377
+vel=19.61, currPos=346, millis=545428
+vel=0.84, currPos=347, millis=546624
+syncOut, millis = 547017
+vel=0.91, currPos=348, millis=547725
+vel=-6.71, currPos=347, millis=547873
+vel=9.52, currPos=348, millis=547979
+vel=0.67, currPos=349, millis=549470
+vel=-20.00, currPos=348, millis=549521
+vel=-38.46, currPos=346, millis=549572
+vel=-19.61, currPos=345, millis=549623
+vel=12.50, currPos=346, millis=549702
+vel=8.55, currPos=347, millis=549820
+vel=1.25, currPos=348, millis=550622
+vel=-5.88, currPos=347, millis=550792
+vel=6.41, currPos=348, millis=550947
+vel=1.92, currPos=349, millis=551468
+vel=-12.50, currPos=348, millis=551548
+vel=-4.72, currPos=347, millis=551760
+syncOut, millis = 552017
+vel=3.41, currPos=348, millis=552053
+vel=-8.40, currPos=347, millis=552172
+vel=5.81, currPos=348, millis=552343
+vel=0.77, currPos=349, millis=553650
+vel=-6.67, currPos=348, millis=553799
+vel=9.52, currPos=349, millis=553904
+vel=0.58, currPos=350, millis=555615
+vel=-8.93, currPos=349, millis=555728
+vel=1.35, currPos=350, millis=556471
+vel=-2.90, currPos=349, millis=556816
+vel=6.54, currPos=350, millis=556969
+syncOut, millis = 557017
+vel=1.68, currPos=351, millis=557564
+vel=-19.61, currPos=350, millis=557615
+vel=-40.00, currPos=348, millis=557666
+vel=-3.91, currPos=347, millis=557922
+vel=-9.43, currPos=346, millis=558028
+vel=19.61, currPos=347, millis=558078
+vel=2.70, currPos=348, millis=558448
+vel=0.90, currPos=349, millis=559563
+vel=0.67, currPos=350, millis=561057
+vel=-2.71, currPos=349, millis=561428
+vel=14.49, currPos=350, millis=561496
+vel=-11.36, currPos=349, millis=561585
+vel=-39.22, currPos=347, millis=561636
+vel=12.99, currPos=348, millis=561711
+vel=20.00, currPos=349, millis=561762
+vel=-11.11, currPos=348, millis=561853
+syncOut, millis = 562017
+vel=1.36, currPos=349, millis=562586
+vel=1.10, currPos=350, millis=563497
+vel=-3.03, currPos=349, millis=563827
+vel=5.13, currPos=350, millis=564022
+vel=0.97, currPos=351, millis=565059
+vel=-5.32, currPos=350, millis=565247
+syncOut, millis = 567017
+vel=0.30, currPos=351, millis=568560
+vel=-2.84, currPos=350, millis=568912
+vel=8.00, currPos=351, millis=569037
+syncOut, millis = 572017
+vel=-0.32, currPos=350, millis=572137
+vel=-39.22, currPos=348, millis=572188
+vel=12.82, currPos=349, millis=572266
+vel=19.61, currPos=350, millis=572317
+vel=-11.24, currPos=349, millis=572406
+vel=-19.61, currPos=348, millis=572457
+vel=-19.61, currPos=347, millis=572508
+vel=-20.00, currPos=346, millis=572558
+vel=11.49, currPos=347, millis=572644
+vel=14.93, currPos=348, millis=572711
+vel=-6.10, currPos=347, millis=572876
+vel=7.04, currPos=348, millis=573018
+vel=1.93, currPos=349, millis=573536
+vel=1.08, currPos=350, millis=574463
+syncOut, millis = 577017
+vel=0.38, currPos=351, millis=577102
+vel=-12.66, currPos=350, millis=577183
+vel=-5.10, currPos=349, millis=577378
+vel=-19.61, currPos=348, millis=577429
+vel=7.09, currPos=349, millis=577569
+vel=13.70, currPos=350, millis=577643
+vel=-13.33, currPos=349, millis=577719
+vel=-5.85, currPos=348, millis=577889
+vel=5.75, currPos=349, millis=578063
+vel=16.39, currPos=350, millis=578123
+vel=-8.33, currPos=349, millis=578245
+vel=3.88, currPos=350, millis=578503
+vel=0.97, currPos=351, millis=579535
+vel=-7.81, currPos=350, millis=579664
+vel=-3.80, currPos=349, millis=579927
+vel=-15.87, currPos=348, millis=579990
+vel=9.09, currPos=349, millis=580100
+vel=11.11, currPos=350, millis=580189
+vel=-10.53, currPos=349, millis=580286
+vel=-4.48, currPos=348, millis=580509
+vel=-6.33, currPos=347, millis=580666
+vel=9.09, currPos=348, millis=580775
+vel=20.00, currPos=349, millis=580826
+vel=19.61, currPos=350, millis=580877
+vel=-19.61, currPos=349, millis=580929
+vel=-20.00, currPos=348, millis=580979
+vel=9.80, currPos=349, millis=581080
+vel=14.49, currPos=350, millis=581150
+syncOut, millis = 582017
+vel=0.51, currPos=351, millis=583119
+vel=0.48, currPos=352, millis=585184
+vel=-10.10, currPos=351, millis=585284
+vel=-16.39, currPos=350, millis=585345
+vel=-2.60, currPos=349, millis=585729
+vel=-19.61, currPos=348, millis=585781
+vel=16.39, currPos=349, millis=585842
+vel=19.23, currPos=350, millis=585892
+vel=-9.17, currPos=349, millis=586003
+vel=-19.61, currPos=348, millis=586054
+vel=-19.23, currPos=347, millis=586105
+vel=10.42, currPos=348, millis=586201
+vel=17.24, currPos=349, millis=586260
+vel=-7.87, currPos=348, millis=586387
+vel=-8.20, currPos=347, millis=586509
+vel=12.20, currPos=348, millis=586590
+vel=20.00, currPos=349, millis=586641
+vel=19.61, currPos=350, millis=586692
+syncOut, millis = 587017
+vel=1.04, currPos=351, millis=587653
+vel=0.79, currPos=352, millis=588917
+vel=-2.06, currPos=351, millis=589402
+vel=17.86, currPos=352, millis=589458
+vel=-1.32, currPos=351, millis=590213
+vel=-3.21, currPos=350, millis=590526
+vel=-17.86, currPos=349, millis=590582
+vel=-19.61, currPos=348, millis=590632
+vel=7.58, currPos=349, millis=590764
+vel=19.61, currPos=350, millis=590815
+vel=1.03, currPos=351, millis=591786
+syncOut, millis = 592017
+vel=0.41, currPos=352, millis=594245
+vel=19.61, currPos=353, millis=594296
+vel=19.61, currPos=354, millis=594347
+vel=-19.61, currPos=353, millis=594398
+vel=-20.00, currPos=352, millis=594449
+vel=-19.61, currPos=351, millis=594500
+vel=2.72, currPos=352, millis=594865
+vel=-5.85, currPos=351, millis=595037
+vel=3.79, currPos=352, millis=595301
+vel=0.71, currPos=353, millis=596710
+syncOut, millis = 597017
+vel=-2.39, currPos=352, millis=597128
+vel=13.89, currPos=353, millis=597200
+vel=-0.59, currPos=352, millis=598907
+vel=-38.46, currPos=350, millis=598958
+vel=-20.00, currPos=349, millis=599009
+vel=18.52, currPos=350, millis=599063
+vel=-9.90, currPos=349, millis=599164
+vel=-19.61, currPos=348, millis=599215
+vel=8.85, currPos=349, millis=599328
+vel=19.23, currPos=350, millis=599379
+vel=-5.81, currPos=349, millis=599552
+vel=10.20, currPos=350, millis=599650
+vel=2.31, currPos=351, millis=600082
+vel=0.99, currPos=352, millis=601093
+vel=-2.38, currPos=351, millis=601515
+vel=12.99, currPos=352, millis=601592
+syncOut, millis = 602017
+vel=1.02, currPos=353, millis=602574
+vel=-10.99, currPos=352, millis=602666
+vel=-8.77, currPos=351, millis=602780
+vel=-19.61, currPos=350, millis=602831
+vel=10.75, currPos=351, millis=602923
+vel=20.00, currPos=352, millis=602973
+vel=-4.65, currPos=351, millis=603189
+vel=15.38, currPos=352, millis=603254
+vel=0.57, currPos=353, millis=605009
+vel=-6.29, currPos=352, millis=605168
+vel=9.01, currPos=353, millis=605278
+vel=-2.20, currPos=352, millis=605733
+vel=19.23, currPos=353, millis=605784
+vel=-18.52, currPos=352, millis=605839
+vel=-39.22, currPos=350, millis=605890
+vel=-40.00, currPos=348, millis=605941
+vel=-19.61, currPos=347, millis=605991
+vel=38.46, currPos=349, millis=606042
+vel=20.00, currPos=350, millis=606093
+vel=-16.13, currPos=349, millis=606156
+vel=10.42, currPos=350, millis=606251
+vel=13.89, currPos=351, millis=606323
+vel=-5.62, currPos=350, millis=606502
+vel=-7.46, currPos=349, millis=606636
+vel=11.11, currPos=350, millis=606725
+vel=19.61, currPos=351, millis=606775
+vel=20.00, currPos=352, millis=606826
+syncOut, millis = 607017
+vel=0.58, currPos=353, millis=608551
+vel=-2.72, currPos=352, millis=608918
+vel=6.94, currPos=353, millis=609063
+vel=-2.38, currPos=352, millis=609483
+vel=7.30, currPos=353, millis=609621
+vel=-3.12, currPos=352, millis=609941
+vel=7.04, currPos=353, millis=610082
+vel=-2.37, currPos=352, millis=610505
+vel=19.61, currPos=353, millis=610556
+vel=-0.69, currPos=352, millis=612005
+syncOut, millis = 612017
+vel=14.08, currPos=353, millis=612076
+vel=-2.12, currPos=352, millis=612548
+vel=-18.52, currPos=351, millis=612602
+vel=-20.00, currPos=350, millis=612653
+vel=-4.50, currPos=349, millis=612874
+vel=-17.54, currPos=348, millis=612931
+vel=-11.24, currPos=347, millis=613020
+vel=-20.00, currPos=346, millis=613071
+vel=-19.61, currPos=345, millis=613121
+vel=-19.61, currPos=344, millis=613172
+vel=13.33, currPos=345, millis=613247
+vel=-5.65, currPos=344, millis=613424
+vel=2.60, currPos=345, millis=613808
+vel=-13.70, currPos=344, millis=613883
+vel=4.93, currPos=345, millis=614085
+vel=2.56, currPos=346, millis=614477
+vel=1.54, currPos=347, millis=615125
+vel=-3.91, currPos=346, millis=615382
+vel=5.52, currPos=347, millis=615561
+vel=-4.98, currPos=346, millis=615763
+vel=1.75, currPos=347, millis=616333
+vel=2.46, currPos=348, millis=616739
+syncOut, millis = 617017
+vel=1.86, currPos=349, millis=617278
+vel=-3.56, currPos=348, millis=617560
+vel=12.66, currPos=349, millis=617639
+vel=1.25, currPos=350, millis=618436
+vel=-1.93, currPos=349, millis=618955
+vel=-15.38, currPos=348, millis=619020
+vel=19.23, currPos=349, millis=619072
+vel=11.49, currPos=350, millis=619159
+vel=-16.95, currPos=349, millis=619219
+vel=5.29, currPos=350, millis=619407
+vel=0.73, currPos=351, millis=620776
+vel=-4.33, currPos=350, millis=621008
+vel=16.39, currPos=351, millis=621069
+vel=-3.77, currPos=350, millis=621335
+syncOut, millis = 622017
+vel=1.28, currPos=351, millis=622117
+vel=1.18, currPos=352, millis=622967
+vel=-7.58, currPos=351, millis=623099
+vel=10.10, currPos=352, millis=623198
+vel=-3.44, currPos=351, millis=623489
+vel=15.38, currPos=352, millis=623554
+vel=-2.54, currPos=351, millis=623949
+vel=14.93, currPos=352, millis=624015
+vel=-0.62, currPos=351, millis=625622
+vel=4.20, currPos=352, millis=625859
+vel=-20.00, currPos=351, millis=625911
+vel=18.18, currPos=352, millis=625965
+vel=15.87, currPos=353, millis=626028
+vel=-19.61, currPos=352, millis=626080
+vel=-12.35, currPos=351, millis=626161
+vel=9.52, currPos=352, millis=626266
+vel=-14.49, currPos=351, millis=626335
+vel=-19.61, currPos=350, millis=626386
+vel=-4.85, currPos=349, millis=626592
+vel=-19.61, currPos=348, millis=626643
+vel=-19.61, currPos=347, millis=626694
+vel=15.38, currPos=348, millis=626758
+vel=14.08, currPos=349, millis=626829
+syncOut, millis = 627017
+vel=4.57, currPos=350, millis=627048
+vel=-7.46, currPos=349, millis=627183
+vel=11.11, currPos=350, millis=627272
+vel=-10.31, currPos=349, millis=627370
+vel=-20.00, currPos=348, millis=627421
+vel=-19.23, currPos=347, millis=627472
+vel=20.00, currPos=348, millis=627522
+vel=-9.17, currPos=347, millis=627632
+vel=-19.23, currPos=346, millis=627683
+vel=7.94, currPos=347, millis=627808
+vel=10.53, currPos=348, millis=627904
+vel=2.02, currPos=349, millis=628401
+vel=5.00, currPos=350, millis=628600
+vel=2.78, currPos=351, millis=628960
+vel=1.14, currPos=352, millis=629836
+vel=7.75, currPos=353, millis=629965
+vel=-19.61, currPos=352, millis=630017
+vel=-3.55, currPos=351, millis=630298
+vel=13.33, currPos=352, millis=630373
+vel=19.61, currPos=353, millis=630423
+vel=20.00, currPos=354, millis=630474
+vel=39.22, currPos=356, millis=630525
+vel=39.22, currPos=358, millis=630576
+vel=78.43, currPos=362, millis=630627
+REWARD, millis=630627
+vel=98.04, currPos=367, millis=630678
+vel=100.00, currPos=372, millis=630728
+vel=58.82, currPos=375, millis=630779
+vel=58.82, currPos=378, millis=630830
+vel=39.22, currPos=380, millis=630881
+vel=19.61, currPos=381, millis=630932
+vel=39.22, currPos=383, millis=630983
+vel=20.00, currPos=384, millis=631033
+vel=39.22, currPos=386, millis=631084
+vel=100.00, currPos=391, millis=631135
+vel=96.15, currPos=396, millis=631186
+vel=58.82, currPos=399, millis=631237
+vel=60.00, currPos=402, millis=631288
+vel=78.43, currPos=406, millis=631338
+vel=60.00, currPos=409, millis=631389
+vel=134.62, currPos=416, millis=631440
+vel=137.25, currPos=423, millis=631491
+vel=60.00, currPos=426, millis=631542
+vel=58.82, currPos=429, millis=631593
+vel=78.43, currPos=433, millis=631643
+vel=19.61, currPos=434, millis=631694
+vel=39.22, currPos=436, millis=631745
+vel=80.00, currPos=440, millis=631796
+vel=39.22, currPos=442, millis=631847
+vel=16.13, currPos=443, millis=631908
+vel=-20.00, currPos=442, millis=631959
+vel=39.22, currPos=444, millis=632009
+syncOut, millis = 632017
+vel=100.00, currPos=449, millis=632060
+vel=137.25, currPos=456, millis=632111
+vel=76.92, currPos=460, millis=632162
+vel=80.00, currPos=464, millis=632213
+vel=78.43, currPos=468, millis=632264
+vel=58.82, currPos=471, millis=632314
+vel=60.00, currPos=474, millis=632365
+vel=98.04, currPos=479, millis=632416
+vel=19.61, currPos=480, millis=632467
+vel=19.61, currPos=481, millis=632518
+vel=19.61, currPos=482, millis=632568
+vel=120.00, currPos=488, millis=632619
+vel=137.25, currPos=495, millis=632670
+vel=78.43, currPos=499, millis=632721
+vel=78.43, currPos=503, millis=632772
+vel=39.22, currPos=505, millis=632823
+vel=20.00, currPos=506, millis=632873
+vel=11.90, currPos=507, millis=632958
+vel=58.82, currPos=510, millis=633008
+vel=19.23, currPos=511, millis=633059
+vel=40.00, currPos=513, millis=633110
+vel=19.61, currPos=514, millis=633161
+vel=100.00, currPos=519, millis=633212
+vel=117.65, currPos=525, millis=633262
+vel=134.62, currPos=532, millis=633313
+vel=80.00, currPos=536, millis=633364
+vel=39.22, currPos=538, millis=633415
+vel=40.00, currPos=540, millis=633466
+vel=19.61, currPos=541, millis=633517
+vel=58.82, currPos=544, millis=633567
+vel=176.47, currPos=553, millis=633618
+vel=58.82, currPos=556, millis=633669
+vel=19.61, currPos=557, millis=633720
+vel=60.00, currPos=560, millis=633771
+vel=215.69, currPos=571, millis=633822
+vel=235.29, currPos=583, millis=633873
+vel=98.04, currPos=588, millis=633923
+vel=58.82, currPos=591, millis=633974
+vel=40.00, currPos=593, millis=634025
+vel=11.11, currPos=594, millis=634114
+vel=40.00, currPos=596, millis=634165
+vel=115.38, currPos=602, millis=634216
+vel=40.00, currPos=604, millis=634267
+vel=8.70, currPos=605, millis=634381
+vel=98.04, currPos=610, millis=634432
+vel=196.08, currPos=620, millis=634484
+vel=100.00, currPos=625, millis=634534
+vel=58.82, currPos=628, millis=634585
+vel=100.00, currPos=633, millis=634636
+vel=-19.23, currPos=632, millis=634687
+vel=-19.61, currPos=631, millis=634738
+vel=80.00, currPos=635, millis=634788
+vel=98.04, currPos=640, millis=634839
+vel=78.43, currPos=644, millis=634890
+vel=12.35, currPos=645, millis=634971
+vel=156.86, currPos=653, millis=635022
+vel=196.08, currPos=663, millis=635073
+vel=58.82, currPos=666, millis=635123
+vel=60.00, currPos=669, millis=635174
+vel=39.22, currPos=671, millis=635225
+vel=20.00, currPos=672, millis=635276
+vel=134.62, currPos=679, millis=635327
+vel=137.25, currPos=686, millis=635377
+vel=20.00, currPos=687, millis=635428
+vel=19.61, currPos=688, millis=635479
+vel=100.00, currPos=693, millis=635530
+vel=211.54, currPos=704, millis=635581
+vel=156.86, currPos=712, millis=635632
+REWARD, millis=635632
+vel=100.00, currPos=717, millis=635682
+vel=39.22, currPos=719, millis=635733
+vel=13.33, currPos=720, millis=635809
+vel=98.04, currPos=725, millis=635859
+vel=117.65, currPos=731, millis=635910
+vel=19.61, currPos=732, millis=635961
+lick, millis=635993
+vel=9.62, currPos=733, millis=636065
+vel=120.00, currPos=739, millis=636116
+vel=156.86, currPos=747, millis=636167
+vel=98.04, currPos=752, millis=636217
+vel=58.82, currPos=755, millis=636268
+vel=19.61, currPos=756, millis=636319
+vel=14.08, currPos=757, millis=636390
+lick, millis=636404
+vel=40.00, currPos=759, millis=636441
+vel=78.43, currPos=763, millis=636492
+lick, millis=636524
+vel=12.99, currPos=764, millis=636568
+vel=18.18, currPos=765, millis=636624
+lick, millis=636637
+vel=58.82, currPos=768, millis=636675
+vel=160.00, currPos=776, millis=636725
+vel=96.15, currPos=781, millis=636776
+lick, millis=636790
+vel=58.82, currPos=784, millis=636827
+vel=40.00, currPos=786, millis=636878
+lick, millis=636927
+vel=-16.13, currPos=785, millis=636941
+vel=13.89, currPos=786, millis=637012
+syncOut, millis = 637017
+vel=117.65, currPos=792, millis=637063
+vel=76.92, currPos=796, millis=637114
+vel=40.00, currPos=798, millis=637165
+vel=19.61, currPos=799, millis=637216
+vel=60.00, currPos=802, millis=637266
+vel=98.04, currPos=807, millis=637317
+vel=156.86, currPos=815, millis=637368
+vel=78.43, currPos=819, millis=637419
+vel=39.22, currPos=821, millis=637470
+vel=19.61, currPos=822, millis=637521
+vel=20.00, currPos=823, millis=637571
+vel=19.61, currPos=824, millis=637622
+vel=39.22, currPos=826, millis=637673
+vel=78.43, currPos=830, millis=637724
+vel=39.22, currPos=832, millis=637775
+vel=20.00, currPos=833, millis=637825
+vel=39.22, currPos=835, millis=637876
+vel=58.82, currPos=838, millis=637927
+vel=78.43, currPos=842, millis=637978
+vel=78.43, currPos=846, millis=638029
+vel=60.00, currPos=849, millis=638080
+vel=39.22, currPos=851, millis=638130
+vel=19.23, currPos=852, millis=638181
+vel=12.99, currPos=853, millis=638260
+vel=96.15, currPos=858, millis=638311
+vel=60.00, currPos=861, millis=638361
+vel=39.22, currPos=863, millis=638412
+vel=39.22, currPos=865, millis=638463
+vel=60.00, currPos=868, millis=638514
+vel=76.92, currPos=872, millis=638565
+vel=160.00, currPos=880, millis=638616
+vel=98.04, currPos=885, millis=638666
+vel=39.22, currPos=887, millis=638717
+vel=60.00, currPos=890, millis=638768
+vel=19.61, currPos=891, millis=638819
+vel=-19.23, currPos=890, millis=638870
+vel=20.00, currPos=891, millis=638921
+vel=98.04, currPos=896, millis=638971
+vel=80.00, currPos=900, millis=639022
+vel=78.43, currPos=904, millis=639073
+vel=12.82, currPos=905, millis=639151
+vel=40.00, currPos=907, millis=639201
+vel=96.15, currPos=912, millis=639252
+vel=156.86, currPos=920, millis=639303
+vel=60.00, currPos=923, millis=639354
+vel=19.61, currPos=924, millis=639405
+vel=-16.13, currPos=923, millis=639467
+vel=-39.22, currPos=921, millis=639518
+vel=20.00, currPos=922, millis=639568
+vel=39.22, currPos=924, millis=639619
+vel=58.82, currPos=927, millis=639670
+vel=78.43, currPos=931, millis=639721
+vel=39.22, currPos=933, millis=639772
+vel=58.82, currPos=936, millis=639822
+vel=200.00, currPos=946, millis=639874
+vel=156.86, currPos=954, millis=639924
+vel=58.82, currPos=957, millis=639975
+vel=39.22, currPos=959, millis=640026
+vel=19.61, currPos=960, millis=640077
+vel=15.38, currPos=961, millis=640143
+vel=115.38, currPos=967, millis=640194
+vel=80.00, currPos=971, millis=640244
+vel=39.22, currPos=973, millis=640295
+vel=11.90, currPos=974, millis=640379
+vel=100.00, currPos=979, millis=640430
+vel=176.47, currPos=988, millis=640481
+vel=96.15, currPos=993, millis=640531
+vel=60.00, currPos=996, millis=640582
+vel=19.61, currPos=997, millis=640633
+vel=40.00, currPos=999, millis=640684
+vel=117.65, currPos=1005, millis=640735
+REWARD, millis=640735
+vel=57.69, currPos=1008, millis=640786
+vel=20.00, currPos=1009, millis=640836
+vel=11.90, currPos=1010, millis=640920
+vel=78.43, currPos=1014, millis=640971
+vel=200.00, currPos=1024, millis=641022
+read tag, millis=641047
+vel=117.65, currPos=6, millis=641073
+vel=39.22, currPos=8, millis=641123
+vel=19.61, currPos=9, millis=641174
+vel=-15.62, currPos=8, millis=641239
+vel=20.00, currPos=9, millis=641289
+vel=19.23, currPos=10, millis=641340
+vel=80.00, currPos=14, millis=641391
+vel=98.04, currPos=19, millis=641441
+vel=39.22, currPos=21, millis=641492
+vel=11.24, currPos=22, millis=641582
+vel=78.43, currPos=26, millis=641633
+vel=196.08, currPos=36, millis=641684
+vel=117.65, currPos=42, millis=641734
+vel=60.00, currPos=45, millis=641785
+vel=39.22, currPos=47, millis=641836
+vel=-19.61, currPos=46, millis=641887
+vel=16.39, currPos=47, millis=641948
+vel=98.04, currPos=52, millis=641999
+syncOut, millis = 642017
+vel=117.65, currPos=58, millis=642050
+vel=19.61, currPos=59, millis=642102
+lick, millis=642123
+vel=14.29, currPos=60, millis=642171
+vel=19.61, currPos=61, millis=642222
+vel=40.00, currPos=63, millis=642273
+vel=76.92, currPos=67, millis=642324
+lick, millis=642331
+vel=137.25, currPos=74, millis=642374
+vel=100.00, currPos=79, millis=642425
+vel=58.82, currPos=82, millis=642476
+vel=60.00, currPos=85, millis=642527
+vel=19.23, currPos=86, millis=642578
+vel=19.61, currPos=87, millis=642629
+vel=40.00, currPos=89, millis=642679
+vel=98.04, currPos=94, millis=642730
+lick, millis=642738
+vel=117.65, currPos=100, millis=642781
+vel=80.00, currPos=104, millis=642832
+vel=38.46, currPos=106, millis=642883
+vel=-20.00, currPos=105, millis=642934
+vel=58.82, currPos=108, millis=642984
+vel=156.86, currPos=116, millis=643035
+vel=120.00, currPos=122, millis=643086
+vel=76.92, currPos=126, millis=643137
+vel=60.00, currPos=129, millis=643188
+vel=19.61, currPos=130, millis=643238
+vel=-19.23, currPos=129, millis=643291
+vel=-19.61, currPos=128, millis=643342
+vel=137.25, currPos=135, millis=643392
+vel=196.08, currPos=145, millis=643444
+vel=60.00, currPos=148, millis=643494
+vel=8.06, currPos=149, millis=643617
+vel=40.00, currPos=151, millis=643668
+vel=137.25, currPos=158, millis=643719
+vel=120.00, currPos=164, millis=643769
+vel=38.46, currPos=166, millis=643820
+vel=39.22, currPos=168, millis=643871
+vel=20.00, currPos=169, millis=643922
+vel=19.61, currPos=170, millis=643973
+vel=19.61, currPos=171, millis=644024
+vel=98.04, currPos=176, millis=644074
+vel=117.65, currPos=182, millis=644125
+vel=40.00, currPos=184, millis=644176
+vel=9.52, currPos=185, millis=644282
+vel=76.92, currPos=189, millis=644332
+vel=137.25, currPos=196, millis=644383
+vel=80.00, currPos=200, millis=644434
+vel=39.22, currPos=202, millis=644485
+vel=60.00, currPos=205, millis=644536
+vel=15.87, currPos=206, millis=644598
+vel=137.25, currPos=213, millis=644649
+vel=156.86, currPos=221, millis=644700
+vel=20.00, currPos=222, millis=644751
+vel=18.52, currPos=223, millis=644804
+vel=58.82, currPos=226, millis=644855
+vel=156.86, currPos=234, millis=644906
+vel=180.00, currPos=243, millis=644957
+vel=78.43, currPos=247, millis=645007
+vel=58.82, currPos=250, millis=645058
+vel=19.61, currPos=251, millis=645109
+vel=39.22, currPos=253, millis=645160
+vel=220.00, currPos=264, millis=645211
+vel=137.25, currPos=271, millis=645262
+vel=19.61, currPos=272, millis=645312
+vel=-78.43, currPos=268, millis=645364
+vel=14.49, currPos=269, millis=645433
+vel=76.92, currPos=273, millis=645484
+vel=60.00, currPos=276, millis=645535
+vel=-58.82, currPos=273, millis=645586
+vel=-137.25, currPos=266, millis=645637
+vel=-140.00, currPos=259, millis=645688
+vel=-38.46, currPos=257, millis=645738
+vel=39.22, currPos=259, millis=645789
+vel=60.00, currPos=262, millis=645840
+vel=78.43, currPos=266, millis=645890
+REWARD, millis=645890
+vel=120.00, currPos=272, millis=645941
+vel=173.08, currPos=281, millis=645992
+vel=137.25, currPos=288, millis=646043
+vel=120.00, currPos=294, millis=646094
+vel=58.82, currPos=297, millis=646145
+lick, millis=646183
+vel=-17.86, currPos=296, millis=646201
+vel=19.61, currPos=297, millis=646251
+vel=98.04, currPos=302, millis=646302
+vel=120.00, currPos=308, millis=646353
+vel=19.61, currPos=309, millis=646404
+lick, millis=646423
+vel=12.50, currPos=310, millis=646484
+vel=117.65, currPos=316, millis=646535
+vel=140.00, currPos=323, millis=646586
+vel=76.92, currPos=327, millis=646636
+vel=58.82, currPos=330, millis=646687
+vel=20.00, currPos=331, millis=646738
+vel=-19.61, currPos=330, millis=646789
+vel=18.87, currPos=331, millis=646842
+vel=78.43, currPos=335, millis=646893
+vel=58.82, currPos=338, millis=646944
+vel=40.00, currPos=340, millis=646994
+syncOut, millis = 647017
+vel=17.54, currPos=341, millis=647051
+vel=117.65, currPos=347, millis=647102
+vel=176.47, currPos=356, millis=647153
+vel=120.00, currPos=362, millis=647203
+vel=58.82, currPos=365, millis=647254
+vel=39.22, currPos=367, millis=647305
+vel=20.00, currPos=368, millis=647356
+vel=115.38, currPos=374, millis=647407
+vel=160.00, currPos=382, millis=647457
+vel=39.22, currPos=384, millis=647508
+vel=19.61, currPos=385, millis=647559
+vel=20.00, currPos=386, millis=647610
+vel=76.92, currPos=390, millis=647661
+vel=156.86, currPos=398, millis=647712
+vel=180.00, currPos=407, millis=647762
+vel=117.65, currPos=413, millis=647813
+vel=20.00, currPos=414, millis=647864
+vel=19.23, currPos=415, millis=647915
+vel=117.65, currPos=421, millis=647966
+vel=100.00, currPos=426, millis=648017
+vel=10.87, currPos=427, millis=648108
+vel=19.61, currPos=428, millis=648159
+vel=100.00, currPos=433, millis=648210
+vel=173.08, currPos=442, millis=648261
+vel=160.00, currPos=450, millis=648312
+vel=58.82, currPos=453, millis=648363
+vel=19.61, currPos=454, millis=648413
+vel=40.00, currPos=456, millis=648464
+vel=19.23, currPos=457, millis=648515
+vel=60.00, currPos=460, millis=648566
+vel=98.04, currPos=465, millis=648617
+vel=98.04, currPos=470, millis=648668
+vel=20.00, currPos=471, millis=648718
+vel=14.71, currPos=472, millis=648786
+vel=98.04, currPos=477, millis=648837
+vel=140.00, currPos=484, millis=648887
+vel=96.15, currPos=489, millis=648938
+vel=58.82, currPos=492, millis=648989
+vel=40.00, currPos=494, millis=649040
+vel=19.61, currPos=495, millis=649091
+vel=-20.00, currPos=494, millis=649142
+vel=19.23, currPos=495, millis=649192
+vel=58.82, currPos=498, millis=649243
+vel=40.00, currPos=500, millis=649294
+vel=39.22, currPos=502, millis=649345
+vel=16.95, currPos=503, millis=649404
+vel=38.46, currPos=505, millis=649455
+vel=80.00, currPos=509, millis=649506
+vel=117.65, currPos=515, millis=649557
+vel=120.00, currPos=521, millis=649608
+vel=117.65, currPos=527, millis=649658
+vel=57.69, currPos=530, millis=649709
+vel=20.00, currPos=531, millis=649760
+vel=19.61, currPos=532, millis=649811
+vel=40.00, currPos=534, millis=649862
+vel=39.22, currPos=536, millis=649913
+vel=38.46, currPos=538, millis=649963
+vel=10.53, currPos=539, millis=650059
+vel=78.43, currPos=543, millis=650110
+vel=160.00, currPos=551, millis=650161
+vel=117.65, currPos=557, millis=650211
+vel=78.43, currPos=561, millis=650262
+vel=98.04, currPos=566, millis=650313
+vel=58.82, currPos=569, millis=650364
+vel=40.00, currPos=571, millis=650415
+vel=98.04, currPos=576, millis=650466
+vel=78.43, currPos=580, millis=650516
+vel=19.61, currPos=581, millis=650567
+vel=11.24, currPos=582, millis=650656
+vel=20.00, currPos=583, millis=650707
+vel=137.25, currPos=590, millis=650758
+vel=196.08, currPos=600, millis=650809
+vel=137.25, currPos=607, millis=650859
+vel=78.43, currPos=611, millis=650910
+REWARD, millis=650910
+vel=60.00, currPos=614, millis=650961
+vel=18.18, currPos=615, millis=651016
+vel=39.22, currPos=617, millis=651067
+lick, millis=651097
+vel=117.65, currPos=623, millis=651118
+vel=137.25, currPos=630, millis=651169
+vel=39.22, currPos=632, millis=651219
+vel=-20.00, currPos=631, millis=651271
+lick, millis=651306
+vel=58.82, currPos=634, millis=651321
+vel=76.92, currPos=638, millis=651372
+vel=100.00, currPos=643, millis=651423
+vel=78.43, currPos=647, millis=651474
+vel=60.00, currPos=650, millis=651524
+vel=19.61, currPos=651, millis=651575
+vel=-19.23, currPos=650, millis=651627
+vel=-40.00, currPos=648, millis=651677
+vel=-18.18, currPos=647, millis=651733
+vel=39.22, currPos=649, millis=651783
+vel=156.86, currPos=657, millis=651834
+vel=117.65, currPos=663, millis=651885
+vel=58.82, currPos=666, millis=651936
+vel=120.00, currPos=672, millis=651986
+syncOut, millis = 652017
+vel=156.86, currPos=680, millis=652037
+vel=78.43, currPos=684, millis=652088
+vel=78.43, currPos=688, millis=652139
+vel=58.82, currPos=691, millis=652190
+vel=12.05, currPos=692, millis=652273
+vel=58.82, currPos=695, millis=652324
+vel=98.04, currPos=700, millis=652375
+vel=120.00, currPos=706, millis=652426
+vel=98.04, currPos=711, millis=652477
+vel=15.87, currPos=712, millis=652539
+vel=78.43, currPos=716, millis=652590
+vel=117.65, currPos=722, millis=652641
+vel=120.00, currPos=728, millis=652692
+vel=76.92, currPos=732, millis=652743
+vel=60.00, currPos=735, millis=652794
+vel=58.82, currPos=738, millis=652844
+vel=58.82, currPos=741, millis=652895
+vel=13.16, currPos=742, millis=652972
+vel=58.82, currPos=745, millis=653023
+vel=117.65, currPos=751, millis=653073
+vel=58.82, currPos=754, millis=653124
+vel=39.22, currPos=756, millis=653175
+vel=20.00, currPos=757, millis=653226
+vel=98.04, currPos=762, millis=653277
+vel=117.65, currPos=768, millis=653328
+vel=117.65, currPos=774, millis=653378
+vel=98.04, currPos=779, millis=653429
+vel=60.00, currPos=782, millis=653480
+vel=16.13, currPos=783, millis=653542
+vel=78.43, currPos=787, millis=653593
+vel=78.43, currPos=791, millis=653644
+vel=19.61, currPos=792, millis=653694
+vel=20.00, currPos=793, millis=653745
+vel=58.82, currPos=796, millis=653796
+vel=153.85, currPos=804, millis=653847
+vel=120.00, currPos=810, millis=653898
+vel=58.82, currPos=813, millis=653949
+vel=40.00, currPos=815, millis=653999
+vel=19.61, currPos=816, millis=654050
+vel=12.66, currPos=817, millis=654129
+vel=40.00, currPos=819, millis=654180
+vel=76.92, currPos=823, millis=654231
+vel=19.61, currPos=824, millis=654281
+vel=80.00, currPos=828, millis=654332
+vel=137.25, currPos=835, millis=654383
+vel=100.00, currPos=840, millis=654434
+vel=58.82, currPos=843, millis=654485
+vel=57.69, currPos=846, millis=654536
+vel=40.00, currPos=848, millis=654586
+vel=16.67, currPos=849, millis=654647
+vel=19.61, currPos=850, millis=654698
+lick, millis=654727
+vel=76.92, currPos=854, millis=654748
+vel=20.00, currPos=855, millis=654799
+vel=-19.61, currPos=854, millis=654851
+lick, millis=654851
+vel=60.00, currPos=857, millis=654901
+vel=117.65, currPos=863, millis=654952
+vel=134.62, currPos=870, millis=655003
+vel=120.00, currPos=876, millis=655053
+vel=58.82, currPos=879, millis=655104
+vel=-11.49, currPos=878, millis=655191
+vel=20.00, currPos=879, millis=655242
+vel=58.82, currPos=882, millis=655293
+vel=6.10, currPos=883, millis=655457
+vel=58.82, currPos=886, millis=655508
+vel=78.43, currPos=890, millis=655558
+vel=98.04, currPos=895, millis=655609
+vel=80.00, currPos=899, millis=655660
+vel=78.43, currPos=903, millis=655711
+vel=6.62, currPos=904, millis=655862
+vel=7.46, currPos=905, millis=655995
+vel=40.00, currPos=907, millis=656046
+vel=58.82, currPos=910, millis=656097
+vel=80.00, currPos=914, millis=656148
+REWARD, millis=656148
+vel=115.38, currPos=920, millis=656199
+vel=58.82, currPos=923, millis=656249
+vel=60.00, currPos=926, millis=656300
+vel=19.61, currPos=927, millis=656351
+vel=-19.61, currPos=926, millis=656402
+vel=-19.61, currPos=925, millis=656453
+vel=14.29, currPos=926, millis=656523
+vel=19.61, currPos=927, millis=656574
+vel=19.61, currPos=928, millis=656625
+vel=117.65, currPos=934, millis=656676
+vel=120.00, currPos=940, millis=656726
+vel=117.65, currPos=946, millis=656777
+vel=98.04, currPos=951, millis=656828
+vel=78.43, currPos=955, millis=656879
+vel=39.22, currPos=957, millis=656930
+vel=20.00, currPos=958, millis=656981
+syncOut, millis = 657017
+vel=14.71, currPos=959, millis=657048
+vel=19.61, currPos=960, millis=657099
+vel=19.61, currPos=961, millis=657150
+vel=60.00, currPos=964, millis=657201
+vel=39.22, currPos=966, millis=657251
+vel=40.00, currPos=968, millis=657302
+vel=96.15, currPos=973, millis=657353
+vel=98.04, currPos=978, millis=657404
+vel=100.00, currPos=983, millis=657455
+vel=137.25, currPos=990, millis=657506
+vel=98.04, currPos=995, millis=657556
+vel=58.82, currPos=998, millis=657607
+vel=39.22, currPos=1000, millis=657658
+vel=60.00, currPos=1003, millis=657709
+vel=19.61, currPos=1004, millis=657760
+vel=13.16, currPos=1005, millis=657836
+vel=19.61, currPos=1006, millis=657887
+vel=78.43, currPos=1010, millis=657938
+vel=196.08, currPos=1020, millis=657989
+vel=98.04, currPos=1025, millis=658039
+vel=39.22, currPos=1027, millis=658090
+vel=20.00, currPos=1028, millis=658141
+read tag, millis=658237
+vel=9.71, currPos=1, millis=658244
+vel=78.43, currPos=5, millis=658295
+vel=58.82, currPos=8, millis=658345
+vel=20.00, currPos=9, millis=658396
+lick, millis=658407
+vel=19.61, currPos=10, millis=658447
+vel=19.23, currPos=11, millis=658498
+vel=140.00, currPos=18, millis=658549
+vel=117.65, currPos=24, millis=658599
+vel=120.00, currPos=30, millis=658650
+vel=117.65, currPos=36, millis=658701
+vel=39.22, currPos=38, millis=658752
+vel=18.18, currPos=39, millis=658807
+vel=58.82, currPos=42, millis=658857
+vel=40.00, currPos=44, millis=658908
+vel=19.61, currPos=45, millis=658959
+vel=13.70, currPos=46, millis=659032
+vel=39.22, currPos=48, millis=659083
+vel=140.00, currPos=55, millis=659134
+vel=115.38, currPos=61, millis=659185
+vel=78.43, currPos=65, millis=659235
+vel=60.00, currPos=68, millis=659286
+vel=-12.20, currPos=67, millis=659369
+vel=39.22, currPos=69, millis=659419
+vel=80.00, currPos=73, millis=659470
+vel=58.82, currPos=76, millis=659521
+vel=17.86, currPos=77, millis=659576
+vel=13.89, currPos=78, millis=659648
+vel=58.82, currPos=81, millis=659699
+vel=117.65, currPos=87, millis=659750
+vel=98.04, currPos=92, millis=659801
+vel=80.00, currPos=96, millis=659852
+vel=117.65, currPos=102, millis=659903
+vel=19.61, currPos=103, millis=659953
+vel=12.50, currPos=104, millis=660034
+vel=76.92, currPos=108, millis=660085
+vel=100.00, currPos=113, millis=660136
+vel=19.61, currPos=114, millis=660186
+vel=9.43, currPos=115, millis=660292
+vel=78.43, currPos=119, millis=660343
+vel=180.00, currPos=128, millis=660394
+vel=117.65, currPos=134, millis=660445
+vel=80.00, currPos=138, millis=660495
+vel=58.82, currPos=141, millis=660546
+vel=19.23, currPos=142, millis=660597
+vel=20.00, currPos=143, millis=660648
+vel=19.61, currPos=144, millis=660699
+vel=78.43, currPos=148, millis=660750
+vel=60.00, currPos=151, millis=660800
+vel=19.23, currPos=152, millis=660851
+vel=20.00, currPos=153, millis=660902
+vel=98.04, currPos=158, millis=660953
+vel=98.04, currPos=163, millis=661004
+vel=80.00, currPos=167, millis=661054
+vel=96.15, currPos=172, millis=661105
+vel=120.00, currPos=178, millis=661156
+REWARD, millis=661156
+vel=78.43, currPos=182, millis=661207
+vel=39.22, currPos=184, millis=661258
+vel=60.00, currPos=187, millis=661309
+vel=134.62, currPos=194, millis=661359
+vel=80.00, currPos=198, millis=661410
+vel=39.22, currPos=200, millis=661461
+vel=58.82, currPos=203, millis=661512
+vel=160.00, currPos=211, millis=661563
+vel=134.62, currPos=218, millis=661614
+vel=58.82, currPos=221, millis=661664
+vel=20.00, currPos=222, millis=661715
+vel=10.87, currPos=223, millis=661807
+vel=137.25, currPos=230, millis=661858
+vel=180.00, currPos=239, millis=661909
+vel=96.15, currPos=244, millis=661960
+syncOut, millis = 662017
+vel=14.71, currPos=245, millis=662029
+vel=156.86, currPos=253, millis=662080
+vel=211.54, currPos=264, millis=662131
+vel=140.00, currPos=271, millis=662181
+vel=78.43, currPos=275, millis=662232
+vel=78.43, currPos=279, millis=662283
+vel=140.00, currPos=286, millis=662334
+vel=173.08, currPos=295, millis=662385
+vel=100.00, currPos=300, millis=662436
+vel=58.82, currPos=303, millis=662486
+vel=58.82, currPos=306, millis=662537
+vel=80.00, currPos=310, millis=662588
+vel=19.23, currPos=311, millis=662639
+vel=20.00, currPos=312, millis=662690
+lick, millis=662832
+vel=-5.75, currPos=311, millis=662864
+vel=-20.00, currPos=310, millis=662914
+vel=-39.22, currPos=308, millis=662965
+vel=-19.61, currPos=307, millis=663016
+vel=10.42, currPos=308, millis=663111
+vel=19.61, currPos=309, millis=663162
+lick, millis=663196
+vel=80.00, currPos=313, millis=663213
+vel=39.22, currPos=315, millis=663264
+vel=19.61, currPos=316, millis=663315
+lick, millis=663332
+vel=39.22, currPos=318, millis=663366
+vel=58.82, currPos=321, millis=663416
+vel=-18.18, currPos=320, millis=663472
+lick, millis=663495
+vel=-20.00, currPos=319, millis=663523
+vel=-19.61, currPos=318, millis=663574
+vel=11.63, currPos=319, millis=663660
+lick, millis=663681
+vel=12.82, currPos=320, millis=663737
+lick, millis=663882
+vel=4.35, currPos=321, millis=663967
+vel=19.23, currPos=322, millis=664019
+vel=-6.71, currPos=321, millis=664169
+vel=-6.71, currPos=320, millis=664318
+vel=19.61, currPos=321, millis=664368
+vel=100.00, currPos=326, millis=664419
+vel=117.65, currPos=332, millis=664470
+vel=153.85, currPos=340, millis=664521
+vel=100.00, currPos=345, millis=664571
+vel=39.22, currPos=347, millis=664622
+vel=18.52, currPos=348, millis=664676
+vel=20.00, currPos=349, millis=664727
+vel=38.46, currPos=351, millis=664778
+vel=19.61, currPos=352, millis=664829
+vel=20.00, currPos=353, millis=664880
+vel=58.82, currPos=356, millis=664930
+vel=80.00, currPos=360, millis=664981
+vel=57.69, currPos=363, millis=665032
+vel=58.82, currPos=366, millis=665083
+vel=20.00, currPos=367, millis=665134
+vel=19.61, currPos=368, millis=665185
+vel=60.00, currPos=371, millis=665235
+vel=134.62, currPos=378, millis=665286
+vel=117.65, currPos=384, millis=665337
+vel=140.00, currPos=391, millis=665388
+vel=137.25, currPos=398, millis=665439
+vel=120.00, currPos=404, millis=665490
+vel=58.82, currPos=407, millis=665540
+vel=38.46, currPos=409, millis=665591
+vel=16.39, currPos=410, millis=665653
+vel=13.51, currPos=411, millis=665726
+vel=60.00, currPos=414, millis=665777
+vel=58.82, currPos=417, millis=665828
+vel=40.00, currPos=419, millis=665879
+vel=19.23, currPos=420, millis=665930
+vel=117.65, currPos=426, millis=665980
+vel=120.00, currPos=432, millis=666031
+vel=117.65, currPos=438, millis=666082
+vel=100.00, currPos=443, millis=666133
+vel=76.92, currPos=447, millis=666184
+REWARD, millis=666184
+vel=78.43, currPos=451, millis=666235
+vel=40.00, currPos=453, millis=666285
+vel=39.22, currPos=455, millis=666336
+vel=58.82, currPos=458, millis=666387
+vel=58.82, currPos=461, millis=666438
+vel=58.82, currPos=464, millis=666489
+vel=40.00, currPos=466, millis=666539
+vel=176.47, currPos=475, millis=666590
+vel=176.47, currPos=484, millis=666641
+vel=100.00, currPos=489, millis=666692
+vel=76.92, currPos=493, millis=666743
+vel=40.00, currPos=495, millis=666794
+vel=19.61, currPos=496, millis=666844
+vel=137.25, currPos=503, millis=666895
+vel=100.00, currPos=508, millis=666946
+vel=19.23, currPos=509, millis=666997
+syncOut, millis = 667017
+vel=20.00, currPos=510, millis=667048
+lick, millis=667062
+vel=117.65, currPos=516, millis=667099
+vel=117.65, currPos=522, millis=667149
+vel=100.00, currPos=527, millis=667200
+vel=76.92, currPos=531, millis=667251
+vel=6.67, currPos=532, millis=667402
+vel=58.82, currPos=535, millis=667453
+vel=40.00, currPos=537, millis=667503
+vel=38.46, currPos=539, millis=667554
+vel=98.04, currPos=544, millis=667605
+vel=160.00, currPos=552, millis=667656
+vel=117.65, currPos=558, millis=667707
+vel=100.00, currPos=563, millis=667758
+vel=76.92, currPos=567, millis=667808
+vel=19.61, currPos=568, millis=667859
+vel=40.00, currPos=570, millis=667910
+vel=58.82, currPos=573, millis=667961
+vel=60.00, currPos=576, millis=668012
+vel=57.69, currPos=579, millis=668063
+vel=39.22, currPos=581, millis=668113
+vel=120.00, currPos=587, millis=668164
+vel=117.65, currPos=593, millis=668215
+vel=117.65, currPos=599, millis=668266
+vel=78.43, currPos=603, millis=668317
+vel=58.82, currPos=606, millis=668367
+vel=-20.00, currPos=605, millis=668419
+vel=16.67, currPos=606, millis=668478
+vel=96.15, currPos=611, millis=668529
+vel=120.00, currPos=617, millis=668580
+vel=58.82, currPos=620, millis=668631
+vel=60.00, currPos=623, millis=668682
+vel=196.08, currPos=633, millis=668733
+vel=137.25, currPos=640, millis=668783
+vel=117.65, currPos=646, millis=668834
+vel=117.65, currPos=652, millis=668885
+vel=20.00, currPos=653, millis=668936
+vel=78.43, currPos=657, millis=668987
+vel=98.04, currPos=662, millis=669037
+vel=58.82, currPos=665, millis=669088
+vel=39.22, currPos=667, millis=669139
+vel=39.22, currPos=669, millis=669190
+vel=100.00, currPos=674, millis=669241
+vel=156.86, currPos=682, millis=669292
+vel=137.25, currPos=689, millis=669342
+vel=78.43, currPos=693, millis=669393
+vel=-19.61, currPos=692, millis=669445
+vel=-20.00, currPos=691, millis=669495
+vel=78.43, currPos=695, millis=669546
+vel=137.25, currPos=702, millis=669597
+vel=117.65, currPos=708, millis=669647
+vel=39.22, currPos=710, millis=669698
+vel=20.00, currPos=711, millis=669749
+vel=39.22, currPos=713, millis=669800
+vel=98.04, currPos=718, millis=669851
+vel=156.86, currPos=726, millis=669901
+vel=176.47, currPos=735, millis=669952
+vel=80.00, currPos=739, millis=670003
+vel=58.82, currPos=742, millis=670054
+vel=39.22, currPos=744, millis=670105
+vel=19.61, currPos=745, millis=670156
+vel=58.82, currPos=748, millis=670206
+vel=180.00, currPos=757, millis=670257
+vel=78.43, currPos=761, millis=670308
+vel=19.61, currPos=762, millis=670359
+vel=117.65, currPos=768, millis=670410
+vel=196.08, currPos=778, millis=670461
+vel=78.43, currPos=782, millis=670511
+vel=20.00, currPos=783, millis=670562
+vel=58.82, currPos=786, millis=670613
+vel=39.22, currPos=788, millis=670664
+vel=117.65, currPos=794, millis=670715
+vel=196.08, currPos=804, millis=670766
+vel=80.00, currPos=808, millis=670816
+vel=39.22, currPos=810, millis=670867
+vel=98.04, currPos=815, millis=670918
+vel=137.25, currPos=822, millis=670969
+vel=117.65, currPos=828, millis=671020
+vel=60.00, currPos=831, millis=671071
+vel=19.61, currPos=832, millis=671121
+vel=-19.61, currPos=831, millis=671173
+vel=19.61, currPos=832, millis=671223
+vel=196.08, currPos=842, millis=671274
+REWARD, millis=671274
+vel=140.00, currPos=849, millis=671325
+vel=39.22, currPos=851, millis=671376
+vel=58.82, currPos=854, millis=671426
+lick, millis=671444
+vel=137.25, currPos=861, millis=671477
+vel=137.25, currPos=868, millis=671528
+vel=58.82, currPos=871, millis=671579
+vel=80.00, currPos=875, millis=671630
+vel=19.61, currPos=876, millis=671681
+vel=-19.61, currPos=875, millis=671732
+vel=39.22, currPos=877, millis=671782
+vel=137.25, currPos=884, millis=671833
+vel=140.00, currPos=891, millis=671884
+vel=58.82, currPos=894, millis=671935
+vel=20.00, currPos=895, millis=671985
+syncOut, millis = 672017
+vel=76.92, currPos=899, millis=672036
+vel=117.65, currPos=905, millis=672087
+vel=100.00, currPos=910, millis=672138
+vel=19.61, currPos=911, millis=672189
+vel=39.22, currPos=913, millis=672240
+vel=19.61, currPos=914, millis=672290
+vel=19.61, currPos=915, millis=672341
+vel=160.00, currPos=923, millis=672392
+vel=137.25, currPos=930, millis=672443
+vel=39.22, currPos=932, millis=672494
+vel=19.61, currPos=933, millis=672545
+vel=58.82, currPos=936, millis=672595
+vel=100.00, currPos=941, millis=672646
+vel=58.82, currPos=944, millis=672697
+vel=39.22, currPos=946, millis=672748
+vel=19.61, currPos=947, millis=672799
+vel=-19.61, currPos=946, millis=672850
+vel=39.22, currPos=948, millis=672900
+vel=140.00, currPos=955, millis=672951
+vel=137.25, currPos=962, millis=673002
+vel=80.00, currPos=966, millis=673053
+vel=19.23, currPos=967, millis=673104
+vel=117.65, currPos=973, millis=673154
+vel=100.00, currPos=978, millis=673205
+vel=39.22, currPos=980, millis=673256
+vel=40.00, currPos=982, millis=673307
+vel=76.92, currPos=986, millis=673358
+vel=19.61, currPos=987, millis=673409
+vel=60.00, currPos=990, millis=673459
+vel=156.86, currPos=998, millis=673510
+vel=160.00, currPos=1006, millis=673561
+vel=19.23, currPos=1007, millis=673612
+vel=18.87, currPos=1008, millis=673665
+vel=137.25, currPos=1015, millis=673716
+vel=120.00, currPos=1021, millis=673767
+read tag, millis=673801
+vel=98.04, currPos=5, millis=673818
+vel=76.92, currPos=9, millis=673869
+vel=7.87, currPos=10, millis=673996
+vel=140.00, currPos=17, millis=674047
+vel=156.86, currPos=25, millis=674097
+vel=58.82, currPos=28, millis=674148
+vel=12.66, currPos=29, millis=674228
+vel=58.82, currPos=32, millis=674279
+vel=176.47, currPos=41, millis=674329
+vel=98.04, currPos=46, millis=674380
+vel=58.82, currPos=49, millis=674431
+vel=60.00, currPos=52, millis=674482
+vel=13.70, currPos=53, millis=674555
+vel=39.22, currPos=55, millis=674606
+vel=137.25, currPos=62, millis=674656
+vel=40.00, currPos=64, millis=674707
+vel=39.22, currPos=66, millis=674758
+vel=17.54, currPos=67, millis=674814
+vel=80.00, currPos=71, millis=674865
+vel=137.25, currPos=78, millis=674916
+vel=40.00, currPos=80, millis=674967
+vel=57.69, currPos=83, millis=675017
+vel=58.82, currPos=86, millis=675068
+vel=20.00, currPos=87, millis=675119
+vel=16.13, currPos=88, millis=675181
+vel=96.15, currPos=93, millis=675232
+vel=160.00, currPos=101, millis=675283
+vel=58.82, currPos=104, millis=675334
+vel=20.00, currPos=105, millis=675384
+vel=78.43, currPos=109, millis=675435
+vel=96.15, currPos=114, millis=675486
+vel=60.00, currPos=117, millis=675537
+vel=58.82, currPos=120, millis=675588
+vel=60.00, currPos=123, millis=675639
+vel=39.22, currPos=125, millis=675689
+vel=39.22, currPos=127, millis=675740
+vel=98.04, currPos=132, millis=675791
+vel=137.25, currPos=139, millis=675842
+vel=120.00, currPos=145, millis=675893
+vel=58.82, currPos=148, millis=675944
+vel=39.22, currPos=150, millis=675994
+vel=98.04, currPos=155, millis=676045
+vel=156.86, currPos=163, millis=676096
+vel=78.43, currPos=167, millis=676147
+vel=80.00, currPos=171, millis=676198
+vel=39.22, currPos=173, millis=676248
+vel=12.66, currPos=174, millis=676328
+vel=58.82, currPos=177, millis=676379
+vel=156.86, currPos=185, millis=676429
+REWARD, millis=676429
+vel=117.65, currPos=191, millis=676480
+vel=19.61, currPos=192, millis=676531
+vel=20.00, currPos=193, millis=676582
+vel=98.04, currPos=198, millis=676633
+vel=176.47, currPos=207, millis=676684
+vel=98.04, currPos=212, millis=676734
+vel=58.82, currPos=215, millis=676785
+vel=20.00, currPos=216, millis=676836
+vel=19.61, currPos=217, millis=676887
+vel=-19.23, currPos=216, millis=676938
+vel=80.00, currPos=220, millis=676988
+syncOut, millis = 677017
+vel=176.47, currPos=229, millis=677039
+vel=200.00, currPos=239, millis=677091
+vel=78.43, currPos=243, millis=677141
+vel=11.76, currPos=244, millis=677226
+vel=137.25, currPos=251, millis=677277
+vel=156.86, currPos=259, millis=677328
+vel=98.04, currPos=264, millis=677378
+vel=60.00, currPos=267, millis=677429
+vel=78.43, currPos=271, millis=677480
+vel=16.95, currPos=272, millis=677538
+vel=140.00, currPos=279, millis=677589
+vel=235.29, currPos=291, millis=677640
+vel=80.00, currPos=295, millis=677690
+vel=19.61, currPos=296, millis=677741
+vel=96.15, currPos=301, millis=677792
+vel=160.00, currPos=309, millis=677843
+vel=78.43, currPos=313, millis=677894
+vel=80.00, currPos=317, millis=677945
+vel=98.04, currPos=322, millis=677995
+vel=39.22, currPos=324, millis=678046
+vel=78.43, currPos=328, millis=678097
+vel=254.90, currPos=341, millis=678148
+vel=117.65, currPos=347, millis=678199
+vel=20.00, currPos=348, millis=678250
+lick, millis=678256
+vel=98.04, currPos=353, millis=678300
+vel=156.86, currPos=361, millis=678351
+lick, millis=678372
+vel=98.04, currPos=366, millis=678402
+vel=117.65, currPos=372, millis=678453
+vel=20.00, currPos=373, millis=678504
+vel=-39.22, currPos=371, millis=678555
+vel=-19.23, currPos=370, millis=678606
+vel=80.00, currPos=374, millis=678656
+vel=137.25, currPos=381, millis=678707
+vel=120.00, currPos=387, millis=678758
+vel=78.43, currPos=391, millis=678809
+vel=76.92, currPos=395, millis=678860
+vel=60.00, currPos=398, millis=678910
+vel=98.04, currPos=403, millis=678961
+vel=80.00, currPos=407, millis=679012
+vel=5.78, currPos=408, millis=679185
+vel=40.00, currPos=410, millis=679235
+vel=96.15, currPos=415, millis=679286
+vel=156.86, currPos=423, millis=679337
+vel=80.00, currPos=427, millis=679388
+vel=39.22, currPos=429, millis=679439
+vel=137.25, currPos=436, millis=679490
+vel=140.00, currPos=443, millis=679540
+vel=96.15, currPos=448, millis=679591
+vel=100.00, currPos=453, millis=679642
+vel=39.22, currPos=455, millis=679693
+vel=58.82, currPos=458, millis=679744
+vel=140.00, currPos=465, millis=679794
+vel=115.38, currPos=471, millis=679845
+vel=20.00, currPos=472, millis=679896
+vel=19.61, currPos=473, millis=679947
+vel=117.65, currPos=479, millis=679998
+vel=160.00, currPos=487, millis=680049
+vel=57.69, currPos=490, millis=680099
+vel=98.04, currPos=495, millis=680150
+vel=60.00, currPos=498, millis=680201
+vel=39.22, currPos=500, millis=680252
+vel=140.00, currPos=507, millis=680303
+vel=173.08, currPos=516, millis=680354
+vel=58.82, currPos=519, millis=680404
+vel=40.00, currPos=521, millis=680455
+vel=137.25, currPos=528, millis=680506
+vel=100.00, currPos=533, millis=680557
+vel=78.43, currPos=537, millis=680608
+vel=76.92, currPos=541, millis=680659
+vel=20.00, currPos=542, millis=680709
+vel=-19.61, currPos=541, millis=680761
+vel=-20.00, currPos=540, millis=680812
+vel=58.82, currPos=543, millis=680862
+vel=115.38, currPos=549, millis=680913
+vel=180.00, currPos=558, millis=680963
+vel=98.04, currPos=563, millis=681014
+vel=39.22, currPos=565, millis=681065
+vel=40.00, currPos=567, millis=681116
+vel=134.62, currPos=574, millis=681167
+vel=140.00, currPos=581, millis=681218
+vel=98.04, currPos=586, millis=681268
+vel=98.04, currPos=591, millis=681319
+vel=40.00, currPos=593, millis=681370
+vel=19.23, currPos=594, millis=681421
+vel=120.00, currPos=600, millis=681472
+REWARD, millis=681472
+vel=196.08, currPos=610, millis=681523
+vel=98.04, currPos=615, millis=681573
+vel=40.00, currPos=617, millis=681624
+vel=16.13, currPos=618, millis=681685
+vel=156.86, currPos=626, millis=681736
+vel=200.00, currPos=636, millis=681788
+vel=98.04, currPos=641, millis=681838
+vel=76.92, currPos=645, millis=681889
+vel=20.00, currPos=646, millis=681940
+vel=19.61, currPos=647, millis=681990
+syncOut, millis = 682017
+vel=120.00, currPos=653, millis=682041
+vel=156.86, currPos=661, millis=682092
+vel=98.04, currPos=666, millis=682143
+vel=12.20, currPos=667, millis=682225
+vel=115.38, currPos=673, millis=682276
+vel=200.00, currPos=683, millis=682328
+vel=156.86, currPos=691, millis=682378
+vel=78.43, currPos=695, millis=682429
+vel=40.00, currPos=697, millis=682480
+vel=11.36, currPos=698, millis=682567
+vel=98.04, currPos=703, millis=682618
+vel=98.04, currPos=708, millis=682669
+vel=60.00, currPos=711, millis=682719
+vel=19.61, currPos=712, millis=682770
+vel=19.61, currPos=713, millis=682821
+vel=78.43, currPos=717, millis=682872
+vel=156.86, currPos=725, millis=682923
+vel=100.00, currPos=730, millis=682974
+vel=39.22, currPos=732, millis=683024
+vel=39.22, currPos=734, millis=683075
+vel=20.00, currPos=735, millis=683126
+vel=38.46, currPos=737, millis=683177
+vel=19.61, currPos=738, millis=683228
+vel=100.00, currPos=743, millis=683278
+vel=137.25, currPos=750, millis=683329
+vel=80.00, currPos=754, millis=683380
+vel=19.23, currPos=755, millis=683431
+vel=16.13, currPos=756, millis=683493
+vel=137.25, currPos=763, millis=683544
+vel=200.00, currPos=773, millis=683596
+vel=76.92, currPos=777, millis=683646
+vel=40.00, currPos=779, millis=683697
+vel=39.22, currPos=781, millis=683748
+vel=-39.22, currPos=779, millis=683799
+vel=-60.00, currPos=776, millis=683850
+lick, millis=683881
+vel=57.69, currPos=779, millis=683900
+vel=156.86, currPos=787, millis=683951
+vel=120.00, currPos=793, millis=684002
+vel=19.61, currPos=794, millis=684053
+vel=60.00, currPos=797, millis=684103
+vel=153.85, currPos=805, millis=684154
+vel=137.25, currPos=812, millis=684205
+vel=60.00, currPos=815, millis=684256
+vel=39.22, currPos=817, millis=684307
+vel=40.00, currPos=819, millis=684358
+vel=19.23, currPos=820, millis=684408
+vel=58.82, currPos=823, millis=684459
+vel=100.00, currPos=828, millis=684510
+vel=117.65, currPos=834, millis=684561
+vel=78.43, currPos=838, millis=684612
+vel=20.00, currPos=839, millis=684662
+vel=38.46, currPos=841, millis=684713
+vel=160.00, currPos=849, millis=684764
+vel=215.69, currPos=860, millis=684816
+vel=117.65, currPos=866, millis=684866
+vel=40.00, currPos=868, millis=684917
+vel=-19.23, currPos=867, millis=684968
+vel=16.67, currPos=868, millis=685028
+vel=78.43, currPos=872, millis=685079
+vel=120.00, currPos=878, millis=685130
+vel=57.69, currPos=881, millis=685181
+vel=14.93, currPos=882, millis=685248
+vel=60.00, currPos=885, millis=685299
+vel=153.85, currPos=893, millis=685350
+vel=200.00, currPos=903, millis=685401
+vel=78.43, currPos=907, millis=685451
+vel=39.22, currPos=909, millis=685502
+vel=40.00, currPos=911, millis=685553
+vel=-19.23, currPos=910, millis=685604
+vel=-58.82, currPos=907, millis=685655
+vel=17.54, currPos=908, millis=685713
+vel=39.22, currPos=910, millis=685763
+vel=14.29, currPos=911, millis=685833
+vel=-11.76, currPos=910, millis=685919
+vel=-19.61, currPos=909, millis=685970
+vel=-14.08, currPos=908, millis=686040
+vel=-60.00, currPos=905, millis=686091
+vel=-78.43, currPos=901, millis=686142
+vel=-78.43, currPos=897, millis=686193
+vel=-58.82, currPos=894, millis=686244
+vel=-58.82, currPos=891, millis=686295
+vel=-20.00, currPos=890, millis=686345
+vel=-19.61, currPos=889, millis=686396
+vel=-39.22, currPos=887, millis=686447
+vel=-60.00, currPos=884, millis=686498
+vel=-19.23, currPos=883, millis=686549
+lick, millis=686644
+vel=9.71, currPos=884, millis=686652
+vel=19.61, currPos=885, millis=686703
+vel=20.00, currPos=886, millis=686753
+vel=-19.23, currPos=885, millis=686805
+vel=-40.00, currPos=883, millis=686856
+vel=-19.61, currPos=882, millis=686906
+vel=-19.61, currPos=881, millis=686957
+syncOut, millis = 687017
+vel=8.77, currPos=882, millis=687071
+vel=20.00, currPos=883, millis=687121
+vel=-14.71, currPos=882, millis=687189
+vel=-17.86, currPos=881, millis=687245
+vel=-0.39, currPos=880, millis=689799
+vel=-19.61, currPos=879, millis=689849
+vel=-20.00, currPos=878, millis=689900
+vel=-5.75, currPos=877, millis=690074
+vel=-6.76, currPos=876, millis=690221
+vel=6.80, currPos=877, millis=690368
+vel=6.54, currPos=878, millis=690521
+vel=19.61, currPos=879, millis=690572
+vel=-8.85, currPos=878, millis=690685
+vel=9.35, currPos=879, millis=690793
+vel=-4.22, currPos=878, millis=691030
+syncOut, millis = 692017
+vel=0.77, currPos=879, millis=692322
+vel=0.26, currPos=880, millis=696172
+vel=20.00, currPos=881, millis=696222
+vel=-10.87, currPos=880, millis=696315
+vel=-19.61, currPos=879, millis=696365
+vel=-2.87, currPos=878, millis=696714
+syncOut, millis = 697017
+vel=0.53, currPos=879, millis=698602
+vel=2.10, currPos=880, millis=699079
+vel=19.61, currPos=881, millis=699130
+vel=-9.62, currPos=880, millis=699235
+vel=-19.61, currPos=879, millis=699286
+vel=2.70, currPos=880, millis=699656
+vel=60.00, currPos=883, millis=699706
+vel=98.04, currPos=888, millis=699757
+REWARD, millis=699757
+vel=100.00, currPos=893, millis=699808
+vel=98.04, currPos=898, millis=699859
+vel=115.38, currPos=904, millis=699910
+vel=120.00, currPos=910, millis=699961
+vel=58.82, currPos=913, millis=700011
+vel=78.43, currPos=917, millis=700062
+vel=80.00, currPos=921, millis=700113
+vel=76.92, currPos=925, millis=700164
+vel=80.00, currPos=929, millis=700215
+vel=98.04, currPos=934, millis=700266
+vel=117.65, currPos=940, millis=700316
+vel=100.00, currPos=945, millis=700367
+vel=76.92, currPos=949, millis=700418
+vel=80.00, currPos=953, millis=700469
+vel=78.43, currPos=957, millis=700520
+vel=58.82, currPos=960, millis=700570
+vel=140.00, currPos=967, millis=700621
+vel=57.69, currPos=970, millis=700672
+vel=15.38, currPos=971, millis=700738
+vel=60.00, currPos=974, millis=700788
+vel=156.86, currPos=982, millis=700839
+vel=115.38, currPos=988, millis=700890
+vel=80.00, currPos=992, millis=700941
+vel=19.61, currPos=993, millis=700992
+vel=20.00, currPos=994, millis=701042
+vel=39.22, currPos=996, millis=701093
+vel=76.92, currPos=1000, millis=701144
+vel=100.00, currPos=1005, millis=701195
+vel=39.22, currPos=1007, millis=701246
+vel=58.82, currPos=1010, millis=701297
+vel=120.00, currPos=1016, millis=701347
+vel=134.62, currPos=1023, millis=701398
+vel=40.00, currPos=1025, millis=701449
+read tag, millis=701492
+vel=58.82, currPos=3, millis=701500
+vel=58.82, currPos=6, millis=701551
+vel=20.00, currPos=7, millis=701602
+vel=115.38, currPos=13, millis=701652
+vel=80.00, currPos=17, millis=701703
+vel=58.82, currPos=20, millis=701754
+vel=19.61, currPos=21, millis=701805
+vel=80.00, currPos=25, millis=701856
+vel=176.47, currPos=34, millis=701907
+vel=173.08, currPos=43, millis=701957
+vel=100.00, currPos=48, millis=702008
+syncOut, millis = 702017
+vel=58.82, currPos=51, millis=702059
+vel=40.00, currPos=53, millis=702110
+vel=13.89, currPos=54, millis=702182
+vel=78.43, currPos=58, millis=702232
+vel=78.43, currPos=62, millis=702283
+vel=40.00, currPos=64, millis=702334
+vel=38.46, currPos=66, millis=702385
+vel=140.00, currPos=73, millis=702436
+vel=176.47, currPos=82, millis=702486
+vel=58.82, currPos=85, millis=702537
+vel=40.00, currPos=87, millis=702588
+vel=19.23, currPos=88, millis=702639
+vel=16.95, currPos=89, millis=702699
+vel=78.43, currPos=93, millis=702749
+vel=100.00, currPos=98, millis=702800
+vel=57.69, currPos=101, millis=702851
+vel=20.00, currPos=102, millis=702902
+vel=39.22, currPos=104, millis=702953
+vel=137.25, currPos=111, millis=703003
+vel=180.00, currPos=120, millis=703054
+vel=38.46, currPos=122, millis=703105
+vel=78.43, currPos=126, millis=703156
+vel=60.00, currPos=129, millis=703207
+vel=-19.61, currPos=128, millis=703258
+vel=40.00, currPos=130, millis=703308
+vel=153.85, currPos=138, millis=703359
+vel=98.04, currPos=143, millis=703410
+vel=60.00, currPos=146, millis=703461
+vel=39.22, currPos=148, millis=703512
+vel=160.00, currPos=156, millis=703563
+vel=156.86, currPos=164, millis=703613
+vel=76.92, currPos=168, millis=703664
+vel=100.00, currPos=173, millis=703715
+vel=39.22, currPos=175, millis=703766
+vel=19.61, currPos=176, millis=703817
+vel=20.00, currPos=177, millis=703868
+vel=57.69, currPos=180, millis=703918
+vel=120.00, currPos=186, millis=703969
+vel=117.65, currPos=192, millis=704020
+vel=12.20, currPos=193, millis=704102
+vel=156.86, currPos=201, millis=704153
+vel=176.47, currPos=210, millis=704204
+vel=80.00, currPos=214, millis=704255
+vel=19.23, currPos=215, millis=704306
+vel=40.00, currPos=217, millis=704357
+vel=-19.61, currPos=216, millis=704408
+vel=58.82, currPos=219, millis=704458
+vel=140.00, currPos=226, millis=704509
+vel=76.92, currPos=230, millis=704560
+vel=16.67, currPos=231, millis=704621
+vel=58.82, currPos=234, millis=704672
+vel=156.86, currPos=242, millis=704722
+vel=156.86, currPos=250, millis=704773
+REWARD, millis=704773
+vel=78.43, currPos=254, millis=704824
+vel=60.00, currPos=257, millis=704875
+vel=7.19, currPos=258, millis=705014
+vel=98.04, currPos=263, millis=705065
+vel=117.65, currPos=269, millis=705116
+vel=39.22, currPos=271, millis=705166
+vel=58.82, currPos=274, millis=705217
+vel=140.00, currPos=281, millis=705268
+vel=215.69, currPos=292, millis=705319
+vel=117.65, currPos=298, millis=705370
+vel=78.43, currPos=302, millis=705421
+vel=78.43, currPos=306, millis=705471
+vel=14.29, currPos=307, millis=705541
+vel=120.00, currPos=313, millis=705592
+vel=196.08, currPos=323, millis=705643
+vel=78.43, currPos=327, millis=705694
+vel=18.18, currPos=328, millis=705750
+vel=96.15, currPos=333, millis=705800
+vel=98.04, currPos=338, millis=705851
+vel=80.00, currPos=342, millis=705902
+vel=117.65, currPos=348, millis=705953
+vel=40.00, currPos=350, millis=706004
+vel=14.29, currPos=351, millis=706073
+vel=78.43, currPos=355, millis=706124
+vel=156.86, currPos=363, millis=706175
+vel=98.04, currPos=368, millis=706226
+vel=39.22, currPos=370, millis=706277
+vel=40.00, currPos=372, millis=706327
+vel=78.43, currPos=376, millis=706378
+vel=98.04, currPos=381, millis=706429
+vel=78.43, currPos=385, millis=706480
+vel=78.43, currPos=389, millis=706531
+vel=60.00, currPos=392, millis=706582
+vel=39.22, currPos=394, millis=706632
+vel=17.24, currPos=395, millis=706690
+vel=19.61, currPos=396, millis=706741
+vel=100.00, currPos=401, millis=706791
+vel=78.43, currPos=405, millis=706842
+vel=58.82, currPos=408, millis=706893
+vel=20.00, currPos=409, millis=706944
+vel=57.69, currPos=412, millis=706995
+syncOut, millis = 707017
+vel=100.00, currPos=417, millis=707046
+vel=78.43, currPos=421, millis=707096
+vel=58.82, currPos=424, millis=707147
+vel=120.00, currPos=430, millis=707198
+vel=96.15, currPos=435, millis=707249
+vel=40.00, currPos=437, millis=707300
+vel=39.22, currPos=439, millis=707351
+vel=137.25, currPos=446, millis=707401
+vel=160.00, currPos=454, millis=707452
+vel=15.87, currPos=455, millis=707514
+vel=19.61, currPos=456, millis=707565
+vel=100.00, currPos=461, millis=707616
+vel=176.47, currPos=470, millis=707667
+vel=115.38, currPos=476, millis=707718
+vel=80.00, currPos=480, millis=707769
+vel=39.22, currPos=482, millis=707819
+vel=-10.42, currPos=481, millis=707917
+vel=16.39, currPos=482, millis=707977
+vel=117.65, currPos=488, millis=708028
+vel=196.08, currPos=498, millis=708079
+vel=80.00, currPos=502, millis=708129
+vel=19.61, currPos=503, millis=708180
+vel=19.23, currPos=504, millis=708231
+vel=120.00, currPos=510, millis=708282
+vel=137.25, currPos=517, millis=708333
+vel=100.00, currPos=522, millis=708384
+vel=78.43, currPos=526, millis=708434
+vel=57.69, currPos=529, millis=708485
+vel=20.00, currPos=530, millis=708536
+vel=19.61, currPos=531, millis=708587
+vel=100.00, currPos=536, millis=708638
+vel=137.25, currPos=543, millis=708689
+vel=57.69, currPos=546, millis=708739
+vel=40.00, currPos=548, millis=708790
+vel=19.61, currPos=549, millis=708841
+vel=39.22, currPos=551, millis=708892
+vel=100.00, currPos=556, millis=708943
+vel=134.62, currPos=563, millis=708993
+vel=120.00, currPos=569, millis=709044
+vel=78.43, currPos=573, millis=709095
+vel=39.22, currPos=575, millis=709146
+vel=20.00, currPos=576, millis=709197
+vel=13.51, currPos=577, millis=709270
+vel=117.65, currPos=583, millis=709321
+vel=180.00, currPos=592, millis=709372
+vel=76.92, currPos=596, millis=709423
+vel=14.29, currPos=597, millis=709493
+vel=60.00, currPos=600, millis=709544
+vel=115.38, currPos=606, millis=709595
+vel=80.00, currPos=610, millis=709646
+vel=58.82, currPos=613, millis=709696
+vel=58.82, currPos=616, millis=709747
+vel=80.00, currPos=620, millis=709798
+REWARD, millis=709798
+vel=19.23, currPos=621, millis=709849
+vel=100.00, currPos=626, millis=709900
+vel=196.08, currPos=636, millis=709951
+vel=78.43, currPos=640, millis=710001
+vel=11.49, currPos=641, millis=710089
+vel=117.65, currPos=647, millis=710140
+vel=156.86, currPos=655, millis=710191
+vel=98.04, currPos=660, millis=710241
+vel=58.82, currPos=663, millis=710292
+vel=20.00, currPos=664, millis=710343
+vel=-16.13, currPos=663, millis=710405
+vel=39.22, currPos=665, millis=710455
+vel=156.86, currPos=673, millis=710506
+vel=140.00, currPos=680, millis=710557
+vel=78.43, currPos=684, millis=710608
+vel=58.82, currPos=687, millis=710659
+vel=137.25, currPos=694, millis=710710
+vel=215.69, currPos=705, millis=710761
+vel=80.00, currPos=709, millis=710811
+vel=19.61, currPos=710, millis=710862
+vel=40.00, currPos=712, millis=710913
+vel=-76.92, currPos=708, millis=710964
+vel=39.22, currPos=710, millis=711015
+vel=220.00, currPos=721, millis=711066
+vel=215.69, currPos=732, millis=711117
+vel=117.65, currPos=738, millis=711167
+vel=39.22, currPos=740, millis=711218
+vel=58.82, currPos=743, millis=711269
+vel=140.00, currPos=750, millis=711320
+vel=196.08, currPos=760, millis=711371
+vel=117.65, currPos=766, millis=711421
+vel=39.22, currPos=768, millis=711472
+vel=39.22, currPos=770, millis=711523
+vel=-19.61, currPos=769, millis=711574
+vel=20.00, currPos=770, millis=711625
+vel=78.43, currPos=774, millis=711675
+vel=137.25, currPos=781, millis=711726
+vel=58.82, currPos=784, millis=711777
+vel=39.22, currPos=786, millis=711828
+vel=40.00, currPos=788, millis=711879
+vel=98.04, currPos=793, millis=711930
+vel=156.86, currPos=801, millis=711980
+syncOut, millis = 712017
+vel=137.25, currPos=808, millis=712031
+vel=58.82, currPos=811, millis=712082
+vel=60.00, currPos=814, millis=712133
+vel=6.13, currPos=815, millis=712296
+vel=98.04, currPos=820, millis=712347
+vel=137.25, currPos=827, millis=712398
+vel=80.00, currPos=831, millis=712448
+vel=38.46, currPos=833, millis=712499
+vel=60.00, currPos=836, millis=712550
+vel=117.65, currPos=842, millis=712601
+vel=196.08, currPos=852, millis=712652
+vel=120.00, currPos=858, millis=712703
+vel=57.69, currPos=861, millis=712753
+vel=58.82, currPos=864, millis=712804
+vel=9.35, currPos=865, millis=712912
+vel=96.15, currPos=870, millis=712963
+vel=137.25, currPos=877, millis=713014
+vel=80.00, currPos=881, millis=713065
+vel=-19.61, currPos=880, millis=713116
+vel=80.00, currPos=884, millis=713167
+vel=196.08, currPos=894, millis=713218
+vel=115.38, currPos=900, millis=713268
+vel=80.00, currPos=904, millis=713319
+vel=78.43, currPos=908, millis=713370
+vel=9.17, currPos=909, millis=713479
+vel=98.04, currPos=914, millis=713529
+vel=180.00, currPos=923, millis=713580
+vel=58.82, currPos=926, millis=713631
+vel=20.00, currPos=927, millis=713682
+vel=57.69, currPos=930, millis=713733
+vel=98.04, currPos=935, millis=713784
+vel=120.00, currPos=941, millis=713834
+vel=98.04, currPos=946, millis=713885
+vel=98.04, currPos=951, millis=713936
+vel=120.00, currPos=957, millis=713987
+vel=19.23, currPos=958, millis=714038
+vel=19.23, currPos=959, millis=714091
+vel=58.82, currPos=962, millis=714141
+vel=156.86, currPos=970, millis=714192
+vel=140.00, currPos=977, millis=714243
+vel=57.69, currPos=980, millis=714294
+vel=40.00, currPos=982, millis=714345
+vel=78.43, currPos=986, millis=714396
+vel=117.65, currPos=992, millis=714446
+vel=120.00, currPos=998, millis=714497
+vel=76.92, currPos=1002, millis=714548
+vel=58.82, currPos=1005, millis=714599
+vel=20.00, currPos=1006, millis=714650
+vel=-14.29, currPos=1005, millis=714720
+vel=14.71, currPos=1006, millis=714788
+vel=117.65, currPos=1012, millis=714839
+REWARD, millis=714839
+vel=115.38, currPos=1018, millis=714890
+vel=80.00, currPos=1022, millis=714941
+read tag, millis=714974
+vel=117.65, currPos=6, millis=714991
+vel=60.00, currPos=9, millis=715042
+vel=10.53, currPos=10, millis=715138
+vel=115.38, currPos=16, millis=715189
+vel=176.47, currPos=25, millis=715239
+vel=80.00, currPos=29, millis=715290
+vel=39.22, currPos=31, millis=715341
+vel=19.61, currPos=32, millis=715392
+vel=19.61, currPos=33, millis=715443
+vel=19.61, currPos=34, millis=715493
+vel=40.00, currPos=36, millis=715544
+vel=78.43, currPos=40, millis=715595
+vel=196.08, currPos=50, millis=715646
+vel=58.82, currPos=53, millis=715697
+vel=39.22, currPos=55, millis=715748
+vel=40.00, currPos=57, millis=715798
+vel=58.82, currPos=60, millis=715849
+vel=215.69, currPos=71, millis=715901
+vel=180.00, currPos=80, millis=715951
+vel=57.69, currPos=83, millis=716002
+vel=19.61, currPos=84, millis=716053
+vel=20.00, currPos=85, millis=716103
+vel=-19.61, currPos=84, millis=716155
+vel=40.00, currPos=86, millis=716205
+vel=115.38, currPos=92, millis=716256
+vel=117.65, currPos=98, millis=716307
+vel=40.00, currPos=100, millis=716358
+vel=39.22, currPos=102, millis=716408
+vel=39.22, currPos=104, millis=716459
+vel=58.82, currPos=107, millis=716510
+vel=156.86, currPos=115, millis=716561
+vel=200.00, currPos=125, millis=716612
+vel=117.65, currPos=131, millis=716663
+vel=19.61, currPos=132, millis=716713
+vel=19.61, currPos=133, millis=716764
+vel=58.82, currPos=136, millis=716815
+vel=100.00, currPos=141, millis=716866
+vel=98.04, currPos=146, millis=716917
+vel=39.22, currPos=148, millis=716968
+syncOut, millis = 717017
+vel=40.00, currPos=150, millis=717018
+vel=19.23, currPos=151, millis=717069
+vel=176.47, currPos=160, millis=717120
+vel=180.00, currPos=169, millis=717171
+vel=78.43, currPos=173, millis=717222
+vel=40.00, currPos=175, millis=717272
+vel=19.23, currPos=176, millis=717323
+vel=-19.61, currPos=175, millis=717375
+vel=20.00, currPos=176, millis=717425
+vel=156.86, currPos=184, millis=717476
+vel=240.00, currPos=196, millis=717527
+vel=115.38, currPos=202, millis=717577
+vel=12.05, currPos=203, millis=717661
+vel=58.82, currPos=206, millis=717712
+vel=78.43, currPos=210, millis=717762
+vel=140.00, currPos=217, millis=717813
+vel=98.04, currPos=222, millis=717864
+vel=38.46, currPos=224, millis=717915
+vel=40.00, currPos=226, millis=717966
+vel=19.61, currPos=227, millis=718017
+vel=60.00, currPos=230, millis=718067
+vel=156.86, currPos=238, millis=718118
+vel=156.86, currPos=246, millis=718169
+vel=78.43, currPos=250, millis=718220
+vel=39.22, currPos=252, millis=718271
+vel=19.61, currPos=253, millis=718322
+vel=60.00, currPos=256, millis=718373
+vel=137.25, currPos=263, millis=718424
+vel=115.38, currPos=269, millis=718474
+vel=80.00, currPos=273, millis=718525
+vel=58.82, currPos=276, millis=718576
+vel=20.00, currPos=277, millis=718627
+vel=19.61, currPos=278, millis=718678
+vel=57.69, currPos=281, millis=718728
+vel=120.00, currPos=287, millis=718779
+vel=176.47, currPos=296, millis=718830
+vel=100.00, currPos=301, millis=718881
+vel=19.61, currPos=302, millis=718932
+vel=38.46, currPos=304, millis=718983
+vel=160.00, currPos=312, millis=719033
+vel=137.25, currPos=319, millis=719084
+vel=98.04, currPos=324, millis=719135
+vel=60.00, currPos=327, millis=719186
+vel=19.61, currPos=328, millis=719237
+vel=13.51, currPos=329, millis=719311
+vel=100.00, currPos=334, millis=719361
+vel=173.08, currPos=343, millis=719412
+vel=117.65, currPos=349, millis=719463
+vel=80.00, currPos=353, millis=719514
+vel=39.22, currPos=355, millis=719565
+vel=20.00, currPos=356, millis=719615
+vel=38.46, currPos=358, millis=719666
+vel=176.47, currPos=367, millis=719717
+vel=120.00, currPos=373, millis=719768
+vel=98.04, currPos=378, millis=719819
+vel=58.82, currPos=381, millis=719870
+vel=9.35, currPos=382, millis=719977
+vel=117.65, currPos=388, millis=720028
+REWARD, millis=720028
+vel=215.69, currPos=399, millis=720079
+vel=140.00, currPos=406, millis=720129
+vel=38.46, currPos=408, millis=720180
+vel=60.00, currPos=411, millis=720231
+vel=137.25, currPos=418, millis=720282
+vel=137.25, currPos=425, millis=720333
+vel=40.00, currPos=427, millis=720384
+vel=10.87, currPos=428, millis=720475
+vel=96.15, currPos=433, millis=720526
+vel=80.00, currPos=437, millis=720577
+vel=-13.16, currPos=436, millis=720653
+vel=-19.61, currPos=435, millis=720704
+vel=-40.00, currPos=433, millis=720755
+vel=-39.22, currPos=431, millis=720806
+vel=-39.22, currPos=429, millis=720857
+vel=-78.43, currPos=425, millis=720908
+vel=19.61, currPos=426, millis=720958
+vel=80.00, currPos=430, millis=721009
+vel=78.43, currPos=434, millis=721060
+vel=39.22, currPos=436, millis=721110
+vel=19.61, currPos=437, millis=721161
+vel=98.04, currPos=442, millis=721212
+vel=19.61, currPos=443, millis=721263
+vel=-60.00, currPos=440, millis=721314
+vel=-78.43, currPos=436, millis=721365
+vel=-58.82, currPos=433, millis=721416
+vel=-19.61, currPos=432, millis=721467
+vel=58.82, currPos=435, millis=721517
+vel=100.00, currPos=440, millis=721568
+vel=78.43, currPos=444, millis=721619
+vel=60.00, currPos=447, millis=721669
+vel=-16.13, currPos=446, millis=721731
+vel=-40.00, currPos=444, millis=721782
+vel=-19.61, currPos=443, millis=721832
+syncOut, millis = 722017
+vel=-4.35, currPos=442, millis=722061
+vel=-14.71, currPos=441, millis=722130
+vel=0.32, currPos=442, millis=725249
+vel=-7.94, currPos=441, millis=725375
+vel=-39.22, currPos=439, millis=725426
+vel=-39.22, currPos=437, millis=725477
+vel=-39.22, currPos=435, millis=725527
+vel=14.29, currPos=436, millis=725598
+vel=57.69, currPos=439, millis=725649
+vel=60.00, currPos=442, millis=725700
+vel=58.82, currPos=445, millis=725750
+vel=-13.70, currPos=444, millis=725824
+vel=-19.61, currPos=443, millis=725875
+vel=-19.61, currPos=442, millis=725926
+vel=5.88, currPos=443, millis=726096
+vel=13.51, currPos=444, millis=726170
+vel=-19.61, currPos=443, millis=726221
+vel=-14.49, currPos=442, millis=726290
+vel=11.24, currPos=443, millis=726378
+syncOut, millis = 727017
+vel=0.78, currPos=444, millis=727668
+vel=0.63, currPos=445, millis=729266
+vel=2.41, currPos=446, millis=729680
+syncOut, millis = 732017
+vel=0.40, currPos=447, millis=732207
+vel=0.73, currPos=448, millis=733570
+vel=15.15, currPos=449, millis=733636
+vel=19.61, currPos=450, millis=733687
+vel=-19.61, currPos=449, millis=733738
+vel=40.00, currPos=451, millis=733788
+vel=76.92, currPos=455, millis=733839
+REWARD, millis=733839
+vel=60.00, currPos=458, millis=733890
+vel=39.22, currPos=460, millis=733941
+vel=78.43, currPos=464, millis=733991
+vel=60.00, currPos=467, millis=734042
+vel=57.69, currPos=470, millis=734093
+vel=100.00, currPos=475, millis=734144
+vel=98.04, currPos=480, millis=734195
+vel=78.43, currPos=484, millis=734246
+vel=80.00, currPos=488, millis=734296
+vel=58.82, currPos=491, millis=734347
+vel=57.69, currPos=494, millis=734398
+vel=60.00, currPos=497, millis=734449
+vel=18.87, currPos=498, millis=734502
+vel=19.61, currPos=499, millis=734553
+vel=40.00, currPos=501, millis=734604
+vel=115.38, currPos=507, millis=734654
+vel=100.00, currPos=512, millis=734705
+vel=58.82, currPos=515, millis=734756
+vel=58.82, currPos=518, millis=734807
+vel=80.00, currPos=522, millis=734858
+vel=38.46, currPos=524, millis=734909
+vel=60.00, currPos=527, millis=734959
+vel=11.24, currPos=528, millis=735048
+vel=19.61, currPos=529, millis=735099
+vel=58.82, currPos=532, millis=735150
+vel=100.00, currPos=537, millis=735201
+vel=173.08, currPos=546, millis=735252
+vel=140.00, currPos=553, millis=735303
+vel=117.65, currPos=559, millis=735353
+vel=78.43, currPos=563, millis=735404
+vel=20.00, currPos=564, millis=735455
+vel=19.23, currPos=565, millis=735506
+vel=60.00, currPos=568, millis=735557
+vel=39.22, currPos=570, millis=735607
+vel=19.61, currPos=571, millis=735658
+vel=60.00, currPos=574, millis=735709
+vel=134.62, currPos=581, millis=735760
+vel=137.25, currPos=588, millis=735811
+vel=140.00, currPos=595, millis=735862
+vel=176.47, currPos=604, millis=735912
+vel=80.00, currPos=608, millis=735963
+vel=-14.29, currPos=607, millis=736033
+vel=-5.46, currPos=606, millis=736217
+vel=16.67, currPos=607, millis=736275
+vel=78.43, currPos=611, millis=736326
+vel=160.00, currPos=619, millis=736377
+vel=78.43, currPos=623, millis=736428
+vel=78.43, currPos=627, millis=736479
+vel=98.04, currPos=632, millis=736530
+vel=58.82, currPos=635, millis=736580
+vel=-20.00, currPos=634, millis=736632
+vel=11.63, currPos=635, millis=736717
+vel=19.61, currPos=636, millis=736768
+vel=19.61, currPos=637, millis=736819
+vel=19.61, currPos=638, millis=736870
+vel=78.43, currPos=642, millis=736920
+vel=80.00, currPos=646, millis=736971
+syncOut, millis = 737017
+vel=58.82, currPos=649, millis=737022
+vel=98.04, currPos=654, millis=737073
+vel=176.47, currPos=663, millis=737124
+vel=98.04, currPos=668, millis=737175
+vel=40.00, currPos=670, millis=737225
+vel=58.82, currPos=673, millis=737276
+vel=39.22, currPos=675, millis=737327
+vel=18.18, currPos=676, millis=737381
+vel=20.00, currPos=677, millis=737432
+vel=78.43, currPos=681, millis=737483
+vel=220.00, currPos=692, millis=737534
+vel=196.08, currPos=702, millis=737585
+vel=173.08, currPos=711, millis=737635
+vel=140.00, currPos=718, millis=737686
+vel=39.22, currPos=720, millis=737737
+vel=19.61, currPos=721, millis=737788
+vel=20.00, currPos=722, millis=737839
+vel=39.22, currPos=724, millis=737890
+vel=78.43, currPos=728, millis=737940
+vel=78.43, currPos=732, millis=737991
+vel=39.22, currPos=734, millis=738042
+vel=120.00, currPos=740, millis=738093
+vel=196.08, currPos=750, millis=738144
+vel=117.65, currPos=756, millis=738195
+vel=78.43, currPos=760, millis=738245
+vel=39.22, currPos=762, millis=738296
+vel=20.00, currPos=763, millis=738347
+vel=19.61, currPos=764, millis=738398
+vel=76.92, currPos=768, millis=738449
+vel=40.00, currPos=770, millis=738500
+vel=39.22, currPos=772, millis=738550
+vel=220.00, currPos=783, millis=738602
+vel=294.12, currPos=798, millis=738653
+vel=134.62, currPos=805, millis=738703
+vel=60.00, currPos=808, millis=738754
+vel=58.82, currPos=811, millis=738805
+vel=19.61, currPos=812, millis=738855
+vel=60.00, currPos=815, millis=738906
+vel=58.82, currPos=818, millis=738957
+vel=17.86, currPos=819, millis=739012
+vel=60.00, currPos=822, millis=739063
+vel=176.47, currPos=831, millis=739114
+REWARD, millis=739114
+vel=160.00, currPos=839, millis=739165
+vel=96.15, currPos=844, millis=739215
+vel=39.22, currPos=846, millis=739266
+vel=40.00, currPos=848, millis=739317
+vel=19.61, currPos=849, millis=739368
+vel=40.00, currPos=851, millis=739419
+vel=39.22, currPos=853, millis=739470
+vel=57.69, currPos=856, millis=739520
+vel=14.71, currPos=857, millis=739589
+vel=117.65, currPos=863, millis=739640
+vel=176.47, currPos=872, millis=739691
+vel=156.86, currPos=880, millis=739742
+vel=137.25, currPos=887, millis=739793
+vel=100.00, currPos=892, millis=739844
+vel=11.24, currPos=893, millis=739932
+vel=98.04, currPos=898, millis=739983
+vel=117.65, currPos=904, millis=740034
+vel=58.82, currPos=907, millis=740085
+vel=-19.61, currPos=906, millis=740137
+vel=39.22, currPos=908, millis=740188
+vel=173.08, currPos=917, millis=740238
+vel=180.00, currPos=926, millis=740289
+vel=117.65, currPos=932, millis=740340
+vel=100.00, currPos=937, millis=740391
+vel=39.22, currPos=939, millis=740442
+vel=9.80, currPos=940, millis=740544
+vel=39.22, currPos=942, millis=740594
+vel=98.04, currPos=947, millis=740645
+vel=100.00, currPos=952, millis=740696
+vel=58.82, currPos=955, millis=740747
+vel=76.92, currPos=959, millis=740798
+vel=100.00, currPos=964, millis=740849
+vel=117.65, currPos=970, millis=740899
+vel=100.00, currPos=975, millis=740950
+vel=58.82, currPos=978, millis=741001
+vel=76.92, currPos=982, millis=741052
+vel=60.00, currPos=985, millis=741103
+vel=78.43, currPos=989, millis=741154
+vel=100.00, currPos=994, millis=741204
+vel=14.49, currPos=995, millis=741273
+vel=19.61, currPos=996, millis=741323
+vel=120.00, currPos=1002, millis=741374
+vel=156.86, currPos=1010, millis=741425
+vel=117.65, currPos=1016, millis=741476
+vel=98.04, currPos=1021, millis=741527
+vel=78.43, currPos=1025, millis=741578
+vel=19.23, currPos=1026, millis=741630
+read tag, millis=741674
+vel=58.82, currPos=3, millis=741681
+vel=100.00, currPos=8, millis=741732
+vel=38.46, currPos=10, millis=741783
+vel=9.80, currPos=11, millis=741885
+vel=117.65, currPos=17, millis=741936
+vel=180.00, currPos=26, millis=741987
+syncOut, millis = 742017
+vel=173.08, currPos=35, millis=742038
+vel=196.08, currPos=45, millis=742089
+vel=80.00, currPos=49, millis=742139
+vel=19.23, currPos=50, millis=742192
+vel=58.82, currPos=53, millis=742242
+vel=78.43, currPos=57, millis=742293
+vel=12.35, currPos=58, millis=742374
+vel=78.43, currPos=62, millis=742425
+vel=274.51, currPos=76, millis=742477
+vel=240.00, currPos=88, millis=742527
+vel=98.04, currPos=93, millis=742578
+vel=19.61, currPos=94, millis=742629
+vel=16.39, currPos=95, millis=742689
+vel=78.43, currPos=99, millis=742740
+vel=120.00, currPos=105, millis=742791
+vel=78.43, currPos=109, millis=742842
+vel=19.23, currPos=110, millis=742894
+vel=98.04, currPos=115, millis=742945
+vel=215.69, currPos=126, millis=742996
+vel=160.00, currPos=134, millis=743046
+vel=117.65, currPos=140, millis=743097
+vel=76.92, currPos=144, millis=743148
+vel=11.49, currPos=145, millis=743236
+vel=58.82, currPos=148, millis=743286
+vel=98.04, currPos=153, millis=743337
+vel=80.00, currPos=157, millis=743388
+vel=19.61, currPos=158, millis=743439
+vel=117.65, currPos=164, millis=743490
+vel=235.29, currPos=176, millis=743541
+vel=215.69, currPos=187, millis=743592
+vel=140.00, currPos=194, millis=743642
+vel=78.43, currPos=198, millis=743693
+vel=19.23, currPos=199, millis=743744
+vel=100.00, currPos=204, millis=743795
+vel=176.47, currPos=213, millis=743846
+vel=100.00, currPos=218, millis=743896
+vel=39.22, currPos=220, millis=743947
+vel=153.85, currPos=228, millis=743998
+vel=140.00, currPos=235, millis=744049
+vel=117.65, currPos=241, millis=744100
+vel=80.00, currPos=245, millis=744151
+REWARD, millis=744151
+vel=39.22, currPos=247, millis=744201
+vel=57.69, currPos=250, millis=744252
+vel=200.00, currPos=260, millis=744304
+vel=196.08, currPos=270, millis=744355
+vel=58.82, currPos=273, millis=744405
+vel=-20.00, currPos=272, millis=744456
+vel=156.86, currPos=280, millis=744507
+vel=156.86, currPos=288, millis=744557
+vel=137.25, currPos=295, millis=744608
+vel=117.65, currPos=301, millis=744659
+vel=40.00, currPos=303, millis=744710
+vel=58.82, currPos=306, millis=744761
+vel=115.38, currPos=312, millis=744811
+vel=100.00, currPos=317, millis=744862
+vel=39.22, currPos=319, millis=744913
+vel=60.00, currPos=322, millis=744964
+vel=176.47, currPos=331, millis=745015
+vel=173.08, currPos=340, millis=745066
+vel=100.00, currPos=345, millis=745116
+vel=58.82, currPos=348, millis=745167
+vel=20.00, currPos=349, millis=745218
+vel=13.51, currPos=350, millis=745292
+vel=78.43, currPos=354, millis=745342
+vel=200.00, currPos=364, millis=745394
+vel=98.04, currPos=369, millis=745444
+vel=38.46, currPos=371, millis=745495
+vel=40.00, currPos=373, millis=745546
+vel=196.08, currPos=383, millis=745597
+vel=200.00, currPos=393, millis=745648
+vel=78.43, currPos=397, millis=745698
+vel=38.46, currPos=399, millis=745749
+vel=20.00, currPos=400, millis=745800
+vel=78.43, currPos=404, millis=745851
+vel=137.25, currPos=411, millis=745902
+vel=80.00, currPos=415, millis=745952
+vel=38.46, currPos=417, millis=746003
+vel=200.00, currPos=427, millis=746055
+vel=176.47, currPos=436, millis=746105
+vel=117.65, currPos=442, millis=746156
+vel=40.00, currPos=444, millis=746207
+vel=11.90, currPos=445, millis=746290
+vel=117.65, currPos=451, millis=746341
+vel=176.47, currPos=460, millis=746392
+vel=19.61, currPos=461, millis=746443
+vel=-20.00, currPos=460, millis=746494
+vel=78.43, currPos=464, millis=746544
+vel=117.65, currPos=470, millis=746595
+vel=58.82, currPos=473, millis=746646
+vel=78.43, currPos=477, millis=746697
+vel=98.04, currPos=482, millis=746748
+vel=20.00, currPos=483, millis=746799
+vel=-39.22, currPos=481, millis=746850
+vel=98.04, currPos=486, millis=746900
+vel=215.69, currPos=497, millis=746952
+vel=98.04, currPos=502, millis=747002
+syncOut, millis = 747017
+vel=17.24, currPos=503, millis=747061
+vel=115.38, currPos=509, millis=747112
+vel=117.65, currPos=515, millis=747163
+vel=100.00, currPos=520, millis=747213
+vel=58.82, currPos=523, millis=747264
+vel=40.00, currPos=525, millis=747315
+vel=12.82, currPos=526, millis=747392
+vel=80.00, currPos=530, millis=747443
+vel=117.65, currPos=536, millis=747494
+vel=39.22, currPos=538, millis=747545
+vel=19.61, currPos=539, millis=747595
+vel=58.82, currPos=542, millis=747646
+vel=100.00, currPos=547, millis=747697
+vel=117.65, currPos=553, millis=747748
+vel=115.38, currPos=559, millis=747799
+vel=140.00, currPos=566, millis=747850
+vel=58.82, currPos=569, millis=747900
+vel=40.00, currPos=571, millis=747951
+vel=19.61, currPos=572, millis=748002
+vel=38.46, currPos=574, millis=748053
+vel=140.00, currPos=581, millis=748104
+vel=78.43, currPos=585, millis=748155
+vel=40.00, currPos=587, millis=748205
+vel=98.04, currPos=592, millis=748256
+vel=230.77, currPos=604, millis=748308
+vel=160.00, currPos=612, millis=748358
+vel=39.22, currPos=614, millis=748409
+vel=39.22, currPos=616, millis=748460
+vel=20.00, currPos=617, millis=748510
+vel=19.61, currPos=618, millis=748561
+vel=39.22, currPos=620, millis=748612
+vel=98.04, currPos=625, millis=748663
+vel=137.25, currPos=632, millis=748714
+vel=60.00, currPos=635, millis=748764
+vel=19.61, currPos=636, millis=748815
+vel=156.86, currPos=644, millis=748866
+vel=156.86, currPos=652, millis=748917
+vel=78.43, currPos=656, millis=748968
+vel=120.00, currPos=662, millis=749019
+vel=58.82, currPos=665, millis=749069
+vel=19.23, currPos=666, millis=749120
+vel=40.00, currPos=668, millis=749171
+vel=58.82, currPos=671, millis=749222
+vel=100.00, currPos=676, millis=749273
+REWARD, millis=749273
+vel=19.61, currPos=677, millis=749324
+vel=17.86, currPos=678, millis=749379
+vel=58.82, currPos=681, millis=749430
+vel=120.00, currPos=687, millis=749481
+vel=137.25, currPos=694, millis=749531
+vel=120.00, currPos=700, millis=749582
+vel=19.23, currPos=701, millis=749633
+vel=-8.77, currPos=700, millis=749748
+vel=19.61, currPos=701, millis=749799
+vel=98.04, currPos=706, millis=749850
+vel=98.04, currPos=711, millis=749900
+vel=58.82, currPos=714, millis=749951
+vel=80.00, currPos=718, millis=750002
+vel=156.86, currPos=726, millis=750053
+vel=153.85, currPos=734, millis=750104
+vel=80.00, currPos=738, millis=750155
+vel=78.43, currPos=742, millis=750205
+vel=40.00, currPos=744, millis=750256
+vel=15.87, currPos=745, millis=750319
+vel=78.43, currPos=749, millis=750370
+vel=156.86, currPos=757, millis=750420
+vel=60.00, currPos=760, millis=750471
+vel=39.22, currPos=762, millis=750522
+vel=196.08, currPos=772, millis=750573
+vel=215.69, currPos=783, millis=750624
+vel=98.04, currPos=788, millis=750675
+vel=80.00, currPos=792, millis=750725
+vel=-11.63, currPos=791, millis=750812
+vel=-39.22, currPos=789, millis=750863
+vel=57.69, currPos=792, millis=750913
+vel=180.00, currPos=801, millis=750964
+vel=215.69, currPos=812, millis=751015
+vel=40.00, currPos=814, millis=751066
+vel=11.49, currPos=815, millis=751153
+vel=78.43, currPos=819, millis=751203
+vel=96.15, currPos=824, millis=751254
+vel=140.00, currPos=831, millis=751305
+vel=137.25, currPos=838, millis=751356
+vel=40.00, currPos=840, millis=751407
+vel=-19.61, currPos=839, millis=751458
+vel=-19.23, currPos=838, millis=751509
+vel=40.00, currPos=840, millis=751559
+vel=98.04, currPos=845, millis=751610
+vel=117.65, currPos=851, millis=751661
+vel=60.00, currPos=854, millis=751712
+vel=39.22, currPos=856, millis=751763
+vel=19.61, currPos=857, millis=751813
+vel=19.61, currPos=858, millis=751864
+vel=-19.61, currPos=857, millis=751916
+vel=80.00, currPos=861, millis=751966
+vel=176.47, currPos=870, millis=752017
+syncOut, millis = 752017
+vel=156.86, currPos=878, millis=752068
+vel=58.82, currPos=881, millis=752118
+vel=-19.61, currPos=880, millis=752170
+vel=-80.00, currPos=876, millis=752220
+vel=117.65, currPos=882, millis=752271
+vel=19.23, currPos=883, millis=752322
+vel=-40.00, currPos=881, millis=752373
+vel=-78.43, currPos=877, millis=752424
+vel=-80.00, currPos=873, millis=752475
+vel=-58.82, currPos=870, millis=752525
+vel=-96.15, currPos=865, millis=752576
+vel=-100.00, currPos=860, millis=752627
+vel=-137.25, currPos=853, millis=752678
+vel=-80.00, currPos=849, millis=752729
+vel=-19.61, currPos=848, millis=752780
+vel=19.61, currPos=849, millis=752830
+vel=19.61, currPos=850, millis=752881
+vel=19.61, currPos=851, millis=752932
+vel=39.22, currPos=853, millis=752982
+vel=40.00, currPos=855, millis=753033
+vel=-58.82, currPos=852, millis=753085
+vel=-98.04, currPos=847, millis=753135
+vel=-98.04, currPos=842, millis=753186
+vel=-19.61, currPos=841, millis=753237
+vel=-20.00, currPos=840, millis=753288
+vel=58.82, currPos=843, millis=753338
+vel=96.15, currPos=848, millis=753389
+vel=160.00, currPos=856, millis=753440
+vel=156.86, currPos=864, millis=753491
+vel=20.00, currPos=865, millis=753542
+vel=-58.82, currPos=862, millis=753593
+vel=-115.38, currPos=856, millis=753644
+vel=-120.00, currPos=850, millis=753695
+vel=-117.65, currPos=844, millis=753745
+vel=-80.00, currPos=840, millis=753796
+vel=-19.61, currPos=839, millis=753847
+vel=39.22, currPos=841, millis=753897
+vel=39.22, currPos=843, millis=753948
+vel=19.61, currPos=844, millis=753999
+vel=-19.61, currPos=843, millis=754050
+vel=-20.00, currPos=842, millis=754101
+vel=-0.87, currPos=841, millis=755256
+vel=2.12, currPos=842, millis=755727
+vel=-3.40, currPos=841, millis=756022
+vel=-5.29, currPos=840, millis=756210
+vel=6.54, currPos=841, millis=756363
+vel=-4.52, currPos=840, millis=756585
+syncOut, millis = 757017
+vel=0.54, currPos=841, millis=758446
+vel=0.81, currPos=842, millis=759689
+vel=9.52, currPos=843, millis=759794
+vel=-6.85, currPos=842, millis=759940
+vel=-15.38, currPos=841, millis=760005
+vel=20.00, currPos=842, millis=760055
+vel=-5.29, currPos=841, millis=760244
+syncOut, millis = 762017
+vel=0.23, currPos=842, millis=764504
+syncOut, millis = 767017
+END session button, millis=767064

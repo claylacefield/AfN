@@ -70,30 +70,33 @@ Changing to Sebnem experiment parameters
 
 
 /// VARIABLES TO CHANGE EXPERIMENT PARAMS
-String programName = "treadmill_hiddenRew_011717a";
-int rewBegPos = 1000;
-int rewEndPos = 2000;
-int rewDur = 500;
+String programName = "treadmill_hiddenRewMult_030817c";
 
-int isButtonStart = 1;  // this means that prog doesn't print out position data until button is pressed
+int rewDur = 60; 
+
+int isButtonStart = 0;  // this means that prog doesn't print out position data until button is pressed
 int isOperant = 1;  // animal has to lick to get reward
 int isVelRew = 0;   // reward if animal reaches a certain min velocity (in rotary clicks)
-float velThresh = 400;  // for velRew
-int velRewTimeout = 5000;
-
+float velThresh = 200;  // for velRew
+int velRewTimeout = 2000;
 
 // mult rew locations
-int numRew = 4; // number of reward zones
-int rewWidth = 300;  // width of reward zone
-int rewPosInds[] = {0,2,4,6}; // indices of reward zones (zero based)
-int rewPosArr[] = {0, 400, 800, 1200, 1600, 2000, 2400, 2800, 3200, 3600}; // possible start positions of reward zones
+int numRew = 8; // number of reward zones
+int rewWidth = 250;  // width of reward zone
+int rewPosInds[] = {0,1,2,3,4,5,6,7}; //,12}; // indices of reward zones (zero based)
+int rewPosArr[] = {200,600,1200,1750,2000,2500,3000,3500}; //, 3600}; // possible start positions of reward zones
 //int rewBegArr[15] = [
 long rewZoneStartTime = 0;
 int rewZone = 0;
 int prevRewZone = 0;
-int rewZoneOptTime = 3000;  // ms after entering rewZone animal has the option to lick for rew
-int interLickInt = 1000;
-int rewTimeout = 500;
+int rewZoneOptTime = 5000;  // ms after entering rewZone animal has the option to lick for rew
+long interLickInt = 2000;  // make really large if you want single lick choice (but might have to use 'long' var)
+int rewTimeout = 5000; // timeout for multiple reward licks within a single zone/epoch
+
+
+int rewBegPos = 1000;
+int rewEndPos = 2000;
+
 
 // Other pins
 int lickPin = 49;
@@ -163,6 +166,7 @@ long prevButtonTime = 0;
 int startSession = 0;
 
 int isRewZone = 0;
+int rewZoneSum = 0;
 
 // SETUP ///////////////////
 void setup()
@@ -201,12 +205,17 @@ void setup()
   digitalWrite(RFIDResetPin, HIGH);
 
   // Now print out some header information with behavioral program parameters
+  Serial.println("numRew=" + String(numRew)); // number of reward zones
+  Serial.println("rewWidth=" + String(rewWidth));  // width of reward zone
+  Serial.println("rewZoneOptTime=" + String(rewZoneOptTime));  // ms after entering rewZone animal has the option to lick for rew
+  Serial.println("interLickInt=" + String(interLickInt));  // make really large if you want single lick choice (but might have to use 'long' var)
+  Serial.println("rewTimeout=" + String(rewTimeout)); 
+
+  Serial.print("rewPos={");
   for (int i=0; i<numRew; i++) {
-    Serial.print(rewPosArr[rewPosInds[i]]);
-    Serial.print(", ");
+    Serial.print(String(rewPosArr[rewPosInds[i]]) + ", ");
   }
-  int rewPosInds[] = {0,2,4,6}; // indices of reward zones (zero based)
-  int rewPosArr[] = {0, 400, 800, 1200, 1600, 2000, 2400, 2800, 3200, 3600}; 
+  Serial.println("}");
 
 //  Serial.print("rewBegPos=");
 //  Serial.println(rewBegPos);
@@ -301,21 +310,34 @@ void updatePosition() {
   //    }
 
       // see if mouse is in any reward zone (but need to change so he can't go back through)
+      rewZoneSum = 0;
       for (int i=0; i<numRew; i++) { // check through all possible reward zones
+        
         if (currPos>=rewPosArr[i] && currPos<=rewPosArr[i]+rewWidth) {  // if currPos is in a rewZone
           if (prevRewZone==0 && rewZone!=i) {  // if new entry into new zone
             rewZone = i;
             rewZoneStartTime = millis();
             Serial.println("rewZone=" + String(rewZone) + ", millis=" + String(rewZoneStartTime));
-            isRewZone = 1;
-            prevRewZone = 1;
+//            isRewZone = 1;
+//            prevRewZone = 1;
+//            rewZoneSum = rewZoneSum +1;
+            //break;
           }
+          isRewZone = 1;
+          prevRewZone = 1;
+          rewZoneSum = rewZoneSum +1;
         }
-        else {  // else if not in a reward zone
+//        else {  // else if not in a reward zone
+//          isRewZone = 0;
+//          prevRewZone = 0;
+//          
+//        }
+      }
+
+      if (rewZoneSum == 0) {  // else if not in any reward zone
           isRewZone = 0;
           prevRewZone = 0;
           
-        }
       }
   
       if (isVelRew == 0 && isRewZone == 1) {    // currPos >= rewBegPos && currPos <= rewEndPos) {
@@ -332,11 +354,13 @@ void updatePosition() {
 //        }
 
         digitalWrite(ledPin, HIGH);
+        //Serial.println("reward ON: " + String(millis()));
   //      delay(1000);
   //      digitalWrite(ledPin, LOW);
       }  // end IF in rewZone
       else {
         digitalWrite(ledPin, LOW);
+        //Serial.println("reward OFF: " + String(millis()));
         //prevRew = 0;  // reset reward if not in rew zone
         isRewZone = 0;
       }
