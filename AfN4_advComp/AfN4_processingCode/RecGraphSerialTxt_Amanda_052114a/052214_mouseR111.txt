@@ -1,0 +1,1053 @@
+052214_mouseR112
+START time
+14:45
+Program name:
+om4_2pCatchSkipRandRewDelay_040214a.pde
+Notes:
+using subfunctions, random reward and cue/reward skipping, random rew/pun switch some trials
+rewarded direction = (1=top, 2=bot)
+2
+rewarded stimulus frequency = 
+60
+contigTrial = 
+3
+reward amount/duration =
+50
+stimDur =
+3000
+ITI =
+2000
+drinkDur =
+3000
+cueToneOn =
+0
+rewPunSwitch =
+2
+rewToneSkip =
+5
+rewSolSkip =
+5
+punToneSkip =
+2
+randRew =
+2
+rewDelay =
+500
+Session START
+BEGIN DATA
+Session START
+17320
+stim trigger (bottom/rewarded)
+18371
+stim trigger (bottom/rewarded)
+23482
+stim trigger (bottom/rewarded)
+28591
+stim trigger (catch trial)
+33700
+unrewarded lever press
+34080
+stim trigger (catch trial)
+44137
+unrewarded lever press
+44426
+stim trigger (bottom/rewarded)
+54486
+REWARD!!!
+55570
+stim trigger (catch trial)
+60740
+random reward!!!
+65800
+stim trigger (catch trial)
+68911
+stim trigger (catch trial)
+74020
+STOP session
+78420
+Session START
+80636
+stim trigger (bottom/rewarded)
+81687
+REWARD!!!
+82706
+stim trigger (bottom/rewarded)
+88375
+stim trigger (catch trial)
+93484
+stim trigger (bottom/rewarded)
+98593
+rew>pun switch
+99003
+unrewarded lever press
+99053
+stim trigger (bottom/rewarded)
+109111
+REWARD!!!
+109828
+stim trigger (bottom/rewarded)
+115250
+REWARD!!!
+115803
+stim trigger (catch trial)
+121473
+unrewarded lever press
+122667
+stim trigger (bottom/rewarded)
+132724
+REWARD!!!
+134476
+reward solenoid skip
+134477
+stim trigger (bottom/rewarded)
+139587
+stim trigger (catch trial)
+144695
+stim trigger (bottom/rewarded)
+149804
+stim trigger (bottom/rewarded)
+154913
+REWARD!!!
+156533
+stim trigger (bottom/rewarded)
+162203
+stim trigger (catch trial)
+167311
+stim trigger (bottom/rewarded)
+172420
+REWARD!!!
+173158
+stim trigger (catch trial)
+178578
+unrewarded lever press
+178750
+stim trigger (catch trial)
+188809
+stim trigger (bottom/rewarded)
+193917
+REWARD!!!
+194321
+stim trigger (catch trial)
+199491
+stim trigger (catch trial)
+204599
+stim trigger (catch trial)
+209708
+stim trigger (bottom/rewarded)
+214817
+REWARD!!!
+215229
+stim trigger (bottom/rewarded)
+220649
+REWARD!!!
+220917
+reward solenoid skip
+220918
+stim trigger (catch trial)
+226027
+stim trigger (bottom/rewarded)
+231135
+stim trigger (bottom/rewarded)
+236243
+stim trigger (bottom/rewarded)
+241351
+stim trigger (catch trial)
+246461
+stim trigger (catch trial)
+251570
+stim trigger (bottom/rewarded)
+256679
+REWARD!!!
+257165
+stim trigger (bottom/rewarded)
+262336
+stim trigger (bottom/rewarded)
+267444
+stim trigger (catch trial)
+272552
+stim trigger (catch trial)
+277660
+stim trigger (catch trial)
+282768
+random reward!!!
+287826
+stim trigger (bottom/rewarded)
+290937
+REWARD!!!
+291291
+stim trigger (bottom/rewarded)
+296711
+REWARD!!!
+296980
+stim trigger (catch trial)
+302650
+unrewarded lever press
+304781
+stim trigger (bottom/rewarded)
+314842
+REWARD!!!
+315139
+stim trigger (bottom/rewarded)
+320559
+REWARD!!!
+320887
+stim trigger (bottom/rewarded)
+326306
+REWARD!!!
+326637
+stim trigger (catch trial)
+332306
+stim trigger (catch trial)
+337415
+stim trigger (catch trial)
+342523
+stim trigger (bottom/rewarded)
+347631
+stim trigger (bottom/rewarded)
+352741
+stim trigger (bottom/rewarded)
+357850
+stim trigger (catch trial)
+362959
+stim trigger (catch trial)
+368067
+stim trigger (bottom/rewarded)
+373175
+stim trigger (bottom/rewarded)
+378284
+REWARD!!!
+378718
+stim trigger (bottom/rewarded)
+384137
+REWARD!!!
+384649
+reward tone skip
+384650
+stim trigger (catch trial)
+390319
+stim trigger (catch trial)
+395428
+stim trigger (catch trial)
+400536
+stim trigger (bottom/rewarded)
+405644
+REWARD!!!
+406040
+stim trigger (bottom/rewarded)
+411460
+REWARD!!!
+411790
+stim trigger (bottom/rewarded)
+416960
+REWARD!!!
+417236
+stim trigger (catch trial)
+422657
+unrewarded lever press
+422917
+stim trigger (bottom/rewarded)
+432973
+REWARD!!!
+433335
+stim trigger (catch trial)
+438504
+stim trigger (bottom/rewarded)
+443613
+REWARD!!!
+443877
+stim trigger (catch trial)
+449546
+unrewarded lever press
+451799
+stim trigger (catch trial)
+461857
+stim trigger (bottom/rewarded)
+466965
+REWARD!!!
+467254
+stim trigger (bottom/rewarded)
+472674
+REWARD!!!
+472883
+stim trigger (bottom/rewarded)
+478554
+REWARD!!!
+478814
+stim trigger (catch trial)
+484484
+stim trigger (catch trial)
+489592
+unrewarded lever press
+492017
+stim trigger (catch trial)
+502074
+stim trigger (bottom/rewarded)
+507183
+REWARD!!!
+507529
+stim trigger (catch trial)
+512698
+stim trigger (bottom/rewarded)
+517807
+stim trigger (catch trial)
+522916
+stim trigger (catch trial)
+528024
+stim trigger (bottom/rewarded)
+533132
+stim trigger (bottom/rewarded)
+538241
+stim trigger (bottom/rewarded)
+543349
+REWARD!!!
+543612
+stim trigger (catch trial)
+548783
+stim trigger (bottom/rewarded)
+553892
+REWARD!!!
+554155
+stim trigger (bottom/rewarded)
+559325
+REWARD!!!
+559602
+stim trigger (bottom/rewarded)
+564772
+REWARD!!!
+565050
+stim trigger (catch trial)
+570219
+unrewarded lever press
+572912
+stim trigger (bottom/rewarded)
+582970
+REWARD!!!
+583272
+stim trigger (bottom/rewarded)
+588693
+REWARD!!!
+588961
+reward tone skip
+588962
+stim trigger (bottom/rewarded)
+594131
+REWARD!!!
+594349
+stim trigger (catch trial)
+599519
+unrewarded lever press
+601666
+stim trigger (bottom/rewarded)
+611724
+REWARD!!!
+612027
+stim trigger (catch trial)
+617196
+stim trigger (catch trial)
+622306
+unrewarded lever press
+622443
+stim trigger (catch trial)
+632503
+unrewarded lever press
+632666
+stim trigger (bottom/rewarded)
+642724
+REWARD!!!
+643026
+stim trigger (bottom/rewarded)
+648696
+REWARD!!!
+649019
+stim trigger (bottom/rewarded)
+654687
+REWARD!!!
+654951
+stim trigger (catch trial)
+660370
+unrewarded lever press
+661298
+stim trigger (bottom/rewarded)
+671357
+REWARD!!!
+671718
+reward tone skip
+671719
+stim trigger (bottom/rewarded)
+677138
+REWARD!!!
+677408
+stim trigger (bottom/rewarded)
+682828
+REWARD!!!
+683158
+stim trigger (catch trial)
+688579
+random reward!!!
+693637
+stim trigger (bottom/rewarded)
+696748
+REWARD!!!
+696936
+stim trigger (catch trial)
+702357
+unrewarded lever press
+702705
+stim trigger (bottom/rewarded)
+712762
+REWARD!!!
+713001
+stim trigger (catch trial)
+718173
+unrewarded lever press
+718559
+stim trigger (bottom/rewarded)
+728619
+REWARD!!!
+728977
+stim trigger (catch trial)
+734647
+stim trigger (bottom/rewarded)
+739756
+REWARD!!!
+740000
+stim trigger (bottom/rewarded)
+745670
+rew>pun switch
+745930
+unrewarded lever press
+745980
+punishment tone skip
+745992
+stim trigger (bottom/rewarded)
+751101
+REWARD!!!
+751436
+reward tone skip
+751437
+stim trigger (catch trial)
+757106
+stim trigger (catch trial)
+762216
+stim trigger (bottom/rewarded)
+767325
+REWARD!!!
+767613
+stim trigger (catch trial)
+773032
+unrewarded lever press
+773230
+stim trigger (bottom/rewarded)
+783287
+REWARD!!!
+783523
+reward solenoid skip
+783525
+stim trigger (bottom/rewarded)
+788635
+REWARD!!!
+788910
+stim trigger (bottom/rewarded)
+794079
+REWARD!!!
+794355
+stim trigger (catch trial)
+799774
+stim trigger (catch trial)
+804882
+stim trigger (bottom/rewarded)
+809991
+REWARD!!!
+810290
+stim trigger (catch trial)
+815962
+stim trigger (catch trial)
+821071
+unrewarded lever press
+822091
+stim trigger (catch trial)
+832149
+stim trigger (bottom/rewarded)
+837257
+REWARD!!!
+837604
+stim trigger (catch trial)
+843023
+stim trigger (catch trial)
+848132
+stim trigger (bottom/rewarded)
+853240
+REWARD!!!
+853540
+stim trigger (bottom/rewarded)
+858710
+REWARD!!!
+859045
+stim trigger (bottom/rewarded)
+864466
+REWARD!!!
+864733
+stim trigger (catch trial)
+870152
+stim trigger (bottom/rewarded)
+875261
+REWARD!!!
+875509
+stim trigger (bottom/rewarded)
+880679
+REWARD!!!
+880956
+stim trigger (bottom/rewarded)
+886376
+REWARD!!!
+886644
+stim trigger (catch trial)
+891813
+stim trigger (bottom/rewarded)
+896921
+REWARD!!!
+897246
+stim trigger (catch trial)
+902665
+unrewarded lever press
+905047
+stim trigger (bottom/rewarded)
+915105
+REWARD!!!
+915404
+stim trigger (catch trial)
+921073
+stim trigger (catch trial)
+926181
+stim trigger (catch trial)
+931290
+stim trigger (bottom/rewarded)
+936399
+REWARD!!!
+936678
+stim trigger (bottom/rewarded)
+942348
+REWARD!!!
+942667
+reward solenoid skip
+942668
+stim trigger (bottom/rewarded)
+947777
+REWARD!!!
+948054
+stim trigger (catch trial)
+953722
+unrewarded lever press
+956520
+stim trigger (bottom/rewarded)
+966580
+REWARD!!!
+966875
+stim trigger (bottom/rewarded)
+972044
+REWARD!!!
+972318
+stim trigger (bottom/rewarded)
+977988
+stim trigger (catch trial)
+983098
+stim trigger (catch trial)
+988207
+unrewarded lever press
+989089
+stim trigger (catch trial)
+999147
+pun>rew switch
+1001382
+REWARD!!!
+1001383
+stim trigger (bottom/rewarded)
+1007052
+REWARD!!!
+1007371
+stim trigger (catch trial)
+1013042
+stim trigger (catch trial)
+1018151
+stim trigger (bottom/rewarded)
+1023259
+REWARD!!!
+1023546
+stim trigger (catch trial)
+1029215
+stim trigger (bottom/rewarded)
+1034323
+REWARD!!!
+1034568
+stim trigger (bottom/rewarded)
+1040238
+REWARD!!!
+1040497
+stim trigger (bottom/rewarded)
+1045666
+REWARD!!!
+1045942
+stim trigger (catch trial)
+1051613
+random reward!!!
+1056672
+random reward solenoid skip
+1056673
+stim trigger (catch trial)
+1059724
+stim trigger (bottom/rewarded)
+1064834
+REWARD!!!
+1065142
+stim trigger (catch trial)
+1070312
+unrewarded lever press
+1070698
+stim trigger (catch trial)
+1080756
+stim trigger (bottom/rewarded)
+1085864
+stim trigger (catch trial)
+1090972
+stim trigger (bottom/rewarded)
+1096080
+REWARD!!!
+1096396
+stim trigger (bottom/rewarded)
+1101565
+REWARD!!!
+1101842
+stim trigger (bottom/rewarded)
+1107262
+REWARD!!!
+1107528
+stim trigger (catch trial)
+1112698
+stim trigger (catch trial)
+1117806
+unrewarded lever press
+1119148
+stim trigger (bottom/rewarded)
+1129204
+REWARD!!!
+1129501
+stim trigger (bottom/rewarded)
+1134921
+REWARD!!!
+1135187
+stim trigger (bottom/rewarded)
+1140359
+REWARD!!!
+1140633
+stim trigger (catch trial)
+1146302
+unrewarded lever press
+1146551
+stim trigger (bottom/rewarded)
+1156610
+REWARD!!!
+1156905
+stim trigger (bottom/rewarded)
+1162077
+REWARD!!!
+1162349
+stim trigger (bottom/rewarded)
+1168019
+REWARD!!!
+1168278
+stim trigger (catch trial)
+1173447
+stim trigger (catch trial)
+1178557
+stim trigger (catch trial)
+1183666
+stim trigger (bottom/rewarded)
+1188775
+REWARD!!!
+1189061
+stim trigger (bottom/rewarded)
+1194481
+REWARD!!!
+1194748
+stim trigger (catch trial)
+1200418
+stim trigger (bottom/rewarded)
+1205526
+REWARD!!!
+1206072
+stim trigger (bottom/rewarded)
+1211490
+REWARD!!!
+1211817
+stim trigger (bottom/rewarded)
+1217487
+REWARD!!!
+1217747
+stim trigger (catch trial)
+1223169
+stim trigger (bottom/rewarded)
+1228277
+REWARD!!!
+1228527
+stim trigger (catch trial)
+1234197
+unrewarded lever press
+1237052
+stim trigger (catch trial)
+1247111
+stim trigger (catch trial)
+1252219
+stim trigger (bottom/rewarded)
+1257327
+REWARD!!!
+1257593
+stim trigger (bottom/rewarded)
+1263262
+REWARD!!!
+1263522
+reward solenoid skip
+1263523
+stim trigger (bottom/rewarded)
+1268632
+REWARD!!!
+1268845
+stim trigger (catch trial)
+1274514
+unrewarded lever press
+1275066
+stim trigger (bottom/rewarded)
+1285125
+REWARD!!!
+1285420
+stim trigger (catch trial)
+1291090
+stim trigger (bottom/rewarded)
+1296198
+REWARD!!!
+1296440
+stim trigger (catch trial)
+1301609
+stim trigger (bottom/rewarded)
+1306719
+REWARD!!!
+1306977
+stim trigger (bottom/rewarded)
+1312147
+REWARD!!!
+1312419
+stim trigger (catch trial)
+1318089
+stim trigger (bottom/rewarded)
+1323197
+REWARD!!!
+1323622
+stim trigger (catch trial)
+1329290
+stim trigger (catch trial)
+1334398
+stim trigger (bottom/rewarded)
+1339506
+REWARD!!!
+1339735
+stim trigger (bottom/rewarded)
+1344904
+REWARD!!!
+1345178
+stim trigger (catch trial)
+1350598
+unrewarded lever press
+1351459
+stim trigger (bottom/rewarded)
+1361518
+REWARD!!!
+1361812
+stim trigger (catch trial)
+1366982
+stim trigger (bottom/rewarded)
+1372090
+REWARD!!!
+1372348
+stim trigger (bottom/rewarded)
+1377768
+REWARD!!!
+1378034
+stim trigger (bottom/rewarded)
+1383204
+REWARD!!!
+1383479
+stim trigger (catch trial)
+1388648
+stim trigger (bottom/rewarded)
+1393757
+REWARD!!!
+1394016
+stim trigger (catch trial)
+1399436
+unrewarded lever press
+1399631
+stim trigger (catch trial)
+1409689
+unrewarded lever press
+1410278
+stim trigger (bottom/rewarded)
+1420338
+REWARD!!!
+1420631
+stim trigger (bottom/rewarded)
+1426052
+REWARD!!!
+1426318
+stim trigger (bottom/rewarded)
+1431488
+REWARD!!!
+1431761
+stim trigger (catch trial)
+1437181
+stim trigger (catch trial)
+1442289
+unrewarded lever press
+1443682
+stim trigger (bottom/rewarded)
+1453740
+REWARD!!!
+1453975
+stim trigger (bottom/rewarded)
+1459645
+rew>pun switch
+1459904
+unrewarded lever press
+1459954
+stim trigger (bottom/rewarded)
+1470013
+rew>pun switch
+1470247
+unrewarded lever press
+1470299
+stim trigger (catch trial)
+1480356
+stim trigger (catch trial)
+1485464
+stim trigger (catch trial)
+1490572
+stim trigger (bottom/rewarded)
+1495681
+REWARD!!!
+1495990
+reward solenoid skip
+1495992
+stim trigger (bottom/rewarded)
+1501103
+REWARD!!!
+1501434
+stim trigger (bottom/rewarded)
+1507105
+REWARD!!!
+1507363
+stim trigger (catch trial)
+1513033
+stim trigger (catch trial)
+1518141
+stim trigger (bottom/rewarded)
+1523250
+REWARD!!!
+1523537
+reward solenoid skip
+1523538
+stim trigger (catch trial)
+1528647
+stim trigger (catch trial)
+1533757
+stim trigger (bottom/rewarded)
+1538866
+REWARD!!!
+1539107
+stim trigger (bottom/rewarded)
+1544777
+REWARD!!!
+1545580
+stim trigger (bottom/rewarded)
+1550750
+REWARD!!!
+1551024
+stim trigger (catch trial)
+1556694
+stim trigger (catch trial)
+1561801
+stim trigger (bottom/rewarded)
+1566909
+rew>pun switch
+1567257
+unrewarded lever press
+1567308
+stim trigger (bottom/rewarded)
+1577365
+REWARD!!!
+1577722
+stim trigger (bottom/rewarded)
+1583141
+REWARD!!!
+1583408
+reward solenoid skip
+1583409
+random reward!!!
+1588469
+stim trigger (catch trial)
+1591580
+stim trigger (catch trial)
+1596690
+stim trigger (catch trial)
+1601799
+stim trigger (bottom/rewarded)
+1606907
+REWARD!!!
+1607220
+stim trigger (bottom/rewarded)
+1612890
+REWARD!!!
+1613148
+stim trigger (bottom/rewarded)
+1618818
+REWARD!!!
+1619015
+stim trigger (catch trial)
+1624686
+stim trigger (bottom/rewarded)
+1629794
+REWARD!!!
+1630032
+stim trigger (bottom/rewarded)
+1635453
+REWARD!!!
+1635720
+stim trigger (bottom/rewarded)
+1641140
+REWARD!!!
+1641408
+stim trigger (catch trial)
+1646577
+stim trigger (catch trial)
+1651685
+stim trigger (catch trial)
+1656794
+unrewarded lever press
+1658301
+stim trigger (bottom/rewarded)
+1668360
+REWARD!!!
+1668717
+stim trigger (bottom/rewarded)
+1674136
+REWARD!!!
+1674403
+stim trigger (bottom/rewarded)
+1679823
+REWARD!!!
+1680091
+stim trigger (catch trial)
+1685511
+unrewarded lever press
+1685768
+stim trigger (bottom/rewarded)
+1695826
+REWARD!!!
+1696122
+stim trigger (bottom/rewarded)
+1701295
+REWARD!!!
+1701568
+stim trigger (catch trial)
+1706987
+stim trigger (bottom/rewarded)
+1712095
+REWARD!!!
+1712349
+stim trigger (bottom/rewarded)
+1717769
+REWARD!!!
+1718035
+stim trigger (bottom/rewarded)
+1723706
+REWARD!!!
+1723963
+stim trigger (catch trial)
+1729132
+stim trigger (bottom/rewarded)
+1734242
+REWARD!!!
+1734429
+stim trigger (bottom/rewarded)
+1740099
+REWARD!!!
+1740367
+stim trigger (bottom/rewarded)
+1745787
+REWARD!!!
+1746054
+stim trigger (catch trial)
+1751474
+stim trigger (catch trial)
+1756583
+stim trigger (bottom/rewarded)
+1761691
+REWARD!!!
+1761982
+stim trigger (catch trial)
+1767151
+unrewarded lever press
+1767781
+stim trigger (catch trial)
+1777842
+unrewarded lever press
+1780306
+stim trigger (bottom/rewarded)
+1790364
+REWARD!!!
+1790601
+stim trigger (catch trial)
+1795770
+stim trigger (bottom/rewarded)
+1800879
+REWARD!!!
+1801140
+stim trigger (catch trial)
+1806309
+stim trigger (catch trial)
+1811418
+stim trigger (catch trial)
+1816527
+stim trigger (bottom/rewarded)
+1821635
+REWARD!!!
+1821926
+stim trigger (bottom/rewarded)
+1827096
+REWARD!!!
+1827371
+stim trigger (bottom/rewarded)
+1832791
+REWARD!!!
+1833058
+stim trigger (catch trial)
+1838727
+unrewarded lever press
+1841037
+stim trigger (bottom/rewarded)
+1851098
+REWARD!!!
+1851392
+stim trigger (catch trial)
+1856811
+stim trigger (catch trial)
+1861918
+stim trigger (bottom/rewarded)
+1867026
+stim trigger (catch trial)
+1872135
+stim trigger (bottom/rewarded)
+1877243
+stim trigger (bottom/rewarded)
+1882351
+REWARD!!!
+1885211
+stim trigger (bottom/rewarded)
+1890631
